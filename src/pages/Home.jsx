@@ -502,40 +502,40 @@ const Home = () => {
                         {/* INTEGRATED ICONS */}
                         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 text-center pt-6 w-full">
                             <div className="reveal-item flex flex-col items-center group text-center">
-                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-2.5 transition-all duration-500 transform group-hover:scale-105">
+                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105">
                                     <Sello name="sin-quimicos" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-1">
-                                    <h3 className="font-serif text-[15px] md:text-base lg:text-lg text-chocolate/90 leading-[1.1]">{t('bienestar.icon1Title')}</h3>
+                                <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
+                                    <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon1Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon1Tag')}</p>
+                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon1Tag')}</p>
                             </div>
                             <div className="reveal-item flex flex-col items-center group text-center">
-                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "50ms"}}>
+                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "50ms"}}>
                                     <Sello name="botanica" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-1">
-                                    <h3 className="font-serif text-[15px] md:text-base lg:text-lg text-chocolate/90 leading-[1.1]">{t('bienestar.icon2Title')}</h3>
+                                <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
+                                    <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon2Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon2Tag')}</p>
+                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon2Tag')}</p>
                             </div>
                             <div className="reveal-item flex flex-col items-center group text-center">
-                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "100ms"}}>
+                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "100ms"}}>
                                     <Sello name="agua-biopolar" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-1">
-                                    <h3 className="font-serif text-[15px] md:text-base lg:text-lg text-chocolate/90 leading-[1.1]">{t('bienestar.icon3Title')}</h3>
+                                <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
+                                    <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon3Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon3Tag')}</p>
+                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon3Tag')}</p>
                             </div>
                             <div className="reveal-item flex flex-col items-center group text-center">
-                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "150ms"}}>
+                                <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "150ms"}}>
                                     <Sello name="holistico" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-1">
-                                    <h3 className="font-serif text-[15px] md:text-base lg:text-lg text-chocolate/90 leading-[1.1]">{t('bienestar.icon4Title')}</h3>
+                                <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
+                                    <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon4Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon4Tag')}</p>
+                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon4Tag')}</p>
                             </div>
                         </div>
                     </div>
@@ -567,8 +567,8 @@ const Home = () => {
                                     
                                     {/* Title Tag Overlay */}
                                     <div className="absolute top-4 left-4 md:top-6 md:left-6 flex justify-start">
-                                        <div className="bg-accent-aqua/15 backdrop-blur-xl px-4 py-2 md:px-5 md:py-3 rounded-xl md:rounded-2xl border border-accent-aqua/30 shadow-sm transition-all duration-700 group-hover:bg-accent-aqua/25 group-hover:scale-105 group-hover:shadow-xl">
-                                            <h3 className="font-serif text-[11px] sm:text-xs md:text-base lg:text-lg text-accent-aqua uppercase tracking-[0.15em] leading-tight">{service.title}</h3>
+                                        <div className="featured-service-tag backdrop-blur-md px-4 py-2 md:px-5 md:py-3 rounded-xl md:rounded-2xl border shadow-sm">
+                                            <h3 className="font-serif text-[11px] sm:text-xs md:text-base lg:text-lg uppercase tracking-[0.15em] leading-tight">{service.title}</h3>
                                         </div>
                                     </div>
                                 </div>

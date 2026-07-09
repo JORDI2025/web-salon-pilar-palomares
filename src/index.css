@@ -342,3 +342,24 @@
 @media (prefers-reduced-motion: reduce) {
   .marquee__track { animation-duration: 120s !important; }
 }
+
+/* === FEATURED SERVICES TAG OVERLAY === */
+.featured-service-tag {
+  background-color: rgba(60, 47, 47, 0.9) !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+  transition: all 700ms cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+.featured-service-tag h3 {
+  color: #F4F1EA !important;
+  transition: color 700ms cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.group:hover .featured-service-tag {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border-color: rgba(60, 47, 47, 0.1) !important;
+  transform: scale(1.05) !important;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1) !important;
+}
+.group:hover .featured-service-tag h3 {
+  color: #3C2F2F !important;
+}
