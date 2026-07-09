@@ -1,0 +1,120 @@
+{
+  "seo": {
+    "title": "Estética & Maderoterapia",
+    "description": "Estética integrativa, rituales de belleza y maderoterapia corporal en Torre de Benagalbón. Cuidado facial, corporal y de mirada natural."
+  },
+  "hero": {
+    "eyebrow": "Belleza que Respira",
+    "title1": "Estética",
+    "title2": "Integrativa",
+    "text": "Rituales que honran los ciclos de tu piel y la armonía de tu cuerpo.",
+    "imgAlt": "Rituales de Estética Integrativa y Maderoterapia en Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "intro": {
+    "eyebrow": "Nuestra Visión",
+    "title": "El Arte del Cuidado Holístico",
+    "desc": "En Pilar Palomares, entendemos la estética no como un fin, sino como un proceso de salud. No buscamos ocultar, sino revelar la belleza que emana de un cuerpo equilibrado y una piel oxigenada. Nuestros tratamientos faciales y corporales fusionan la maderoterapia ancestral con la biotecnología del Agua Biopolar™.",
+    "card1Title": "Piel Protegida",
+    "card1Desc": "Respetamos al 100% tu barrera hidrolipídica natural.",
+    "card2Title": "Flujo Activo",
+    "card2Desc": "Estimulamos el sistema linfático y circulatorio.",
+    "imgAlt": "Cuidado facial orgánico y bioterapia de estética natural en Salón Pilar Palomares"
+  },
+  "mirada": {
+    "eyebrow": "Mirada Intensa · Armonía Facial",
+    "title": "Diseño de la Mirada",
+    "desc": "Realzamos tu belleza natural a través del estudio y diseño personalizado de cejas y pestañas, esculpiendo un marco perfecto para tu mirada.",
+    "imgAlt": "Diseño de cejas y pestañas en Salón Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "items": {
+      "cejas": {
+        "name": "Diseño de Cejas",
+        "desc": "Estudio morfológico y diseño de cejas adaptado a tus facciones. Incluye depilación (con cera o pinzas) y la definición mediante tinte o color de cejas."
+      },
+      "lifting": {
+        "name": "Lifting de Pestañas",
+        "desc": "Tratamiento de elevación y curvatura de pestañas naturales desde la raíz. Incluye tinte de pestañas para intensificar su color, o el servicio individual de color de pestañas."
+      },
+      "extensiones": {
+        "name": "Extensiones",
+        "desc": "Aplicación de pestañas individuales de forma minuciosa. Su función es aumentar la cantidad y densidad de las pestañas para intensificar la mirada y agrandar los ojos."
+      },
+      "micropigmentacion": {
+        "name": "Micropigmentación",
+        "desc": "Técnica de maquillaje semipermanente pelo a pelo para cejas. Rellena huecos, define la forma y aporta simetría logrando un marco perfecto y de aspecto natural."
+      }
+    }
+  },
+  "depilacion": {
+    "eyebrow": "Cuidado y Armonía Diario",
+    "title": "Depilación & Maquillaje",
+    "desc": "Ofrecemos servicios esenciales de depilación y maquillaje profesional diseñados para mimar tu piel y potenciar la armonía de tus rasgos naturales.",
+    "depilacionTitle": "Depilación",
+    "depilacionDesc": "Depilación facial o corporal. Servicio adaptado tanto para mujer como para hombre.",
+    "maquillajeTitle": "Maquillaje",
+    "maquillajeDesc": "Realzamos los rasgos faciales y disimulamos los defectos para conseguir una mayor armonía.",
+    "imgAlt": "Maquillaje profesional en Salón Pilar Palomares, Torre de Benagalbón"
+  },
+  "faciales": {
+    "title": "Rituales Faciales",
+    "eyebrow": "Biotecnología Celular para tu Rostro",
+    "priceLabel": "Desde 65€",
+    "viewBtn": "Ver tratamiento",
+    "items": {
+      "sensitiva": {
+        "name": "Bioterapia Sensitiva",
+        "desc": "Calma y restaura el equilibrio en pieles reactivas."
+      },
+      "iluminante": {
+        "name": "Bioterapia Iluminante",
+        "desc": "Aporta luz y unifica el tono combatiendo manchas."
+      },
+      "antiaging": {
+        "name": "Bioterapia Antiaging",
+        "desc": "Reestructuración profunda para suavizar líneas de expresión."
+      },
+      "detox": {
+        "name": "Bioterapia Detox",
+        "desc": "Purificación intensa para pieles grasas o congestionadas."
+      }
+    }
+  },
+  "manosPies": {
+    "eyebrow": "Detalles que Importan",
+    "title": "Manos, Pies & Masajes",
+    "desc": "Tus extremidades son los puntos de descarga de tus canales de energía y tu cuerpo acumula las tensiones cotidianas. Tratarlas con bioterapias de manos y pies o masajes de bienestar corporal drena, oxigena y relaja tu organismo, proporcionando una ligereza absoluta y calma profunda.",
+    "manos": {
+      "label": "Embellecimiento & Nutrición",
+      "title": "Bioterapia de Manos",
+      "desc": "Manicura completa: este tratamiento de embellecimiento te ayudará a cuidar manos y uñas, exfoliando y nutriendo la piel para tratar las alteraciones y devolverle su suavidad natural.",
+      "imgAlt": "Bioterapia de Manos en Salón Pilar Palomares"
+    },
+    "pies": {
+      "label": "Ligereza & Cuidado Integral",
+      "title": "Bioterapia de Pies",
+      "desc": "Pedicura completa: este tratamiento integral te ayudará a exfoliar los pies y cuidar las uñas, eliminando las durezas y manteniendo tu piel libre de imperfecciones.",
+      "imgAlt": "Bioterapia de Pies en Salón Pilar Palomares"
+    },
+    "masajes": {
+      "label": "Desconexión & Calma Profunda",
+      "title": "Masajes",
+      "desc": "Bienestar corporal: este tratamiento te ayudará a aliviar la tensión muscular, mejorar la circulación y reducir el estrés, liberando tensiones acumuladas en cuerpo y mente.",
+      "imgAlt": "Masaje corporal relajante en Salón Pilar Palomares"
+    }
+  },
+  "madero": {
+    "eyebrow": "Modelado Ancestral",
+    "title": "Maderoterapia",
+    "quote": "\"El poder del noble material de la madera aplicado con maestría para canalizar la energía y remodelar tu figura.\"",
+    "desc": "La maderoterapia consiste en la aplicación de un masaje mediante el empleo de diversos utensilios de madera, de diferentes tamaños y formas, especialmente diseñados para adaptarse a la anatomía del cuerpo. Ayuda a reafirmar, tonificar y combatir la celulitis de forma no invasiva.",
+    "corporalTitle": "Maderoterapia Corporal",
+    "corporalDesc": "Modelado profundo mediante herramientas de madera que estimulan la eliminación de toxinas y reducen el volumen. Se puede combinar con la bioterapia Sculptor.",
+    "imgAlt": "Sesión profesional de Maderoterapia en la Axarquía"
+  },
+  "cta": {
+    "eyebrow": "Inicia tu Ritual",
+    "title": "Regálate un Momento de Belleza Real",
+    "desc": "Siéntete libre de consultarnos cualquier duda. Estamos aquí para guiarte hacia tu mejor versión con tratamientos que respetan tu esencia.",
+    "btnReserva": "Reservar mi Cita",
+    "btnContacto": "Contactar con Pilar"
+  }
+}

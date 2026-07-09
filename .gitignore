@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Unused / Temporary / Raw Asset Directories
+/.agents/
+/.claude/
+/FUENTES WEB/
+/SERVICIOS/
+/assets_logos/
+/backups/
+/projects/
+/reel/
+/scratch/
+/stitch_organic_salon_home_v2_earthy/
+/video/
+/videos/
+/images/
+
+# Temporary / Note Files in Root
+*.txt
+*.md
+!README.md

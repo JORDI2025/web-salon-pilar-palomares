@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Organic Facial Biotherapy",
+    "description": "Organic facial treatments and biotherapies with Biopolar Water by Secretos del Agua in Torre de Benagalbón. Natural skincare."
+  },
+  "hero": {
+    "back": "All Biotherapies",
+    "title1": "Facial",
+    "title2": "Biotherapy",
+    "text": "An integrative approach to beauty where your skin's health is restored through the botanical science of Secretos del Agua.",
+    "cta": "Request a Diagnosis",
+    "imgAlt": "Integrative advanced facial biotherapy treatments at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, near Añoreta, Chilches and Málaga"
+  },
+  "intro": {
+    "eyebrow": "Botanical Science",
+    "text1": "Our facial biotherapy is not a conventional cleansing treatment. It is a therapeutic system that uses ",
+    "strong": "Biopolar Water™",
+    "text2": " to transmit cellular and botanical information, allowing the skin to recover its balance, hydration and luminosity from within.",
+    "title1": "Health",
+    "title2": "and Beauty"
+  },
+  "protocols": {
+    "eyebrow": "Facial Protocols",
+    "title1": "Facial",
+    "title2": "Biotherapy",
+    "imgAltMobile": "Advanced facial biotherapy session with botanical actives at Salón Pilar Palomares",
+    "imgAltDesktop": "Facial biotherapy session with botanical actives at the organic hair salon Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "quote": "\"We restore your skin's architecture while respecting its biological rhythms.\"",
+    "card": "\"We enhance every treatment with facial wood therapy and quartz crystals, reactivating circulation and natural collagen for an immediate biological lifting effect.\""
+  },
+  "list": {
+    "eyebrow": "Personalised Treatments",
+    "text": "Discover our facial biotherapies, a selection of rituals designed to restore your skin's balance and vitality:",
+    "title1": "Facial",
+    "title2": "Biotherapies"
+  },
+  "tabs": {
+    "description": "Description",
+    "benefits": "Benefits",
+    "ideal": "For You",
+    "actives": "Actives"
+  },
+  "slideshow": {
+    "prev": "View previous image",
+    "next": "View next image"
+  },
+  "treatments": {
+    "sensitiva": {
+      "title": "Sensitive Biotherapy",
+      "subtitle": "Reactive Skin · Calm and Protection",
+      "summary": "A biological therapy designed to restore balance to the most delicate and reactive skin.",
+      "tabs": {
+        "description": "A calming ritual that strengthens the skin's protective barrier, easing redness and tightness through Biopolar Water™ and botanical actives such as calendula and cornflower.",
+        "benefits": "• Instantly soothes irritation.\n• Reinforces natural hydration.\n• Reduces skin reactivity.\n• Brings softness and comfort.",
+        "ideal": "• You have sensitive or reactive skin.\n• You suffer from redness or flaking.\n• Your skin feels tight after cleansing.\n• You are looking for a gentle, respectful ritual.",
+        "actives": "Calendula, Cornflower, Chamomile, Aloe Vera, Biopolar Water™."
+      }
+    },
+    "iluminante": {
+      "title": "Illuminating Biotherapy",
+      "subtitle": "Even Tone · Light and Depigmentation",
+      "summary": "Targets hyperpigmentation to restore luminosity and an even tone to the face.",
+      "tabs": {
+        "description": "An advanced treatment that regulates melanin production and refines the skin's texture. Ideal for dull skin or skin with sun and hormonal spots.",
+        "benefits": "• Softens dark spots and marks.\n• Evens out facial tone.\n• Provides instant luminosity.\n• Regenerates damaged tissue.",
+        "ideal": "• Your skin tone looks dull or uneven.\n• You have sun or age spots.\n• You want to recover your natural glow.\n• You have acne marks.",
+        "actives": "Bearberry, Liquorice, natural Vitamin C, Ginkgo Biloba."
+      }
+    },
+    "detox": {
+      "title": "Detox Biotherapy",
+      "subtitle": "Purity · Balance and Deep Cleansing",
+      "summary": "A deep biological cleanse that drains toxins and regulates excess sebum production.",
+      "tabs": {
+        "description": "A purifying ritual that cleanses the pores without aggression, balancing the pH and restoring vitality to blemish-prone skin.",
+        "benefits": "• Eliminates toxins and blackheads.\n• Regulates excess oil.\n• Tightens pores and refines texture.\n• Prevents acne breakouts.",
+        "ideal": "• You have oily or combination skin.\n• You notice enlarged pores and impurities.\n• You live in a polluted environment.\n• Your skin feels heavy or congested.",
+        "actives": "Burdock, Nettle, White Clay, Lemon, Thyme."
+      }
+    },
+    "antiaging": {
+      "title": "Anti-Aging Biotherapy",
+      "subtitle": "Restructuring · Firmness and Youth",
+      "summary": "A restructuring therapy that fights cellular ageing and restores the skin's density.",
+      "tabs": {
+        "description": "A ritual designed for skin in need of extra nourishment and firmness. It biologically stimulates collagen and elastin production, filling in wrinkles from within.",
+        "benefits": "• Biological lifting effect.\n• Fills in expression lines.\n• Improves elasticity and firmness.\n• Deeply nourishes.",
+        "ideal": "• You notice a loss of firmness along the facial contour.\n• You have wrinkles or pronounced lines.\n• You are looking for natural rejuvenation.\n• Your skin feels thin or fragile.",
+        "actives": "Resveratrol, Argan Oil, Soy, Rosehip, Shea Butter."
+      }
+    },
+    "regeneradora": {
+      "title": "Regenerating Biotherapy",
+      "subtitle": "Renewal · Hydration and Energy",
+      "summary": "An intensive biotherapy for devitalised, dry skin lacking cellular energy.",
+      "tabs": {
+        "description": "An intensely nourishing ritual that restores plumpness and volume to the face, repairing damage caused by external aggressors.",
+        "benefits": "• Long-lasting hydration.\n• Express tissue regeneration.\n• Smooths the skin's texture.\n• Restores flexibility and plumpness.",
+        "ideal": "• Your skin is very dry or dehydrated.\n• You notice a lack of vitality and freshness.\n• You have been exposed to sun or extreme cold.\n• You want supple, plump skin.",
+        "actives": "Plant-based Hyaluronic Acid, Avocado, Murumuru Butter, Seaweed."
+      }
+    }
+  }
+}

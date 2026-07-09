@@ -1,0 +1,38 @@
+{
+  "seo": {
+    "title": "Contact & Booking",
+    "description": "Contact, location, map and opening hours of Salón Pilar Palomares in Torre de Benagalbón (Málaga). Request your appointment or free diagnosis."
+  },
+  "hero": {
+    "eyebrow": "Find Us · Request Your Appointment",
+    "title": "Contact",
+    "desc": "Visit our boutique salon in Torre de Benagalbón and enjoy a unique and personalized organic beauty experience.",
+    "imgAlt": "Front facade of the organic beauty boutique salon Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "loc": {
+    "eyebrow": "Find Us",
+    "title1": "Contact",
+    "title2": "& Location"
+  },
+  "cards": {
+    "addressTitle": "Our Address",
+    "addressText": "C/ Axarquía 21, Local 3\n29738 Torre de Benagalbón\nMálaga\nSpain",
+    "phoneTitle": "Phone & WhatsApp",
+    "phoneBtn": "Send Message",
+    "emailTitle": "Email",
+    "hoursTitle": "Opening Hours",
+    "mondaySat": "Mondays and Saturdays",
+    "tueFri": "Tuesdays to Fridays"
+  },
+  "map": {
+    "btn": "Open in Google Maps",
+    "imgAlt": "Location map of Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "boutique": {
+    "desc": "Located in a quiet and welcoming environment in Torre de Benagalbón, our salon is the organic beauty haven of reference for clients from Rincón de la Victoria, Añoreta, Chilches, La Cala del Moral, Vélez-Málaga, Torre del Mar and Benajarafe. We look forward to offering you a unique wellness experience in the Axarquía region.",
+    "btn": "Request Appointment",
+    "imgAlt": "Facade of the organic beauty boutique salon of Pilar Palomares in Torre de Benagalbón",
+    "title1": "Visit our",
+    "title2": "boutique salon"
+  }
+}

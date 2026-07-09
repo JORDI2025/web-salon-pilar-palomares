@@ -1,0 +1,84 @@
+{
+  "seo": {
+    "title": "Mond- und biologisch-dynamischer Kalender",
+    "description": "Biologisch-dynamischer Mondkalender für die Haarpflege im Salón Pilar Palomares. Entdecken Sie die besten Tage für Haarschnitt und Pflege."
+  },
+  "hero": {
+    "eyebrow": "Einklang mit dem Universum",
+    "title1": "Kalender",
+    "title2": "des Kosmos",
+    "desc": "Wenn Schönheit dem Rhythmus der Natur folgt",
+    "imgAlt": "Kosmos biodynamischer Kalender: Mondrhythmen für bewusste Schönheit"
+  },
+  "agua": {
+    "eyebrow": "Natürliche Synchronität",
+    "desc": "So wie der Mond die Gezeiten steuert, beeinflusst er auch das Wasser, das 70 % unseres Körpers ausmacht. Bei Pilar Palomares nutzen wir dieses uralte Wissen, um die Wirksamkeit jeder Bioterapie zu steigern.",
+    "stat1": "Vitalität",
+    "stat2": "Energie",
+    "stat3": "Zyklen",
+    "imgAlt": "Der Rhythmus des Wassers und der Mondeinfluss: Wassernymphen unter dem Vollmond, die die kosmobiologische Verbindung darstellen",
+    "title1": "Der Rhythmus",
+    "title2": "des Wassers"
+  },
+  "julio": {
+    "eyebrow": "Zyklen und günstige Zeitfenster",
+    "introText1": "Die Natur öffnet sich im Juli vollständig und zeigt ihr ganzes Potenzial. Es ist eine Zeit für bewusstes Pflegen: Schützen und Ausgleichen gegen die Intensität von Sonne, Hitze und Belastung.",
+    "introText2": "Die Biodynamik erinnert uns an die Wichtigkeit, diesen Rhythmus aus Respekt zu unterstützen und Haut und Haar so zu begleiten, dass sie ihr Gleichgewicht, ihre Feuchtigkeit und ihre Anpassungsfähigkeit bewahren.",
+    "downloadBtn": "Juli-Kalender herunterladen",
+    "imgAlt1": "Kalender des Kosmos Juli 2026",
+    "title1": "Kalender",
+    "title2": "für Juli 2026",
+    "introTitle1": "Der Monat der Reife",
+    "introTitle2": "und des Ausdrucks"
+  },
+  "corte": {
+    "desc": "Das Haar reagiert auf die Mondzyklen. Der Juli bietet sehr präzise Zeitfenster für den Haarschnitt, je nachdem, welches Ergebnis Sie erzielen möchten: das Wachstum anregen, die Haarfaser stärken oder einfach die Spitzen sorgfältig versiegeln.",
+    "label4_6": "4. bis 6. Juli",
+    "d4_6": "Besonders günstiger Moment, um die natürliche Form der Locke zu betonen und ihre Bewegung mit Harmonie und Definition zu begleiten.",
+    "label6_8": "6. bis 8. Juli",
+    "d6_8": "Haarschnitt für alle, die das Wachstum anregen und ihrem Haar neuen Schwung verleihen möchten. Zunehmender Mond: Der Saft steigt auf.",
+    "label12_26": "12. bis 26. Juli",
+    "d12_26": "Empfohlene Zeiträume für die Haarlänge, um gesündere Spitzen und ein erneuertes Aussehen der Mähne zu fördern.",
+    "label18_22": "18. bis 22. Juli",
+    "d18_22": "Ideale Schnittphase, um die Faser zu stärken und Haarausfall entgegenzuwirken. Perfekt für alle, die Dichte und Struktur suchen.",
+    "imgAlt": "Biodynamischer Haarschnitt im Juli 2026",
+    "title1": "Der Moment",
+    "title2": "des Schneidens"
+  },
+  "color": {
+    "desc": "Der Mond beeinflusst, wie das Haar die Farbe aufnimmt und behält. Die Wahl des richtigen Tages entscheidet über eine dauerhafte oder eine verblassende Tönung. Der Juli bietet sehr spezifische Zeitfenster für optimale Färbeergebnisse.",
+    "label13_14": "13. bis 14. Juli",
+    "d13_14": "Besonders günstiger Moment für die Farbe: steigert ihre Leuchtkraft und lässt das Haar seine ganze Schönheit und Natürlichkeit widerspiegeln.",
+    "label16_18": "16. bis 18. Juli",
+    "d16_18": "Idealer Zeitraum für das Färben, um eine bessere Fixierung zu fördern und die Intensität und Haltbarkeit der Farbe zu verlängern.",
+    "label18_22": "18. bis 22. Juli",
+    "d18_22": "Günstige Tage für das Färben, um die Tiefe und den Reichtum der Nuancen zu betonen und lebendigere Töne zu erzielen.",
+    "label22_23": "22. bis 23. Juli",
+    "d22_23": "Zweites Zeitfenster mit hoher Leuchtkraft. Ideal für Balayage- oder Strähnchentechniken für natürlichen Glanz.",
+    "imgAlt": "Biodynamisches Haarfärben im Juli 2026",
+    "title1": "Farbe mit",
+    "title2": "mehr Leben"
+  },
+  "depil": {
+    "desc": "Während der Phase des abnehmenden Mondes ist die Haarentfernung besonders wirksam, um das Nachwachsen der Haare zu verzögern und eine langanhaltende Glätte in Harmonie mit dem Kosmos zu gewährleisten.",
+    "label13_14": "13. bis 14. Juli",
+    "d13_14": "Besonders günstige Phase für die biologisch-dynamische Körperhaarentfernung.",
+    "label22_23": "22. bis 23. Juli",
+    "d22_23": "Zweites ideales Zeitfenster, um die Glätte der Haut länger zu bewahren.",
+    "imgAlt": "Hautpflege und biodynamische Haarentfernung im Juli 2026",
+    "title1": "Bewusste",
+    "title2": "Haarentfernung"
+  },
+  "treat": {
+    "desc": "Haut und Körper profitieren enorm von der Synchronisation der Pflege mit den Zyklen des Kosmos. Stimmen Sie Ihre Kabinenrituale darauf ab, um Wirkstoffaufnahme und Gewebestraffung zu optimieren.",
+    "label6_8": "6. bis 8. Juli",
+    "d6_8": "Zunehmender Mond, am besten morgens. Brightening- und Detox-Behandlungen nutzen die verstärkte oberflächliche Durchblutung.",
+    "label13_22": "13. bis 22. Juli",
+    "d13_22": "Abnehmender Mond, am besten am späten Nachmittag/Abend. Optimal für Anti-Aging, Sensitive, Straffung und Dekolleté. Die Haut nimmt Wirkstoffe besser auf.",
+    "label22_26": "22. bis 26. Juli",
+    "d22_26": "Fortsetzung der abnehmenden Phase. Ideal für Lymphdrainage, müde Beine und alle straffenden Körperbehandlungen.",
+    "imgAlt": "Biodynamische Gesichts- und Körperbehandlungen",
+    "title1": "Gesichts- und Körper-",
+    "title2": "Behandlungen"
+  }
+}

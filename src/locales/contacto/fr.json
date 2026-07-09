@@ -1,0 +1,38 @@
+{
+  "seo": {
+    "title": "Contact & Réservation",
+    "description": "Contact, localisation, carte et horaires d'ouverture du Salón Pilar Palomares à Torre de Benagalbón (Málaga). Demandez votre rendez-vous ou votre diagnostic gratuit."
+  },
+  "hero": {
+    "eyebrow": "Trouvez-nous · Demander un Rendez-vous",
+    "title": "Contact",
+    "desc": "Visitez notre salon boutique à Torre de Benagalbón et profitez d'une expérience de beauté biologique unique et personnalisée.",
+    "imgAlt": "Façade avant du salon de coiffure bio et esthétique Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "loc": {
+    "eyebrow": "Trouvez-nous",
+    "title1": "Contact",
+    "title2": "& Localisation"
+  },
+  "cards": {
+    "addressTitle": "Notre Adresse",
+    "addressText": "C/ Axarquía 21, Local 3\n29738 Torre de Benagalbón\nMálaga\nEspagne",
+    "phoneTitle": "Téléphone & WhatsApp",
+    "phoneBtn": "Envoyer un message",
+    "emailTitle": "E-mail",
+    "hoursTitle": "Horaires d'Ouverture",
+    "mondaySat": "Lundis et samedis",
+    "tueFri": "Mardis aux vendredis"
+  },
+  "map": {
+    "btn": "Ouvrir dans Google Maps",
+    "imgAlt": "Carte de localisation du Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "boutique": {
+    "desc": "Situé dans un cadre calme et chaleureux à Torre de Benagalbón, notre salon est le havre de beauté bio de référence pour les clients de Rincón de la Victoria, Añoreta, Chilches, La Cala del Moral, Vélez-Málaga, Torre del Mar et Benajarafe. Nous avons hâte de vous offrir une expérience de bien-être unique dans la région de l'Axarquía.",
+    "btn": "Demander un RDV",
+    "imgAlt": "Façade du salon de coiffure bio de créateur Pilar Palomares à Torre de Benagalbón",
+    "title1": "Visitez notre",
+    "title2": "salon boutique"
+  }
+}

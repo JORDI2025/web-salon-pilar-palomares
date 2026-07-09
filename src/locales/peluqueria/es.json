@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "Peluquería de Autor y Orgánica en Málaga",
+    "description": "Salón de peluquería orgánica en Málaga (Torre de Benagalbón). Especialistas en coloración natural con barros y óleos, corte de autor y tratamientos saludables."
+  },
+  "hero": {
+    "eyebrow": "Filosofía · Técnica · Bienestar",
+    "title1": "Peluquería",
+    "title2": "de Autor",
+    "text": "Entendemos el cabello como un órgano vivo. Explora nuestras especialidades diseñadas para potenciar tu belleza de forma saludable."
+  },
+  "categories": {
+    "color": {
+      "title": "Cultura de Color",
+      "desc": "Tratamientos de coloración orgánica con barros y óleos que aportan salud y luz sin agredir la fibra capilar. Brillo espejo y durabilidad natural.",
+      "label": "Luz & Salud"
+    },
+    "forma": {
+      "title": "Cultura de la Forma",
+      "desc": "Nuestra visión del diseño capilar: cortes de autor, styling botánico y especialidades en texturas (Curly, Alisado) que respetan la caída natural.",
+      "label": "Diseño & Identidad"
+    },
+    "tratamientos": {
+      "title": "Tratamientos Capilares",
+      "desc": "Rituales de salud celular que purifican, nutren y regeneran tu cuero cabelludo y cabello desde el interior con tecnología botánica.",
+      "label": "Salud Celular"
+    },
+    "eventos": {
+      "title": "Eventos & Novias",
+      "desc": "Acompañamos tus momentos más especiales con servicios exclusivos de peinado y bienestar para novias, madrinas e invitadas.",
+      "label": "Días Únicos"
+    },
+    "explore": "Explorar Servicio"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "seo": {
+    "title": "Bioterapias y Estética Natural en Málaga",
+    "description": "Bioterapias capilares, faciales y corporales en Málaga. Cuidado con Agua Biopolar™ de Secretos del Agua en Torre de Benagalbón. Salud celular e integrativa."
+  },
+  "hero": {
+    "eyebrow": "Belleza Consciente · Salud Natural",
+    "title": "Bioterapias",
+    "text": "Tratamientos biológicos que restauran el equilibrio natural de tu cuerpo y tu cabello a través del poder de las plantas y el Agua Biopolar™.",
+    "imgAlt": "Protocolos de Bioterapias integrales y tratamientos corporales avanzados en Salón Pilar Palomares en Torre de Benagalbón, Málaga. Cuidado holístico cerca de Añoreta, Chilches y Torre del Mar"
+  },
+  "detalles": "Detalles",
+  "agua": {
+    "eyebrow": "La Ciencia",
+    "title": "Agua Biopolar™",
+    "imgAltMobile": "Agua Biopolar™ de Secretos del Agua",
+    "imgAltDesktop": "Productos de Bioterapia de Secretos del Agua con Agua Biopolar™ en Pilar Palomares",
+    "text1": "El corazón de nuestras bioterapias. Una nanoestructura líquida patentada que potencia la capacidad regenerativa de la piel hasta en un ",
+    "textStrong": "40%",
+    "text2": ", restaurando la memoria celular y la vitalidad cutánea mediante una reestructuración bioenergética pura.",
+    "props": {
+      "molecular": {
+        "title": "Reestructuración Molecular",
+        "desc": "Amplifica la potencia botánica y transmite energía vital a cada tejido."
+      },
+      "regenerativa": {
+        "title": "Estimulación Regenerativa",
+        "desc": "Potencia la renovación profunda, mejorando la vitalidad de la piel."
+      },
+      "depurativa": {
+        "title": "Capacidad Depurativa",
+        "desc": "Protege contra el daño oxidativo y elimina toxinas de forma natural."
+      },
+      "vibracion": {
+        "title": "Vibración y Memoria",
+        "desc": "Restaura la memoria biológica y la vitalidad natural de las células."
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "Preguntas Frecuentes",
+    "q1": {
+      "question": "¿En qué consisten las Bioterapias?",
+      "item1": "Hacemos un diagnóstico previo para establecer qué Bioterapia es la más indicada para tus necesidades.",
+      "item2": "Desde el momento que empiece el tratamiento, tus sentidos se activarán.",
+      "item3": "Usamos cuarzos y hematites para conducir y desplazar correctamente las energías del cuerpo.",
+      "item4": "Aplicamos puntos de presión y masaje.",
+      "item5": "Usamos solo productos orgánicos de Secretos del Agua.",
+      "item6": "Incluimos el uso de nuestros Remedios Integrativos, según el diagnóstico realizado.",
+      "item7": "Te acompañamos con asesoramiento continuado: todas las Bioterapias, tanto faciales como corporales, tienen un tratamiento de mantenimiento en casa."
+    },
+    "q2": {
+      "question": "¿Por qué necesitas probar las Bioterapias?",
+      "answer": "En muchas ocasiones no somos conscientes de lo mucho que necesitamos cuidar nuestro cuerpo, dedicar unos minutos simplemente a desconectar y que se vuelva a equilibrar el organismo. Desde la circulación de la sangre, la exfoliación de la piel e incluso la hidratación. Las Bioterapias van más allá, ya que el uso de cuarzos, hematites y cepillos hacen de la experiencia un momento de relajación y desconexión total."
+    },
+    "q3": {
+      "question": "¿Qué diferencia hay entre las Bioterapias y los tratamientos en casa de Secretos del Agua?",
+      "p1": "Siempre que se desee, se realiza un diagnóstico para ofrecerte el mejor tratamiento según las necesidades de la piel. Además, en las Bioterapias se utilizan productos específicos solo de uso profesional para conseguir una limpieza más profunda y una máxima hidratación. También se aplica el uso de aparatología, masajes y puntos de contacto que ayuda a la circulación y mejor penetración de los productos aplicados.",
+      "p2": "Las Bioterapias se complementan con el uso de Remedios Integrativos, unas fórmulas especialmente indicadas para diferentes órganos del cuerpo. La aplicación de los Remedios Integrativos va más allá de embellecer la piel, estos se encargan de regular el organismo y ayudar a lograr un equilibrio interno.",
+      "p3": "Recomendamos realizar una Bioterapia facial a modo de tratamiento en profundidad, y seguir con la rutina indicada en casa para mantener los resultados a largo plazo. De la misma manera con los tratamientos localizados en partes del cuerpo para tonificar y reducir adiposidades, recomendamos las Bioterapias como tratamiento de choque, pero luego se recomienda un correcto mantenimiento en casa con los productos adecuados."
+    },
+    "title1": "¿Qué son",
+    "title2": "las Bioterapias?"
+  },
+  "capilar": {
+    "eyebrow": "Restauración Capilar",
+    "title1": "Tratamientos",
+    "title2": "Capilares",
+    "imgAlt": "Tratamiento de Restauración Capilar en Málaga",
+    "quoteMobile": "\"Los Infoactivos son sérums biológicos de alta concentración que actúan sobre el metabolismo del folículo piloso.\"",
+    "quoteDesktop": "\"Los Infoactivos son sérums biológicos de alta concentración que actúan sobre el metabolismo del folículo piloso, devolviendo la fuerza y vitalidad real.\"",
+    "text": "Tratamiento Capilar es un ritual avanzado de desintoxicación y nutrición profunda, diseñado para restaurar la salud biológica desde el folículo hasta la punta. Un sistema que libera el cabello de residuos sintéticos mientras infunde nutrientes botánicos de alta pureza, devolviendo la vitalidad, el brillo y la estructura natural perdida a través de los ciclos naturales de tu cabello.",
+    "items": {
+      "biolaminar": {
+        "name": "RESTAURADOR BIOLAMINAR",
+        "benefits": "Rejuvenece y sella la cutícula, devolviendo el brillo y elasticidad natural.",
+        "price": "Desde 25€"
+      },
+      "fuerza": {
+        "name": "RESTAURADOR FUERZA",
+        "benefits": "Revitaliza el folículo aportando un cuerpo, volumen y densidad extraordinarios.",
+        "price": "Desde 25€"
+      },
+      "lluvia": {
+        "name": "AGUA DE LLUVIA",
+        "benefits": "Inyección de hidratación profunda que recupera la elasticidad y suavidad extrema.",
+        "price": "Desde 25€"
+      },
+      "volumen": {
+        "name": "VOLUMEN Y DENSIDAD",
+        "benefits": "Aporta plenitud y una densidad visible a los cabellos finos o sin vida.",
+        "price": "Desde 25€"
+      },
+      "purificante": {
+        "name": "PURIFICANTE",
+        "benefits": "Detox profundo que libera el poro de siliconas, residuos sintéticos y polución.",
+        "price": "Desde 25€"
+      },
+      "tierra": {
+        "name": "AGUA DE TIERRA",
+        "benefits": "Reconstrucción intensiva que repara los cabellos estructuralmente dañados.",
+        "price": "Desde 25€"
+      },
+      "infoFuerza": {
+        "name": "INFOACTIVO FUERZA",
+        "benefits": "Estimulante biológico que potencia el anclaje, vigor y crecimiento del cabello.",
+        "price": "30€"
+      },
+      "infoSensitivo": {
+        "name": "INFOACTIVO SENSITIVO",
+        "benefits": "Calma el cuero cabelludo reactivo mientras protege y refuerza la estructura externa.",
+        "price": "30€"
+      },
+      "alisado": {
+        "name": "ALISADO AMINOPROTEICO",
+        "benefits": "Perfección lisa y disciplina absoluta con tecnología orgánica de larga duración.",
+        "price": "Desde 267€"
+      },
+      "reparador": {
+        "name": "REPARADOR AMINOPROTEICO",
+        "benefits": "Arquitectura capilar que reconstruye y fortalece los puentes de queratina.",
+        "price": "Desde 267€"
+      }
+    }
+  },
+  "corporal": {
+    "eyebrow": "Energía y Equilibrio",
+    "title1": "Bioterapias",
+    "title2": "Corporales",
+    "sesiones": "Sesiones Individuales",
+    "precio": "65€",
+    "imgAlt": "David y Paqui de Salón Pilar Palomares",
+    "quote": "\"La bioterapia corporal es una respuesta biológica que respeta los tiempos de tu piel y los ritmos de tu organismo.\"",
+    "text": "Nuestras bioterapias corporales actúan sobre los sistemas circulatorio y linfático, permitiendo que tu cuerpo recupere su arquitectura biológica natural mediante ingredientes botánicos que respetan tu frecuencia celular y revitalizan cada tejido.",
+    "protocolos": "Protocolos combinados con Agua Biopolar™ para una detoxificación profunda y armónica.",
+    "items": {
+      "sculptor": {
+        "name": "Bioterapia Corporal Sculptor",
+        "desc": "Terapia tonificante y reductora que drena toxinas y redefine la silueta de forma biológica.",
+        "price": "65 €"
+      },
+      "colorLuz": {
+        "name": "Bioterapia Corporal Color Luz",
+        "desc": "Tratamiento rejuvenecedor que unifica el tono y aporta una luminosidad extraordinaria a la piel.",
+        "price": "65 €"
+      },
+      "piernas": {
+        "name": "Bioterapia Piernas Perfectas",
+        "desc": "Alivio inmediato del cansancio, drenaje profundo y tonificación de las piernas.",
+        "price": "65 €"
+      }
+    }
+  },
+  "madero": {
+    "eyebrow": "Legado Ancestral",
+    "title": "Maderoterapia",
+    "imgAlt": "Técnica de Maderoterapia en Pilar Palomares",
+    "text": "Complementamos nuestras bioterapias con herramientas de madera anatómicamente diseñadas que moldean la figura y eliminan adiposidades localizadas mediante un estímulo mecánico profundo y drenante.",
+    "cta": "Explorar Tratamiento",
+    "tools": {
+      "tabla": {
+        "name": "Tabla Modeladora",
+        "desc": "Drena la grasa movilizada y moldea las zonas más delicadas del cuerpo."
+      },
+      "rodilloCubos": {
+        "name": "Rodillo de Cubos",
+        "desc": "Fragmenta los adipocitos en capas profundas y suaviza la apariencia de la celulitis."
+      },
+      "copa": {
+        "name": "Copa Sueca",
+        "desc": "Efecto de succión que eleva y tonifica tejidos en glúteos, abdomen y muslos."
+      },
+      "rodilloLiso": {
+        "name": "Rodillo Liso",
+        "desc": "Activa los sistemas circulatorio y linfático de forma general."
+      },
+      "cepillo": {
+        "name": "Cepillo Exfoliante",
+        "desc": "Elimina células muertas y estimula la microcirculación superficial."
+      }
+    }
+  },
+  "facial": {
+    "eyebrow": "Cuidado del Rostro",
+    "badge": "Biotecnología Celular",
+    "precio": "Desde 65€",
+    "text": "Tratamientos faciales biológicos que respetan la salud de tu piel, devolviendo la luminosidad y vitalidad necesaria según tu tipo de cutis.",
+    "imgAlt": "Bioterapia Facial personalizada",
+    "items": {
+      "sensitiva": {
+        "name": "Bioterapia Sensitiva",
+        "desc": "Terapia calmante y reactiva para pieles sensibles y alteradas.",
+        "price": "65 €"
+      },
+      "iluminante": {
+        "name": "Bioterapia Iluminante",
+        "desc": "Actúa en la hiperpigmentación de la piel aportando luminosidad.",
+        "price": "65 €"
+      },
+      "detox": {
+        "name": "Bioterapia Detox",
+        "desc": "Purifica y equilibra el exceso de grasa, indicado en pieles con acné.",
+        "price": "65 €"
+      },
+      "antiaging": {
+        "name": "Bioterapia Antiaging",
+        "desc": "Reestructura, aporta luz y retrasa el envejecimiento celular.",
+        "price": "65 €"
+      },
+      "regeneradora": {
+        "name": "Bioterapia Regeneradora",
+        "desc": "Específica para pieles deshidratadas y con líneas marcadas.",
+        "price": "65 €"
+      }
+    },
+    "title1": "Bioterapia",
+    "title2": "Facial"
+  },
+  "manosPies": {
+    "eyebrow": "Cuidado de Extremidades",
+    "text": "Tratamientos biológicos que no solo embellecen, sino que actúan sobre la salud de la piel y la circulación de tus extremidades.",
+    "protocolo": "Protocolo Estético",
+    "manos": {
+      "name": "Bioterapia de Manos",
+      "desc": "Ritual revitalizante que exfolia, hidrata y mejora la textura de la piel, devolviendo a tus manos su suavidad y luminosidad natural."
+    },
+    "pies": {
+      "name": "Bioterapia de Pies",
+      "desc": "Tratamiento refrescante que renueva la piel y aporta ligereza a pies cansados, proporcionando una sensación de bienestar duradero."
+    },
+    "title1": "Manos",
+    "title2": "y Pies"
+  },
+  "remedios": {
+    "eyebrow": "Equilibrio Interior",
+    "text": "El eslabón entre la dermatología y la psicosomática. Cada remedio está asociado a un órgano y un estado emocional, trabajando la belleza desde el interior.",
+    "badge": "Cuidado Biológico Celular",
+    "quote": "\"La aplicación de estos remedios se realiza mediante masajes en la zona correspondiente al órgano, permitiendo que el Agua Biopolar™ transporte la información de las plantas directamente a las células.\"",
+    "items": {
+      "pul": {
+        "name": "Respirar",
+        "organ": "Sistema Respiratorio",
+        "emotion": "Claridad mental y firmeza en la toma de decisiones."
+      },
+      "rex": {
+        "name": "Descanso",
+        "organ": "Relajación",
+        "emotion": "Potencia la alegría y la esperanza; estabilizador emocional."
+      },
+      "cor": {
+        "name": "Amor",
+        "organ": "Corazón",
+        "emotion": "Suaviza ciclos femeninos; aporta afectividad y creatividad."
+      },
+      "baz": {
+        "name": "Renovar",
+        "organ": "Renovación Celular",
+        "emotion": "Aumenta la voluntad para superar la tristeza."
+      },
+      "gen": {
+        "name": "Sensibilidad",
+        "organ": "Sensibilidad Cutánea",
+        "emotion": "Protección y calma para estados de reactividad extrema."
+      },
+      "pan": {
+        "name": "Flexibilidad",
+        "organ": "Flexibilidad Corporal",
+        "emotion": "Aporta tolerancia y tranquilidad; reduce la autoexigencia."
+      },
+      "hig": {
+        "name": "Coraje",
+        "organ": "Sistema Hepático",
+        "emotion": "Fuerza y determinación ante nuevos retos o cambios."
+      },
+      "dig": {
+        "name": "Digerir",
+        "organ": "Sistema Digestivo",
+        "emotion": "Ayuda a procesar alimentos y emociones de forma fluida."
+      },
+      "rin": {
+        "name": "Energía",
+        "organ": "Vitalidad Renal",
+        "emotion": "Restaura la energía vital y combate el decaimiento."
+      },
+      "men": {
+        "name": "Dirección",
+        "organ": "Enfoque y Propósito",
+        "emotion": "Ayuda a encontrar claridad en etapas de incertidumbre."
+      }
+    },
+    "title1": "Remedios",
+    "title2": "Integrativos"
+  },
+  "cta": {
+    "eyebrow": "Inicia tu Transformación",
+    "title1": "Reserva tu Espacio de",
+    "title2": "Belleza Consciente",
+    "text": "Estamos listos para escucharte y diseñar la mejor bioterapia para tu cabello y piel. Tu transformación comienza con un diagnóstico personalizado.",
+    "imgAltMobile": "Diagnóstico personalizado - Salón Pilar Palomares",
+    "imgAltDesktop": "Inicia tu transformación con un diagnóstico de bioterapia personalizado en Málaga",
+    "reservar": "Reservar Diagnóstico",
+    "contactar": "¿Dudas? Contáctanos"
+  }
+}

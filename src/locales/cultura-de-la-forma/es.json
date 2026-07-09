@@ -1,0 +1,78 @@
+{
+  "seo": {
+    "title": "Cortes de Autor y Estilismo",
+    "description": "Cortes de autor, método curly y peinados botánicos en Torre de Benagalbón. Estilismo y diseño capilar personalizado y orgánico."
+  },
+  "hero": {
+    "eyebrow": "Arquitectura Capilar · Diseño de Autor",
+    "title1": "Cultura de",
+    "title2": "la Forma",
+    "text": "El equilibrio perfecto entre técnica, identidad y salud celular. Diseñamos formas que respetan la caída natural de tu cabello.",
+    "imgAlt": "Cultura de la Forma: cortes de autor, curly y peinados en Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "styling": {
+    "eyebrow": "Corte & Estilo",
+    "title": "Nuestro Styling",
+    "desc": "Es el equilibrio perfecto entre nutrición y fijación. Utilizamos productos botánicos que crean un escudo protector en la cutícula, aportando resistencia, brillo y control del encrespamiento para un estilo elegante, sano y natural.",
+    "antifrizz": "Anti-frizz",
+    "shine": "Brillo",
+    "nutrition": "Nutrición",
+    "imgAlt": "Styling botánico y acabado de peinado natural en Salón Pilar Palomares"
+  },
+  "design": {
+    "eyebrow": "Estilo & Identidad",
+    "subtitle": "Cortes y peinados que respetan la caída natural y potencian tu identidad única.",
+    "woman": {
+      "title": "Peinado de Mujer",
+      "desc": "Incluye Lavado Dermocapilar, Bioterapia Facial y acabado con productos de Styling botánicos.",
+      "imgAlt": "Peinado de mujer saludable con productos orgánicos en Pilar Palomares"
+    },
+    "signature": {
+      "title": "Corte de Autor",
+      "desc": "Ritual de Lavado Dermocapilar, Bioterapia Facial Express y Styling personalizado según tu caída natural.",
+      "imgAlt": "Corte de autor personalizado que respeta la caída natural del cabello"
+    },
+    "man": {
+      "title": "Cuidado Masculino",
+      "desc": "Cortes esenciales y de experiencia que incluyen un momento de relax absoluto y bioterapia facial.",
+      "imgAlt": "Corte y cuidado capilar masculino con bioterapia facial en Pilar Palomares"
+    },
+    "title1": "El Arte del",
+    "title2": "Diseño y Acabado"
+  },
+  "specialties": {
+    "eyebrow": "Activos Orgánicos & Minerales",
+    "desc": "Tratamientos avanzados que trabajan en sinergia con tu cabello para recuperar su forma ideal.",
+    "curly": {
+      "eyebrow": "Definición & Salud",
+      "title": "Método Curly",
+      "desc": "No se trata solo de peinar, sino de sanar el rizo desde su origen. Recuperamos la elasticidad y la memoria natural de tu cabello mediante el uso de minerales puros y plantas micronizadas que nutren la fibra sin añadir peso.",
+      "badge1": "Sin Siliconas",
+      "badge2": "Botánica Pura",
+      "badge3": "Elasticidad",
+      "imgAlt": "Método Curly: Recuperación de rizo natural"
+    },
+    "alisado": {
+      "eyebrow": "Control & Brillo",
+      "title": "Alisado Aminoprotéico",
+      "desc": "Una revolución en el alisado orgánico que disciplina el cabello mientras lo protege. Nuestra fórmula rica en aminoácidos reconstruye la estructura interna, dejando una melena lisa, con movimiento y un brillo tridimensional inigualable.",
+      "badge1": "Antifrizz",
+      "badge2": "Orgánico",
+      "badge3": "Protección",
+      "recHeader": "Recomendaciones: Alisado Natural Duradero",
+      "rec1": "El post-tratamiento está incluido. Es fundamental continuar una rutina de cuidado Secretos del Agua en casa para garantizar resultados.",
+      "rec2": "Durante los primeros días mantén el cabello suelto, sin coletas ni trenzas apretadas.",
+      "rec3": "Seca por completo con manos y secador direccionando el alisado. El calor activa la queratina como una cera protectora.",
+      "rec4": "Si lo dejas secar al aire, obtendrás un resultado más ondulado y natural.",
+      "btn": "Ver detalles del alisado"
+    },
+    "title1": "Especialidades",
+    "title2": "en Textura"
+  },
+  "cta": {
+    "btn": "Reservar Cita",
+    "imgAlt": "Cortes y peinados de autor con estética natural en Salón Pilar Palomares",
+    "title1": "¿Buscas tu",
+    "title2": "forma ideal?"
+  }
+}

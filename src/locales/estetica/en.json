@@ -1,0 +1,120 @@
+{
+  "seo": {
+    "title": "Aesthetics & Wood Therapy",
+    "description": "Integrative aesthetics, beauty rituals and body wood therapy in Torre de Benagalbón. Custom facial, body and natural eye design care."
+  },
+  "hero": {
+    "eyebrow": "Beauty that Breathes",
+    "title1": "Integrative",
+    "title2": "Aesthetics",
+    "text": "Rituals that honor the cycles of your skin and the harmony of your body.",
+    "imgAlt": "Rituals of Integrative Aesthetics and Wood Therapy at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "intro": {
+    "eyebrow": "Our Vision",
+    "title": "The Art of Holistic Care",
+    "desc": "At Pilar Palomares, we understand aesthetics not as an end, but as a health process. We do not seek to hide, but to reveal the beauty that flows from a balanced body and oxygenated skin. Our facial and body treatments fuse ancestral wood therapy with the biotechnology of Biopolar Water™.",
+    "card1Title": "Protected Skin",
+    "card1Desc": "We respect your natural hydrolipidic barrier 100%.",
+    "card2Title": "Active Flow",
+    "card2Desc": "We stimulate the lymphatic and circulatory system.",
+    "imgAlt": "Organic facial care and natural aesthetic biotherapy at Salón Pilar Palomares"
+  },
+  "mirada": {
+    "eyebrow": "Intense Look · Facial Harmony",
+    "title": "Eye Design",
+    "desc": "We enhance your natural beauty through the customized study and design of eyebrows and eyelashes, sculpting a perfect frame for your look.",
+    "imgAlt": "Eyebrow and eyelash design at Salón Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "items": {
+      "cejas": {
+        "name": "Eyebrow Design",
+        "desc": "Morphological study and eyebrow design adapted to your features. Includes hair removal (wax or tweezers) and definition through eyebrow tinting or eyebrow coloring."
+      },
+      "lifting": {
+        "name": "Lash Lift",
+        "desc": "Elevation and curvature treatment of natural eyelashes from the root. Includes eyelash tinting to intensify their color, or individual eyelash coloring service."
+      },
+      "extensiones": {
+        "name": "Extensions",
+        "desc": "Meticulous application of individual eyelashes. Its function is to increase the amount and density of the eyelashes to intensify the look and enlarge the eyes."
+      },
+      "micropigmentacion": {
+        "name": "Micropigmentation",
+        "desc": "Semi-permanent hair-by-hair eyebrow makeup technique. Fills in gaps, defines the shape and provides symmetry achieving a perfect, natural-looking frame."
+      }
+    }
+  },
+  "depilacion": {
+    "eyebrow": "Daily Care & Harmony",
+    "title": "Waxing & Makeup",
+    "desc": "We offer essential hair removal and professional makeup services designed to pamper your skin and enhance the harmony of your natural features.",
+    "depilacionTitle": "Waxing",
+    "depilacionDesc": "Facial or body waxing. Service tailored for both women and men.",
+    "maquillajeTitle": "Makeup",
+    "maquillajeDesc": "We enhance facial features and hide flaws to achieve greater harmony.",
+    "imgAlt": "Professional makeup at Salón Pilar Palomares, Torre de Benagalbón"
+  },
+  "faciales": {
+    "title": "Facial Rituals",
+    "eyebrow": "Cellular Biotechnology for your Face",
+    "priceLabel": "From 65€",
+    "viewBtn": "View treatment",
+    "items": {
+      "sensitiva": {
+        "name": "Sensitive Biotherapy",
+        "desc": "Calms and restores balance in reactive skin."
+      },
+      "iluminante": {
+        "name": "Illuminating Biotherapy",
+        "desc": "Brings light and unifies tone by fighting spots."
+      },
+      "antiaging": {
+        "name": "Anti-aging Biotherapy",
+        "desc": "Deep restructuring to smooth expression lines."
+      },
+      "detox": {
+        "name": "Detox Biotherapy",
+        "desc": "Intense purification for oily or congested skin."
+      }
+    }
+  },
+  "manosPies": {
+    "eyebrow": "Details that Matter",
+    "title": "Hands, Feet & Massage",
+    "desc": "Your limbs are the discharge points of your energy channels and your body accumulates everyday tension. Treating them with hand and foot biotherapies or body wellness massages drains, oxygenates and relaxes your body, providing absolute lightness and deep calm.",
+    "manos": {
+      "label": "Enhancement & Nutrition",
+      "title": "Hand Biotherapy",
+      "desc": "Complete manicure: this beautification treatment will help you care for hands and nails, exfoliating and nourishing the skin to treat alterations and restore its natural softness.",
+      "imgAlt": "Hand Biotherapy at Salón Pilar Palomares"
+    },
+    "pies": {
+      "label": "Lightness & Integral Care",
+      "title": "Foot Biotherapy",
+      "desc": "Complete pedicure: this comprehensive treatment will help you exfoliate feet and care for nails, eliminating hardnesses and keeping your skin free of imperfections.",
+      "imgAlt": "Foot Biotherapy at Salón Pilar Palomares"
+    },
+    "masajes": {
+      "label": "Disconnection & Deep Calm",
+      "title": "Massages",
+      "desc": "Body wellness: this treatment will help you relieve muscle tension, improve circulation and reduce stress, releasing accumulated tension in body and mind.",
+      "imgAlt": "Relaxing body massage at Salón Pilar Palomares"
+    }
+  },
+  "madero": {
+    "eyebrow": "Ancestral Modeling",
+    "title": "Wood Therapy",
+    "quote": "\"The power of the noble wood material masterfully applied to channel energy and reshape your figure.\"",
+    "desc": "Wood therapy consists of the application of a massage using various wooden utensils, of different sizes and shapes, specially designed to adapt to the anatomy of the body. It helps to firm, tone and combat cellulite in a non-invasive way.",
+    "corporalTitle": "Body Wood Therapy",
+    "corporalDesc": "Deep modeling through wooden tools that stimulate the elimination of toxins and reduce volume. It can be combined with Sculptor biotherapy.",
+    "imgAlt": "Professional Wood Therapy session in Axarquía"
+  },
+  "cta": {
+    "eyebrow": "Begin Your Ritual",
+    "title": "Treat Yourself to a Moment of Real Beauty",
+    "desc": "Feel free to ask us any questions. We are here to guide you towards your best version with treatments that respect your essence.",
+    "btnReserva": "Book My Appointment",
+    "btnContacto": "Contact Pilar"
+  }
+}

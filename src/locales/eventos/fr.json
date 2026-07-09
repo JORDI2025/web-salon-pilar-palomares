@@ -1,0 +1,53 @@
+{
+  "seo": {
+    "title": "Coiffures de Mariée et Événements",
+    "description": "Coiffure et maquillage naturels pour mariées et invitées d'événements à Torre de Benagalbón. Un stylisme élégant pour vos moments les plus spéciaux."
+  },
+  "hero": {
+    "eyebrow": "Mariées & Événements Spéciaux",
+    "title": "Événements & Mariées",
+    "text": "Votre plus belle version pour vos moments les plus spéciaux.",
+    "imgAlt": "Services spécialisés de coiffure et maquillage pour mariées et invitées au Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria, près d'Añoreta, Chilches et Málaga"
+  },
+  "vision": {
+    "eyebrow": "Notre Vision",
+    "text": "Au Salón Pilar Palomares, nous savons qu'un événement ne se résume pas au jour J : c'est tout le chemin de préparation qui compte. Nous nous attachons à sublimer votre beauté naturelle sans transformer qui vous êtes, avec des produits biologiques qui prennent soin de vos cheveux et de votre peau du début à la fin.",
+    "title1": "Chaque événement est unique,",
+    "title2": "et votre style doit l'être aussi."
+  },
+  "maquillaje": {
+    "eyebrow": "Luxury Experience",
+    "title": "MAQUILLAGE PROFESSIONNEL",
+    "text": "Nous utilisons des produits de maquillage professionnel haut de gamme pour un résultat impeccable, lumineux et longue tenue le jour de votre grand rendez-vous. Notre objectif : que vous vous sentiez vous-même, en sublimant vos traits avec élégance, technique et naturel.",
+    "tagline": "Textures soyeuses et pigmentation naturelle",
+    "imgAlt": "Service de maquillage professionnel pour mariées et événements au Salón Pilar Palomares"
+  },
+  "services": {
+    "eyebrow": "Spécialités",
+    "novias": {
+      "title": "Mariées Premium",
+      "desc": "Un service complet qui comprend un diagnostic préalable, des essais de coiffure et de maquillage, et une attention exclusive le jour de l'événement. Nous créons un look naturel et sophistiqué qui révèle votre essence dans chaque détail.",
+      "imgAlt": "Formule Mariée Premium : coiffure et maquillage personnalisés pour le grand jour"
+    },
+    "madrinas": {
+      "title": "Témoins et Invitées",
+      "desc": "Des mises en beauté élégantes et longue tenue, pensées pour que vous profitiez de chaque instant en tout confort et en toute confiance. Nous nous adaptons à votre style personnel pour un résultat impeccable qui dure tout l'événement.",
+      "imgAlt": "Service de stylisme et de coiffure pour témoins et invitées d'événements"
+    },
+    "comuniones": {
+      "title": "Communions",
+      "desc": "Des coiffures délicates et naturelles pour les plus petites, dans le respect de leur fraîcheur et de leur joie naturelle. Un service doux et attentionné pour qu'elles se sentent uniques en ce jour inoubliable pour elles et leur famille.",
+      "imgAlt": "Coiffures naturelles et délicates pour les filles le jour de leur première communion"
+    },
+    "title1": "Coiffure",
+    "title2": "& Coiffage"
+  },
+  "info": {
+    "text": "Pour garantir les meilleurs résultats, tous nos services mariée nécessitent une évaluation préalable. Lors de ce rendez-vous, nous analysons vos cheveux et votre peau, vos goûts et le style de l'événement afin de concevoir la proposition parfaite.",
+    "cardEyebrow": "Consulter les disponibilités",
+    "cardTitle": "Demandez votre rendez-vous d'évaluation",
+    "cta": "Prendre rendez-vous d'évaluation",
+    "title1": "Processus",
+    "title2": "et Évaluation"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "Salon de Coiffure Bio à Malaga | Biothérapies",
+    "description": "Salon de coiffure bio à Malaga et biothérapies Secretos del Agua à Torre de Benagalbón. Diagnostic capillaire gratuit pour des cheveux sains et beauté consciente."
+  },
+  "hero": {
+    "eyebrow": "SALON DE COIFFURE ORGANIQUE · AXARQUIA, MALAGA",
+    "text": "Nous concevons la beauté comme un espace de liberté et de transformation pour un monde plus sain. Votre salon de coiffure bio à Malaga pour des soins capillaires et corporels conscients y respectueux.",
+    "cta": "Réserver un Diagnostic Gratuit"
+  },
+  "diagnosis": {
+    "eyebrow": "Service Exclusif",
+    "title1": "Diagnostic",
+    "title2": "Personnalisé",
+    "text": "Découvrez la routine de cosmétiques naturels parfaite pour votre peau et vos cheveux. Notre équipe de professionnels vous conseillera les soins les mieux adaptés à vos besoins, en traitant les déséquilibres à leur origine.",
+    "cta": "Demander un Rendez-vous Gratuit",
+    "imgAlt": "Diagnostic capillaire et facial personnalisé au Salón Pilar Palomares"
+  },
+  "bienestar": {
+    "eyebrow": "Bien-être Global",
+    "title1": "Eau, Lumière",
+    "title2": "et Terre",
+    "text": "Notre philosophie se nourrit de l'équilibre entre l'Eau, la Lumière et la Terre. Nous utilisons le pouvoir de l'Eau Biopolaire™ — issue du cœur des Pyrénées — et la botanique cellulaire de Secretos del Agua pour restaurer la vitalité de vos cheveux et de votre peau dans une atmosphère de calme absolu.",
+    "imgAlt": "Soin holistique à l'Eau Biopolaire et botanique cellulaire au Salón Pilar Palomares",
+    "icon1Title": "Sans produits chimiques",
+    "icon1Tag": "Pureté Maximale",
+    "icon2Title": "Botanique",
+    "icon2Tag": "Terre Vivante",
+    "icon3Title": "Eau Biopolaire",
+    "icon3Tag": "Énergie Vitale",
+    "icon4Title": "Holistique",
+    "icon4Tag": "Équilibre"
+  },
+  "services": {
+    "eyebrow": "Notre Spécialité",
+    "title1": "Services",
+    "title2": "Phares",
+    "cta": "Voir les Détails",
+    "color": {
+      "title": "Culture de la Couleur",
+      "desc": "Coloration biologique qui marie plantes, minéraux et huiles végétales pour une couleur éclatante et saine, sans produits chimiques agressifs."
+    },
+    "bioterapias": {
+      "title": "Biothérapies",
+      "desc": "Des soins biologiques d'avant-garde qui exploitent le pouvoir de l'Eau Biopolaire™ pour régénérer vos cheveux et votre peau au niveau cellulaire."
+    },
+    "peluqueria": {
+      "title": "Coiffure Biologique",
+      "desc": "Coupe et coiffage artisanaux où la santé capillaire est la priorité absolue, avec uniquement des actifs botaniques et des argiles biologiques qui respectent votre essence."
+    },
+    "estetica": {
+      "title": "Esthétique",
+      "desc": "Des rituels visage et corps qui respectent les cycles biologiques de votre peau, lui rendant éclat, santé et fermeté de façon totalement naturelle."
+    }
+  },
+  "eventos": {
+    "eyebrow": "Expérience Premium",
+    "title1": "Mariages",
+    "title2": "& Événements",
+    "quote": "« La vraie beauté commence au moment où tu décides d'être toi-même. »",
+    "text": "Des services sur mesure pour les mariées, les communions et les événements spéciaux. Chaque proposition est conçue après une consultation préalable, en soignant chaque détail pour un résultat naturel et élégant qui révèle votre essence.",
+    "cta": "Voir nos Propositions Mariée",
+    "imgAlt": "Coiffure pour mariées et événements dans l'Axarquía - Salón Pilar Palomares"
+  },
+  "testimonials": {
+    "eyebrow": "Expériences Réelles",
+    "title1": "Ce que l'on dit",
+    "title2": "de nous",
+    "badge": "Basé sur plus de 300 avis authentiques",
+    "badgeMobile": "Plus de 300 avis Google",
+    "items": {
+      "maria": {
+        "text": "Je suis sortie COMPLÈTEMENT AMOUREUSE du salon avec les cheveux magnifiques qu'elles m'ont faits 😍 Les filles sont géniales, le service et l'accueil sont spectaculaires tout comme les produits utilisés. Chaque fois que je viens, je repars avec un grand sourire. Merci à l'équipe pour votre travail incroyable !!! !",
+        "badge": "GUIDE LOCAL"
+      },
+      "emma": {
+        "text": "Je suis venue pour un premier rendez-vous car je viens de déménager et franchement l'expérience a été merveilleuse. Angela m'a accueillie et m'a très bien conseillée. Mon nouveau salon de coiffure sans aucun doute.",
+        "badge": "AVIS GOOGLE"
+      },
+      "gloria": {
+        "text": "Plus qu'un salon de beauté, c'est une expérience menée par des professionnels incroyables. Le dernier cadeau que je me suis offert est un soin capillaire hydratant avec un rituel de massage qui a été un pur délice. Je suis repartie détendue et avec des cheveux parfaits. Ils travaillent avec Secretos del Agua, des produits qui soignent de l'intérieur, sans sulfates ni silicones. Je recommande à 100 % de se confier à eux pour l'accueil et la qualité.",
+        "badge": "CLIENT PREMIUM"
+      },
+      "jennifer": {
+        "text": "Une professionnelle fantastique, en plus d'être aimable et sympathique. Elle se donne à fond pour tout ce qu'on lui demande, mettant tout en œuvre pour que ce soit parfait. Je ne m'étais jamais fait les ongles avant de la connaître, et maintenant je ne peux plus m'en passer. En plus, ils restent parfaits très longtemps.",
+        "badge": "AVIS GOOGLE"
+      },
+      "luisa": {
+        "text": "Impossible de faire mieux. Elles nous ont ouvert le salon à 8h30 pour que nous ayons le temps d'arriver au mariage. Coiffure et maquillage incroyables. Merci beaucoup à Pilar Palomares et à toute l'équipe pour leur accueil excellent. Vous êtes de vraies professionnelles !!! Nous continuerons à partager d'autres moments.",
+        "badge": "AVIS GOOGLE"
+      },
+      "francisco": {
+        "text": "Je dois dire que Pilar Palomares, humainement parlant, est une personne formidable, très polie, très humaine et avec de grandes valeurs. Très reconnaissant de l'avoir rencontrée. Je lui souhaite le meilleur au monde.",
+        "badge": "AVIS GOOGLE"
+      },
+      "begona": {
+        "text": "Elles sont géniales !!! Elles vous accueillent chaleureusement et vous conseillent sur les produits et le soin de vos cheveux, ce qui fait que j'ai des cheveux super sains. Merci à Bea d'être ma conseillère en image et de me chouchouter... Avec mon rythme de vie, j'ai très peu de temps à me consacrer, et elles font tout leur possible pour me servir le plus rapidement possible. Je tiens aussi à mentionner que Diana fait un travail excellent sur mes ongles et qu'elles donnent toujours des rendez-vous rapides, même quand on a peu de temps ! Merci, je vous adore l'équipe !!❤️",
+        "badge": "GUIDE LOCAL"
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Commencez Votre Transformation",
+    "text": "Nous sommes prêts à vous écouter et à concevoir la meilleure biothérapie pour vos cheveux et votre peau. Votre transformation commence par un diagnostic personnalisé.",
+    "reservar": "Réserver",
+    "contactar": "Des questions ? Contactez-nous",
+    "imgAlt": "Diagnostic personnalisé - Salón Pilar Palomares",
+    "title": "Commencez votre voyage vers | une beauté naturelle."
+  },
+  "marquee": {
+    "biotherapies": "Biothérapies",
+    "biopolarWater": "Eau Biopolaire™",
+    "brandName": "Secretos del Agua",
+    "hairTreatments": "Soins Capillaires"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "title": "Bio-Haarbiotherapie",
+    "description": "Biologische Haarbehandlungen und zelluläre Gesundheitstherapien mit Secretos del Agua Biopolar-Wasser in Torre de Benagalbón (Málaga)."
+  },
+  "hero": {
+    "backBtn": "Alle Behandlungen",
+    "title1": "Haar",
+    "title2": "behandlungen",
+    "text": "Biologische Behandlungen für Ihr Haar. In unserem Salon verändern wir die Haarpflege durch Behandlungen, die das natürliche Gleichgewicht Ihrer Kopfhaut respektieren.",
+    "btn": "Diagnose anfordern",
+    "imgAlt": "Biologische Haarbehandlungen und Bioterapien von Secretos del Agua im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "lavado": {
+    "eyebrow": "Pflegephilosophie",
+    "desc": "Dank Biopolar-Wasser™ und hochwertigen botanischen Wirkstoffen geben wir Ihrem Haar Gesundheit, Kraft und echten Glanz zurück, ohne synthetische Substanzen zu verwenden.",
+    "card1Title": "Woraus besteht es?",
+    "card1Desc": "Es ist ein gründlicher Reinigungsprozess, der die Kopfhaut reinigt und ins Gleichgewicht bringt, ohne ihre Struktur zu verändern.",
+    "card2Title": "Der Nutzen",
+    "card2Desc": "Er entfernt Unreinheiten und angesammelte Rückstände und bereitet die Haarfaser optimal darauf vor, die Wirkstoffe der anschließenden Behandlung aufzunehmen.",
+    "quote": "Die dermokapilläre Wäsche ist das Eröffnungsritual, das die Kopfhaut befreit und auf die zelluläre Botanik vorbereitet.",
+    "imgAlt": "Dermokapilläres Waschritual vor der Haarbioterapie im Bio-Friseur Pilar Palomares, Torre de Benagalbón",
+    "title1": "Der erste Schritt:",
+    "title2": "Dermokapilläre Haarwäsche"
+  },
+  "listHeader": {
+    "eyebrow": "Haar-Bioterapie",
+    "title": "Unsere Behandlungen"
+  },
+  "tabs": {
+    "description": "Beschreibung",
+    "benefits": "Vorteile",
+    "ideal": "Ideal für Sie",
+    "actives": "Botanische Wirkstoffe"
+  },
+  "items": {
+    "restauradora": {
+      "title": "Biolaminar Restorer",
+      "subtitle": "Behandlung für geschädigtes Haar und Haar-Reparateur",
+      "summary": "Behandlung für geschädigtes Haar, die die Faser nährt, repariert und die Widerstandskraft sowie Elastizität des Haares verbessert.",
+      "description": "Behandlung für geschädigtes Haar, die die Schuppenschicht biologisch umhüllt und vor äußeren Einflüssen schützt. Bei diesem Ritual verwenden wir das Nutriente Shampoo 100 ml (615) und den Biolaminar Restorer 100 ml (621) – zwei Produkte, die das Haar reparieren, die Durchlässigkeit der Haarfaser verringern und die Ernährung, Festigkeit sowie Elastizität des Haares steigern.",
+      "benefits": "• Schützt und regeneriert geschädigte Haarfasern.\n• Pflegt und spendet Feuchtigkeit in der Tiefe.\n• Bietet eine antioxidative Wirkung.\n• Reduziert Frizz.\n• Schützt das Haar vor Hitze.\n• Schützt das Haar vor äußeren Einflüssen.\n• Antioxidative, heilende und entzündungshemmende Wirkung.\n• Frei von Sulfaten und Silikonen.\n• Ideale Behandlung für einen Zyklus von 28 Tagen.",
+      "ideal": "• Ihr Haar ist stark geschädigt oder dehydriert.\n• Ihr Haar hat an Spannkraft, Glanz und Elastizität verloren.\n• Ihr Haar kräuselt sich leicht.\n• Das Haar bricht sehr leicht.\n• Sie haben Ihr Haar chemischen Prozessen wie Färben, Blondieren oder Dauerwellen unterzogen.\n• Sie verwenden Stylinggeräte wie Föhn oder Glätteisen.\n• Sie benötigen eine Tiefenreparatur.",
+      "actives": "NUTRIENTE SHAMPOO: Rinde von der Tepezcohuite, Roter Weinlaub, Artischocke, pflanzliche Sojaproteine, Leinsamen.\n\nBIOLAMINAR RESTORER: Klette, Ginkgo Biloba, pflanzliche Sojaproteine, Weizenaminosäuren."
+    },
+    "sensitiva": {
+      "title": "Sensitiv",
+      "subtitle": "Beruhigung & Entspannung · Empfindliche Kopfhaut",
+      "summary": "Ritual zur sofortigen Beruhigung gereizter, juckender oder schuppender Kopfhaut, um ihr natürliches Gleichgewicht wiederherzustellen.",
+      "description": "Abschwellende Behandlung zur Normalisierung der biologischen Funktionen empfindlicher Kopfhaut. Bei diesem Ritual verwenden wir das Sensitivo Shampoo (618) und das Agua de Musgo (603) – zwei Produkte, die wie ein lindernder Balsam wirken, der Entzündungen hemmt und die Schutzbarriere der Haut stärkt.",
+      "benefits": "• Entzündungshemmende Wirkung.\n• Repariert und wirkt ohne Narbenbildung.\n• Stimuliert die Kollagenproduktion.\n• Verbessert das Immunsystem der Haut.\n• Antioxidative und schützende Wirkung bei überempfindlicher Haut.\n• Reguliert die Talgproduktion.\n• Trägt zur Regeneration der Hautbarriere bei.\n• Verleiht dem Haar Volumen.\n• Reduziert statische Elektrizität.\n• Erleichtert das Bürsten, erhöht die Geschmeidigkeit und Flexibilität des Haares.",
+      "ideal": "• Gereizte oder entzündete Kopfhaut.\n• Überempfindliche Haut oder Neigung zu Schuppen.\n• Psoriasis, Dermatitis oder Rötungen.\n• Sonnenbrand auf der Kopfhaut.\n• Häufige Anwendung von Haarfärbemitteln."
+    },
+    "fuerza": {
+      "title": "Fuerza Restorer",
+      "subtitle": "Vitalität, Fülle und Wachstum · Follikelgesundheit",
+      "summary": "Belebende Behandlung, die die Haarfollikel anregt und geschwächtem oder feinem Haar außergewöhnliches Volumen verleiht.",
+      "description": "Biologisches Schock-Protokoll, das direkt auf die Haarwurzel wirkt. Bei dieser Behandlung arbeiten wir mit dem Fuerza Shampoo 100 ml (620) und dem Fuerza Restorer 100 ml (616) – hergestellt aus ökologischen botanischen Wirkstoffen, ohne Silikone, Sulfate oder Parabene. Frena sofort die Haarschwäche und stärkt das Haar für spektakuläres Volumen und Dichte.",
+      "benefits": "• Erhöht das Haarvolumen, steigert die Festigkeit der Faser und verringert Haarbruch.\n• Verbessert die Haardichte.\n• Schützt und repariert die Schuppenschicht.\n• Reguliert die Talgproduktion.\n• Erhöht die Festigkeit und Elastizität des Haares.\n• Verleiht Glanz und erleichtert das Bürsten.\n• Reduziert statische Elektrizität.\n• Besitzt eine antioxidative Wirkung.",
+      "ideal": "• Ihr Haar fällt stärker aus als gewöhnlich.\n• Sie machen eine Phase von Angst oder Stress durch.\n• Saisonale Veränderungen verstärken Ihren Haarausfall.\n• Haarausfall nach der Schwangerschaft oder durch Krankheit.\n• Androgenetische Alopezie.\n• Feines Haar.\n• Geschwächtes oder brüchiges Haar.",
+      "actives": "FUERZA SHAMPOO (620): Ringelblume, Tepezcohuite, pflanzliche Sojaproteine, Leinsamen und Flohsamen.\n\nFUERZA RESTORER (616): Rosskastanie, Ginkgo Biloba, Weizenaminosäuren, Sesamöl und Kokosöl."
+    },
+    "volumen": {
+      "title": "Volumen mit Fuerza Restorer",
+      "subtitle": "Fülle und Bewegung · Feines Haar",
+      "summary": "Belebt und erhöht das Haarvolumen, spendet Kraft und Dichte von der Wurzel an.",
+      "description": "Biologisches Schock-Protokoll, das direkt auf die Haarwurzel wirkt, um die Haarregeneration von der Entstehung an zu aktivieren und zu fördern. Bei dieser Behandlung verwenden wir den Infoactivo Fuerza Capilar 50 ml (602) – ein Anti-Haarausfall-Serum, das das Haar von der Wurzel an belebt, und das Fuerza Shampoo 100 ml (620), welches das Haar stärkt und für Fülle und Volumen sorgt. Gemeinsam stoppen sie Haarschwäche und verleihen Kraft an der Quelle.",
+      "benefits": "• Stoppt Haarschwäche.\n• Erhöht das Haarvolumen.\n• Nährt das Haar von der Wurzel bis zur Spitze.\n• Erhöht die Festigkeit und Elastizität des Haares.\n• Aktiviert den Stoffwechsel der Kopfhaut.\n• Verjüngt die Haarfaser.\n• Reguliert die Talgproduktion.\n• Trägt zur Feuchtigkeitspflege und Regeneration der Haarbarriere bei.\n• Stärkt das Haar.",
+      "ideal": "• Feines Haar.\n• Geschwächtes oder brüchiges Haar.\n• Verstärkter Haarausfall.\n• Stress- oder Angstphasen.\n• Saisonbedingter Haarausfall.\n• Haarausfall nach der Schwangerschaft.\n• Androgenetische Alopezie.\n• Neigung zu fettigem Ansatz.",
+      "actives": "FUERZA SHAMPOO: Ringelblume, Tepezcohuite, Sojaproteine, Leinsamen, Flohsamen.\n\nINFOACTIVO™ FUERZA: Cayennepfeffer, Schachtelhalm, Wacholder, Ginkgo Biloba, Weiße Taubnessel, Bockshornklee."
+    },
+    "lluvia": {
+      "title": "Agua de Lluvia",
+      "subtitle": "Absolute Feuchtigkeit · Seidiger Glanz",
+      "summary": "Ein tiefer Feuchtigkeitskick inspiriert von der Reinheit des Wassers, ideal für die Elastizität und Geschmeidigkeit trockensten Haares.",
+      "description": "Tiefenwirksames Feuchtigkeitsritual unter Verwendung von Agua de Lluvia – ein Pflegebalsam mit botanischen Wirkstoffen wie Klette, Ginkgo Biloba und Sojaproteinen, die in das Herz der Haarfaser eindringen, um den Feuchtigkeitsgehalt wieder aufzufüllen. Dieses Ritual schließt die Feuchtigkeit im Inneren ein und beugt Frizz und Sprödigkeit vor. In Kombination mit Biopolar-Wasser schützt und restrukturiert es das Haar vor äußeren Einflüssen – für flexibles, glänzendes und gesundes Haar. Der holzige Duft mit Noten von Karamell und Kakao macht die Behandlung zu einem sinnlichen Entspannungserlebnis.",
+      "benefits": "• Spendet intensive Feuchtigkeit.\n• Pflegt das Haar.\n• Reduziert Frizz.\n• Erhöht die Festigkeit und Elastizität des Haares.\n• Antioxidative Eigenschaften.\n• Verleiht Glanz.\n• Verbessert Struktur und Zusammenhalt der Haarfaser.\n• Wirkt als Hitzeschutz und schützt vor äußeren Einflüssen.",
+      "ideal": "• Sie benötigen eine Dosis Tiefenfeuchtigkeit.\n• Ihr Haar verknotet leicht.\n• Ihr Haar verliert an Spannkraft und Elastizität.\n• Das Haar neigt zu Frizz.\n• Trockene Spitzen durch Hitze-Styling.\n• Belastung durch UV-Strahlen.",
+      "actives": "Klette, Ginkgo Biloba, pflanzliche Sojaproteine und Tungöl."
+    },
+    "purificante": {
+      "title": "Purificante",
+      "subtitle": "Fett-Gleichgewicht · Tiefen-Detox",
+      "summary": "Gründliche Reinigung, die die Talgproduktion der Kopfhaut reguliert und das Haar locker, frisch und rein hinterlässt.",
+      "description": "Tiefenreinigende Behandlung mit dem Purificante Pre-Wash Gel – ein Pre-Shampoo, das die Kopfhaut klärt, stimuliert und ins Gleichgewicht bringt. Es befreit von Silikonen, Harzen und Umweltbelastungen. Anschließend wenden wir das Purificante Shampoo an, das tiefenwirksam reinigt, Haarausfall bremst und die Kopfhaut atmen lässt. Es reguliert Fett, ohne die Spitzen auszutrocknen.",
+      "benefits": "• Reguliert die Talgproduktion und klärt die Kopfhaut.\n• Reduziert Schuppenbildung, Schuppen und Hautirritationen.\n• Reinigt tief und entfernt synthetische sowie Umweltrückstände.\n• Erhöht das Haarvolumen.\n• Hilft bei der Haarreparatur.\n• Stärkt die Haarfaser und verringert Haarbruch.\n• Wirkt pflegend und verleiht Glanz.\n• Antioxidative Wirkung.\n• Hilft beim Farberhalt.\n• Fördert die Durchblutung der Kopfhaut und beugt Haarausfall vor.",
+      "ideal": "• Fettiges Haar.\n• Haar wird schnell schmutzig.\n• Gefühl, dass die Kopfhaut nicht atmen kann.\n• Schuppen, Juckreiz oder gereizte Kopfhaut.\n• Haar hat an Fülle und Glanz verloren.\n• Sehr leicht brechendes Haar.",
+      "actives": "Bockshornklee, Klette, Efeu, Weizenaminosäuren, Schwarzer Hafer und Zypresse."
+    },
+    "tierra": {
+      "title": "Agua de Tierra",
+      "subtitle": "Struktureller Wiederaufbau · Extrem-Reparatur",
+      "summary": "Die intensivste Reparaturbehandlung unserer Boutique, entwickelt für Haare, die durch extreme chemische Prozesse geschädigt wurden.",
+      "description": "Reparierende und restrukturierende Behandlung mit Agua de Tierra – ein leichter Balsam für feines Haar mit Biopolar-Wasser und Nährstoffen wie roter Tonerde, Flohsamen und Sojaproteinen. Wir bauen die Haarfaser von innen wieder auf und schenken Glanz und Fülle. Tung- und Rapsöl mindern Frizz und schützen vor Hitze. Der frische Duft von Grapefruit, Magnolie, Rose und Veilchen rundet das Erlebnis ab.",
+      "benefits": "• Spendet intensive Feuchtigkeit.\n• Verleiht feinem Haar Fülle.\n• Repariert durch Hitze gestresstes Haar.\n• Stärkt die Haarfaser und verringert Haarbruch.\n• Pflegt das Haar.\n• Erhöht Festigkeit und Elastizität.\n• Starke antioxidative Wirkung.\n• Verleiht Glanz.\n• Reduziert statische Aufladung.\n• Erleichtert das Bürsten, macht das Haar weich und geschmeidig.\n• Mindert Frizz und schützt vor Hitze.",
+      "ideal": "• Feines Haar.\n• Mangel an Feuchtigkeit.\n• Geschwächtes, geschädigtes oder brüchiges Haar.\n• Belastung durch extreme Umwelteinflüsse oder Hitze.\n• Wunsch nach mehr Fülle und Fülligkeit.",
+      "actives": "Klette, Ginkgo Biloba, Leinsamen, Flohsamen, Weizenaminosäuren, Rote Tonerde, Tungöl und Soja."
+    },
+    "alisado": {
+      "title": "Glättung & Amino-Protein-Reparatur",
+      "subtitle": "Formdesign · Disziplin & Gesundheit",
+      "summary": "Fortschrittliche organische Technologie, die das Haar bändigt und Frizz beseitigt, ohne seine innere Struktur zu schädigen.",
+      "description": "Die Amino-Protein-Glättung ist ein Haardisziplinierungssystem, das Aminosäuren und pflanzliche Proteine verwendet, um das Haar auf natürliche Weise zu glätten. Im Gegensatz zu herkömmlichen chemischen Glättungen bricht es die inneren Bindungen nicht, sondern ordnet sie neu an und schützt sie – für gesundes glattes Haar mit Spiegelglanz und Bewegung.",
+      "benefits": "Frizz-Beseitigung, Reduzierung von unerwünschtem Volumen, außergewöhnlicher Glanz, seidige Weichheit und lange Haltbarkeit bei vollem Erhalt der Haargesundheit.",
+      "ideal": "Widerspenstiges, krauses, sehr voluminöses Haar oder Personen, die ein perfektes, gebändigtes Glatthaar suchen, ohne die Integrität ihrer Mähne zu gefährden.",
+      "actives": "Biopolar-Wasser™ · Pflanzlicher Amino-Protein-Komplex · Natürliche Bioaktivatoren, die die Faser während des Glättungsprozesses restrukturieren.",
+      "btn": "Design und Stil anzeigen"
+    }
+  },
+  "cta": {
+    "desc": "Keine Sorge. Jedes Haar ist einzigartig. Unsere kostenlose Haardiagnose ist der Schlüssel, um herauszufinden, was Ihr Haar wirklich braucht, um wieder zu glänzen.",
+    "btn": "Haardiagnose buchen",
+    "note": "Unverbindlich",
+    "imgAlt": "Individuelle und kostenlose Haardiagnose im Salón Pilar Palomares, Axarquía (Málaga)",
+    "title1": "Sie wissen nicht, welche",
+    "title2": "Behandlung Sie wählen sollen?"
+  }
+}

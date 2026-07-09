@@ -1,0 +1,122 @@
+{
+  "seo": {
+    "title": "Organic Body Biotherapy",
+    "description": "Biological body treatments and wood therapy in Torre de Benagalbón (Málaga). Organic rituals of health, wellbeing and relaxation."
+  },
+  "hero": {
+    "back": "All Biotherapies",
+    "title1": "Body",
+    "title2": "Biotherapy",
+    "text": "An experience of renewal and balance that combines manual massage techniques with biological products of high cellular vibration.",
+    "cta": "Request a Diagnosis",
+    "imgAlt": "Body Biotherapy at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, near Añoreta, Chilches and Málaga"
+  },
+  "intro": {
+    "bgImgAlt": "Organic skin texture",
+    "eyebrow": "A Philosophy of Care",
+    "title": "Vital Balance",
+    "quote": "\"Our body biotherapies do more than beautify the skin; they act on the circulatory, lymphatic and energetic systems.\"",
+    "text1": "By using ",
+    "strong": "Biopolar Water™",
+    "text2": " and high-quality botanical actives, we allow your body to recover its own natural biological architecture, releasing tension and restoring harmony from within."
+  },
+  "protocols": {
+    "eyebrow": "Luxury Experience",
+    "quote": "\"The skin is the mirror of our inner health; caring for it is an act of self-love.\"",
+    "discoverTitle": "Discover our body biotherapies",
+    "discoverText": "Each biotherapy is a personalised ritual designed to respond to your body's specific needs. Through the combination of expert manual techniques and botanical actives of the highest purity, we achieve deep, long-lasting results. Explore our specialised treatments below:",
+    "card": "\"We complement our manual techniques with quartz and hematite to harmonise energy and enhance deep detoxification during every session.\"",
+    "imgAlt": "Body biotherapy massage with quartz crystals and botanical oils",
+    "title1": "Rites of",
+    "title2": "Renewal"
+  },
+  "list": {
+    "title1": "Our Body",
+    "title2": "Biotherapies"
+  },
+  "tabs": {
+    "description": "Description",
+    "benefits": "Benefits",
+    "ideal": "For You",
+    "actives": "Actives"
+  },
+  "slideshow": {
+    "prev": "View previous image",
+    "next": "View next image"
+  },
+  "treatments": {
+    "sculptor": {
+      "title": "Sculptor Biotherapy",
+      "subtitle": "Remodelling · Drainage and Silhouette",
+      "summary": "A slimming treatment inspired by Quantum Physics that mobilises accumulated fat and restores cellular order.",
+      "tabs": {
+        "description": "The Sculptor Body Biotherapy by Secretos del Agua, inspired by Quantum Physics, visibly reduces the fatty nodules of cellulite. Thanks to the action of Biopolar Water™, a liquid nanostructure that drives the cellular system to recover its original order, this intensive treatment combines draining massage with biological fat-burning actives to reshape the silhouette and restore the skin's natural firmness.",
+        "benefits": "• Reduces localised volume.\n• Drains fluids and toxins.\n• Improves the appearance of cellulite.\n• Smooths and firms the skin.",
+        "ideal": "• You want to reduce volume in localised areas.\n• You notice fluid retention.\n• You have cellulite or orange-peel skin.\n• You want to reshape your silhouette.",
+        "actives": "Natural Caffeine, Ivy, Horse Chestnut, Fucus."
+      }
+    },
+    "colorluz": {
+      "title": "Colour Light Biotherapy",
+      "subtitle": "Vitality · Luminosity and Antioxidant",
+      "summary": "A rejuvenating ritual that protects the skin from oxidative damage and brings a radiant glow.",
+      "tabs": {
+        "description": "A nourishing biotherapy with high antioxidant power that evens out body tone and leaves the skin velvety and full of light. It protects against premature ageing.",
+        "benefits": "• Intensely hydrates and softens.\n• Deep antioxidant action.\n• Brings a silky luminosity.\n• Evens out skin tone.",
+        "ideal": "• Your body skin is dry or dull.\n• You notice a lack of glow and softness.\n• You want to prevent body skin ageing.\n• You are looking for a relaxing sensory ritual.",
+        "actives": "Natural Vitamin E, Almond Oil, Calendula, Sesame."
+      }
+    },
+    "piernas": {
+      "title": "Perfect Legs Biotherapy",
+      "subtitle": "Lightness · Relief and Circulation",
+      "summary": "Immediate relief for tired, heavy legs, boosting venous return.",
+      "tabs": {
+        "description": "A biological cold ritual that decongests and tones the legs, eliminating the feeling of heaviness and accumulated fatigue by reactivating circulation.",
+        "benefits": "• Immediate relief from tiredness.\n• Reduces swelling and congestion.\n• Activates microcirculation.\n• A feeling of extreme lightness.",
+        "ideal": "• Your legs feel heavy or swollen.\n• You spend long hours standing or sitting.\n• You have mild circulatory issues.\n• You are looking for deep rest.",
+        "actives": "Peppermint, Camphor, Butcher's Broom, Witch Hazel."
+      }
+    }
+  },
+  "madero": {
+    "eyebrow": "Ancestral Technique",
+    "title": "Wood Therapy",
+    "text": "Anatomically designed wooden tools that sculpt the figure, relieve tension and eliminate localised fat deposits through deep, biological mechanical stimulation.",
+    "imgAlt": "Professional wood therapy technique to sculpt the figure at Salón Pilar Palomares",
+    "protocolLabel": "Recommended protocol",
+    "protocolText": "An intensive phase of 2 sessions per week for an initial boost, followed by spaced-out maintenance. Ideally combined with the Sculptor Biotherapy.",
+    "toolsTitle": "Therapeutic Tools",
+    "tools": {
+      "tabla": {
+        "name": "Sculpting Board",
+        "desc": "Drains mobilised fat and sculpts the most delicate areas of the body."
+      },
+      "cubos": {
+        "name": "Cube Roller",
+        "desc": "Breaks down adipocytes in the deep layers and softens the appearance of cellulite."
+      },
+      "copa": {
+        "name": "Swedish Cup",
+        "desc": "A suction effect that lifts and tones tissue on the buttocks, abdomen and thighs."
+      },
+      "cepillo": {
+        "name": "Exfoliating Brush",
+        "desc": "Removes dead skin cells and stimulates surface microcirculation."
+      },
+      "rodillo": {
+        "name": "Smooth Roller",
+        "desc": "Activates the circulatory and lymphatic systems overall."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Your moment is now",
+    "title1": "Synchronise",
+    "title2": "with Your Body",
+    "text": "Treat yourself to a body biotherapy experience tailored to you, to recover the lightness, balance and wellbeing your body deserves.",
+    "imgAlt": "Body biotherapy ritual and mindful wellbeing at the organic hair salon Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "btnPrimary": "Book My Diagnosis",
+    "btnWhatsapp": "Ask via WhatsApp"
+  }
+}

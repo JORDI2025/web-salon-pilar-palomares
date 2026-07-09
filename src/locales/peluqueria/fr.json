@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "Coiffure de Créateur et Bio à Malaga",
+    "description": "Salon de coiffure bio à Malaga (Torre de Benagalbón). Spécialistes en coloration naturelle aux argiles et huiles, coupe signature et soins sains."
+  },
+  "hero": {
+    "eyebrow": "Philosophie · Technique · Bien-être",
+    "title1": "Coiffure",
+    "title2": "de Créateur",
+    "text": "Nous considérons le cheveu comme un organe vivant. Explorez nos spécialités conçues pour sublimer votre beauté de manière saine."
+  },
+  "categories": {
+    "color": {
+      "title": "Culture de la Couleur",
+      "desc": "Soins colorants biologiques à base d'argiles et d'huiles qui apportent santé et lumière sans agresser la fibre capillaire. Brillance miroir et tenue naturelle.",
+      "label": "Lumière & Santé"
+    },
+    "forma": {
+      "title": "Culture de la Forme",
+      "desc": "Notre vision du design capillaire : coupes de créateur, coiffage botanique et spécialités texturantes (Curly, Lissage) respectant le tombant naturel.",
+      "label": "Design & Identité"
+    },
+    "tratamientos": {
+      "title": "Traitements Capillares",
+      "desc": "Rituels de santé cellulaire qui purifient, nourrissent et régénèrent votre cuir chevelu et vos cheveux de l'intérieur grâce à la technologie botanique.",
+      "label": "Santé Cellulaire"
+    },
+    "eventos": {
+      "title": "Événements & Mariées",
+      "desc": "Nous vous accompagnons dans vos moments les plus précieux avec des services exclusifs de coiffure et de bien-être pour mariées, demoiselles d'honneur et invitées.",
+      "label": "Jours Uniques"
+    },
+    "explore": "Découvrir le Service"
+  }
+}

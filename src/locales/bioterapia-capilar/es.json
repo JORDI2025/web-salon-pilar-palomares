@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Bioterapia Capilar Orgánica",
+    "description": "Tratamientos capilares orgánicos y bioterapias de salud celular con Agua Biopolar de Secretos del Agua en Torre de Benagalbón (Málaga)."
+  },
+  "hero": {
+    "backBtn": "Todos los Tratamientos",
+    "title1": "Tratamientos",
+    "title2": "Capilares",
+    "text": "Tratamientos Biológicos para tu Cabello. En nuestro salón transformamos el cuidado del cabello a través de tratamientos que respetan el equilibrio natural de tu cuero cabelludo.",
+    "btn": "Solicitar Diagnóstico",
+    "imgAlt": "Tratamientos capilares orgánicos y bioterapias de Secretos del Agua en Salón Pilar Palomares, peluquería en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Torre del Mar"
+  },
+  "lavado": {
+    "eyebrow": "Filosofía de Cuidado",
+    "desc": "Gracias al Agua Biopolar™ y activos botánicos de alta calidad, devolvemos la salud, fuerza y brillo real a tu melena sin utilizar sustancias sintéticas.",
+    "card1Title": "¿En qué consiste?",
+    "card1Desc": "Es un proceso de depuración profunda que limpia y equilibra el cuero cabelludo sin alterar su estructura.",
+    "card2Title": "El beneficio",
+    "card2Desc": "Elimina impurezas y residuos acumulados, preparando la fibra capilar para absorber al máximo los beneficios del tratamiento posterior.",
+    "quote": "El lavado dermocapilar es el ritual de apertura que libera el cuero cabelludo y lo prepara para recibir la botánica celular.",
+    "imgAlt": "Ritual de lavado dermocapilar previo a la bioterapia capilar en peluquería orgánica Pilar Palomares, Torre de Benagalbón",
+    "title1": "El primer paso:",
+    "title2": "Lavado Dermocapilar"
+  },
+  "listHeader": {
+    "eyebrow": "Bioterapia Capilar",
+    "title": "Nuestros Tratamientos"
+  },
+  "tabs": {
+    "description": "Descripción",
+    "benefits": "Beneficios",
+    "ideal": "Ideal para ti",
+    "actives": "Activos Botánicos"
+  },
+  "items": {
+    "restauradora": {
+      "title": "Restaurador Biolaminar",
+      "subtitle": "Tratamiento pelo dañado y reparador de cabello",
+      "summary": "Tratamiento para el pelo dañado que nutre el cabello, repara la fibra capilar y mejora la resistencia y elasticidad del cabello.",
+      "description": "Tratamiento para el pelo dañado que recubre biológicamente las cutículas del cabello y lo protege de las agresiones externas. En este ritual utilizamos el Champú Nutriente 100 ml (615) y el Restaurador Biolaminar 100 ml (621), dos productos que reparan el cabello, disminuyen la permeabilidad de la fibra capilar aumentando la nutrición, resistencia y elasticidad del cabello.",
+      "benefits": "• Protege y recupera las fibras capilares dañadas.\n• Nutre e hidrata en profundidad.\n• Aporta un efecto antioxidante.\n• Reduce el encrespamiento.\n• Protege el cabello del calor.\n• Protege el cabello de las agresiones externas.\n• Efecto antioxidante, cicatrizante y antiinflamatorio.\n• No contiene sulfatos ni siliconas.\n• Tratamiento ideal para usarlo durante un ciclo de 28 días.",
+      "ideal": "• Tu cabello está muy deteriorado o deshidratado.\n• Sientes que tu pelo ha perdido movilidad, brillo y elasticidad.\n• Tu cabello se encrespa con facilidad.\n• El cabello se te rompe con mucha facilidad.\n• Has sometido tu cabello a procesos químicos estresantes como tintes, decoloraciones o permanentes.\n• Utilizas herramientas de calor como el secador o la plancha.\n• Necesitas una reparación profunda.",
+      "actives": "CHAMPÚ NUTRIENTE: Tepezcohuite, Vid Roja, Alcachofa, Proteínas vegetales de Soja, Linaza.\n\nRESTAURADOR BIOLAMINAR: Bardana, Ginkgo Biloba, Proteínas vegetales de Soja, Aminoácidos de Trigo."
+    },
+    "sensitiva": {
+      "title": "Sensitivo",
+      "subtitle": "Calma y Relajación · Cuero cabelludo reactivo",
+      "summary": "Ritual diseñado para calmar instantáneamente cueros cabelludos irritados, con picores o descamación, restableciendo su equilibrio natural.",
+      "description": "Tratamiento descongestivo formulado para normalizar las funciones biológicas del cuero cabelludo reactivo. En este ritual utilizamos el Champú Sensitivo (618) y el Agua de Musgo (603), dos productos que actúan como un bálsamo reconfortante que reduce la inflamación y fortalece la barrera protectora de la piel, protegiéndola de agresiones externas.",
+      "benefits": "• Acción antiinflamatoria.\n• Repara y actúa sin generar cicatriz.\n• Estimula la producción de colágeno.\n• Mejora el sistema inmunológico de la piel.\n• Acción antioxidante y protectora para pieles hiperreactivas.\n• Regula la producción de sebo.\n• Contribuye a la regeneración de la barrera cutánea.\n• Aporta volumen al cabello.\n• Reduce la electricidad estática.\n• Facilita el cepillado, aumenta la suavidad y flexibilidad del cabello.",
+      "ideal": "• Tienes el cuero cabelludo irritado o inflamado.\n• Tu piel es hiperreactiva o se descama con facilidad.\n• Sufres episodios de psoriasis, dermatitis o rojeces.\n• Te has quemado el cuero cabelludo con el sol.\n• Aplicas con asiduidad productos de coloración en tu cabello.",
+      "actives": "Agua de Musgo Capilar (603): Calaguala, caléndula, aloe vera, lúpulo y linaza.\n\nChampú Sensitivo (618): Lino, amaranto, caléndula, manzanilla, sauce y aminoácidos de soja."
+    },
+    "fuerza": {
+      "title": "Restaurador Fuerza",
+      "subtitle": "Vigor, Cuerpo y Crecimiento · Salud del folículo",
+      "summary": "Tratamiento revitalizante que estimula el folículo piloso y aporta un volumen extraordinario a los cabellos debilitados o finos.",
+      "description": "Protocolo de choque biológico que actúa directamente sobre el bulbo piloso. En este tratamiento trabajamos con un Champú Fuerza 100 ml (620) y un Restaurador Fuerza 100 ml (616), elaborados con activos botánicos ecológicos, sin siliconas, sulfatos ni parabenos. Su acción frena de inmediato la debilidad capilar, fortaleciendo el cabello para conseguir un volumen espectacular y una densidad sublime.",
+      "benefits": "• Aumenta el volumen del cabello, incrementa la fuerza de la fibra capilar y disminuye su rotura.\n• Mejora la densidad del cabello.\n• Protege y repara la cutícula.\n• Regula de la producción de sebo.\n• Aumenta la fuerza y elasticidad del cabello.\n• Aporta brillo y facilita el cepillado.\n• Reduce la electricidad estática.\n• Tiene acción antioxidante.",
+      "ideal": "• Tu cabello se cae más de lo habitual.\n• Atraviesas un periodo de ansiedad o estrés.\n• Con los cambios de estación suele aumentar tu caída de cabello.\n• Has perdido cabello tras un embarazo o a causa de una enfermedad.\n• Padeces alopecia androgénica.\n• Tienes el cabello fino.\n• Tu cabello está debilitado o es quebradizo.",
+      "actives": "CHAMPÚ FUERZA (620): Caléndula, Tepezcohuite, Proteínas vegetales de Soja, Linaza y Zaragatona.\n\nRESTAURADOR FUERZA (616): Castaño de Indias, Ginkgo Biloba, Aminoácidos de Trigo, Aceite de Sésamo y Aceite de Coco."
+    },
+    "volumen": {
+      "title": "Volumen con Restaurador Fuerza",
+      "subtitle": "Cuerpo y Movimiento · Cabello fino",
+      "summary": "Revitaliza y aumenta el volumen del cabello, proporcionándole fuerza y densidad desde la raíz.",
+      "description": "Protocolo de choque biológico que actúa directamente sobre el bulbo piloso para activar e impulsar la regeneración capilar desde su nacimiento. En este tratamiento utilizamos el Infoactivo Fuerza Capilar 50 ml (602), un sérum anticaída que revitaliza el cabello desde la raíz, y el Champú Fuerza 100 ml (620), que fortalece el cabello aportando cuerpo y volumen. Juntos frenan la debilidad capilar, aportando más resistencia y fuerza desde su origen. Todo formulado con ingredientes botánicos ecológicos, sin sulfatos, parabenos ni otros compuestos de síntesis.",
+      "benefits": "• Frena la debilidad capilar.\n• Aumenta el volumen del cabello.\n• Nutre el cabello desde la raíz hasta las puntas.\n• Aumenta la fuerza y elasticidad del cabello.\n• Activa el metabolismo del cuero cabelludo.\n• Rejuvenece la fibra capilar.\n• Regula la producción de sebo.\n• Contribuye a la hidratación y regeneración de la barrera capilar.\n• Fortalece el cabello.",
+      "ideal": "• Tienes el cabello fino.\n• Tu cabello está debilitado o es quebradizo.\n• Notas que se te cae más cabello del habitual.\n• Atraviesas un periodo de ansiedad o estrés.\n• Con los cambios de estación aumenta tu caída de cabello.\n• Has perdido cabello tras un embarazo.\n• Tienes alopecia androgénica.\n• Tu raíz tiene tendencia a engrasarse.",
+      "actives": "CHAMPÚ FUERZA: Caléndula, Tepezcohuite, Proteínas vegetales de Soja, Linaza, Zaragatona.\n\nINFOACTIVO™ FUERZA: Cayena en rama, Cola de Caballo, Enebro, Ginkgo Biloba, Ortiga Blanca, Alholva."
+    },
+    "lluvia": {
+      "title": "Agua de Lluvia",
+      "subtitle": "Hidratación Absoluta · Brillo Sedoso",
+      "summary": "Una inyección de humedad profunda inspirada en la pureza del agua, ideal para recuperar la elasticidad y suavidad de los cabellos más secos.",
+      "description": "Ritual de hidratación profunda en el que utilizamos el Agua de Lluvia, un bálsamo acondicionador elaborado con activos botánicos como la bardana, el ginkgo biloba y proteínas de soja que penetran en el corazón de la fibra capilar para reponer los niveles de agua perdidos. Este ritual sella la humedad en el interior, previniendo el encrespamiento y la aspereza. Gracias a la combinación con el Agua Biopolar, reestructura y protege el cabello frente a agresiones externas, logrando una melena flexible, brillante y sana. Además, su textura ligera y su aroma amaderado con notas de caramelo y cacao convierten la sesión en una experiencia sensorial de relajación absoluta.",
+      "benefits": "• Hidrata en profundidad.\n• Acondiciona el cabello.\n• Reduce el encrespamiento.\n• Aumenta la fuerza y la elasticidad del cabello.\n• Propiedades antioxidantes.\n• Aporta brillo.\n• Mejora la estructura y la cohesión de la fibra capilar.\n• Actúa como protector térmico y protege ante agresiones externas.",
+      "ideal": "• Necesitas una dosis de hidratación profunda.\n• Tu cabello se enreda con facilidad.\n• Sientes que tu pelo pierde movilidad y elasticidad.\n• Tu melena tiende a encresparse.\n• Tienes las puntas abiertas o resecas por el uso de planchas y/o secadores.\n• Te expones a los rayos UV, nocivos para el pelo.",
+      "actives": "Bardana, Ginkgo Biloba, Proteínas vegetales de Soja y Aceite de Tung."
+    },
+    "purificante": {
+      "title": "Purificante",
+      "subtitle": "Equilibrio Graso · Detox Profundo",
+      "summary": "Depuración exhaustiva que regula la producción sebácea del cuero cabelludo, dejando el cabello suelto, fresco y con una pureza total.",
+      "description": "Tratamiento de depuración profunda en el que utilizamos el Gel Pre-Lavado Purificante, un prechampú que depura, estimula y equilibra el cuero cabelludo favoreciendo su transpiración y liberándolo de siliconas, resinas y polución. A continuación, aplicamos el Champú Purificante, cuya acción purificante limpia en profundidad, frena la caída y permite que el cuero cabelludo respire. Además de regular el exceso de grasa sin resecar las puntas, sus propiedades regeneradoras ayudan a conseguir una melena más fuerte, elástica e hidratada.",
+      "benefits": "• Regula la producción de sebo y purifica el cuero cabelludo.\n• Reduce la producción de caspa, la descamación y la irritación de la piel.\n• Limpia en profundidad, eliminando residuos sintéticos y medioambientales.\n• Aumenta el volumen del cabello.\n• Ayuda a reparar el pelo.\n• Fortalece y tonifica la fibra capilar disminuyendo su rotura.\n• Actúa como acondicionador y aporta brillo.\n• Acción antioxidante.\n• Ayuda a retener el color.\n• Contribuye a la hidratación, cicatrización y regeneración de la barrera cutánea.\n• Al promover la circulación de la sangre en el cuero cabelludo, evita la caída del cabello.",
+      "ideal": "• Tienes el cabello graso.\n• Tu cabello se ensucia con facilidad.\n• Sientes que tu cuero cabelludo no respira.\n• Tienes caspa, descamación o el cuero cabelludo irritado.\n• Tu cabello ha perdido volumen y brillo.\n• Se te rompe el cabello con mucha facilidad.",
+      "actives": "Alhovas, Bardana, Hiedra, Aminoácidos de Trigo, Avena negra y Ciprés."
+    },
+    "tierra": {
+      "title": "Agua de Tierra",
+      "subtitle": "Reconstrucción Estructural · Reparación Límite",
+      "summary": "El tratamiento reparador más intensivo de nuestra boutique, diseñado para reconstruir cabellos estructuralmente dañados por procesos químicos límite.",
+      "description": "Tratamiento reparador y restaurador en el que aplicamos el Agua de Tierra, un bálsamo ligero para pelo fino formulado con Agua Biopolar y activos nutrientes como la arcilla roja, semillas de zaragatona y proteínas de soja. En este ritual reconstruimos las fibras capilares desde el interior, aportando brillo, vitalidad y cuerpo. Gracias a la acción protectora de los aceites de tung y colza, reducimos el encrespamiento y protegemos el cabello del calor. Su frescura aromática a pomelo, magnolia, rosa y violeta transforma el cabello deteriorado devolviéndole toda su fuerza y flexibilidad en una experiencia sensorial única.",
+      "benefits": "• Hidrata en profundidad.\n• Aporta volumen al cabello fino.\n• Repara el cabello estresado por el uso de herramientas de calor.\n• Fortalece, estructura y cohesiona la fibra capilar disminuyendo su rotura.\n• Acondiciona el cabello.\n• Aumenta la fuerza y elasticidad del cabello.\n• Posee una gran acción antioxidante.\n• Aporta brillo.\n• Reduce la electricidad estática.\n• Facilita el cepillado, aumenta la suavidad y flexibilidad del cabello.\n• Reduce el encrespamiento.\n• Protege el cabello del calor.",
+      "ideal": "• Tienes el pelo fino.\n• Notas que tu cabello está falto de hidratación.\n• Tu cabello está debilitado, dañado o es quebradizo.\n• Has sometido tu pelo a factores ambientales extremos o a herramientas de calor.\n• Quieres dar más cuerpo y volumen a tu melena.",
+      "actives": "Bardana, Ginkgo Biloba, Linaza, Zaragatona, Aminoácidos de Trigo, Arcilla Roja, Aceite de Tung y Soja."
+    },
+    "alisado": {
+      "title": "Alisado y Reparación Aminoproteica",
+      "subtitle": "Diseño de Forma · Disciplina y Salud",
+      "summary": "Tecnología orgánica avanzada que disciplina el cabello y elimina el encrespamiento sin dañar su estructura interna.",
+      "description": "El Alisado Aminoproteico es un sistema de disciplina capilar que utiliza aminoácidos y proteínas vegetales para alisar el cabello de forma natural. A diferencia de los alisados químicos tradicionales, no rompe los puentes internos, sino que los reorganiza y protege, permitiendo un liso saludable, con brillo espejo y movimiento.",
+      "benefits": "Eliminación del encrespamiento, reducción del volumen no deseado, brillo extraordinario, suavidad sedosa y una durabilidad prolongada respetando la salud capilar.",
+      "ideal": "Cabellos rebeldes, encrespados, muy voluminosos o personas que buscan un liso perfecto y disciplinado sin comprometer la integridad de su melena.",
+      "actives": "Agua Biopolar™ · Complejo Aminoproteico Vegetal · Bioactivadores Naturales que reestructuran la fibra durante el proceso de alisado.",
+      "btn": "Ver Diseño y Estilo"
+    }
+  },
+  "cta": {
+    "desc": "No te preocupes. Cada melena es un mundo y nuestro Diagnóstico Capilar Gratuito es la clave para descubrir qué necesita realmente tu cabello para volver a brillar.",
+    "btn": "Reserva tu Diagnóstico Capilar",
+    "note": "Sin compromiso",
+    "imgAlt": "Diagnóstico capilar personalizado y gratuito de bioterapia capilar en Salón Pilar Palomares, Axarquía (Málaga)",
+    "title1": "¿No sabes qué",
+    "title2": "Tratamiento elegir?"
+  }
+}

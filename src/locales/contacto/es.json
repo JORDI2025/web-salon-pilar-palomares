@@ -1,0 +1,38 @@
+{
+  "seo": {
+    "title": "Contacto y Ubicación en Torre de Benagalbón",
+    "description": "Contacto, ubicación, mapa y horarios del Salón Pilar Palomares en Torre de Benagalbón (Málaga). Pide tu cita o diagnóstico gratuito."
+  },
+  "hero": {
+    "eyebrow": "Encuéntranos · Pide tu Cita",
+    "title": "Contacto",
+    "desc": "Visita nuestro salón boutique en Torre de Benagalbón y disfruta de una experiencia de belleza orgánica única y personalizada.",
+    "imgAlt": "Fachada frontal del salón boutique de belleza orgánica Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, sirviendo a Añoreta, Chilches, Vélez Málaga y Torre del Mar"
+  },
+  "loc": {
+    "eyebrow": "Encuéntranos",
+    "title1": "Contacto",
+    "title2": "& Localización"
+  },
+  "cards": {
+    "addressTitle": "Nuestra Dirección",
+    "addressText": "C/ Axarquía 21, Local 3\n29738 Torre de Benagalbón\nMálaga",
+    "phoneTitle": "Teléfono & WhatsApp",
+    "phoneBtn": "Enviar Mensaje",
+    "emailTitle": "Email",
+    "hoursTitle": "Horarios de Apertura",
+    "mondaySat": "Lunes y Sábados",
+    "tueFri": "Martes a Viernes"
+  },
+  "map": {
+    "btn": "Abrir en Google Maps",
+    "imgAlt": "Mapa de localización del Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Vélez Málaga"
+  },
+  "boutique": {
+    "desc": "Situado en un entorno tranquilo y acogedor en Torre de Benagalbón, nuestro salón es el refugio de belleza orgánica de referencia para clientes de Rincón de la Victoria, Añoreta, Chilches, La Cala del Moral, Vélez-Málaga, Torre del Mar y Benajarafe. Te esperamos para ofrecerte una experiencia de bienestar única en toda la Axarquía.",
+    "btn": "Solicitar Cita",
+    "imgAlt": "Fachada del salón boutique de belleza orgánica de Pilar Palomares en Torre de Benagalbón",
+    "title1": "Visita nuestro",
+    "title2": "salón boutique"
+  }
+}

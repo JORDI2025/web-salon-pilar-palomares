@@ -1,0 +1,89 @@
+{
+  "project": {
+    "name": "Salón Pilar Palomares",
+    "type": "Boutique Secretos del Agua",
+    "description": "Salón de peluquería especializado en belleza consciente, salud capilar integral y minimalismo orgánico.",
+    "philosophy": {
+      "design_style": "Weightless (ligero)",
+      "look_and_feel": "Minimalista, elegante, con mucho espacio en blanco (aire) y glassmorphism.",
+      "core_values": ["Belleza consciente", "Salud capilar integral", "Bioterapia"]
+    }
+  },
+  "design_system": {
+    "colors": {
+      "primary": {
+        "name": "Chocolate",
+        "hex": "#5D4037",
+        "usage": "Color de la marca, logotipos, estado normal de botones."
+      },
+      "background": {
+        "name": "Blanco Agua",
+        "hex": "#FFFFFF",
+        "usage": "Fondo principal para limpieza y minimalismo."
+      },
+      "accent": {
+        "name": "Azul Glaciar",
+        "hex": "#E0F2F1",
+        "usage": "Acento biopolar, uso en secciones de calma/sensitivas."
+      },
+      "secondary_accent": {
+        "name": "Verde Salvia",
+        "hex": "#8DA399",
+        "usage": "Botánico, elementos de bioterapia, hover de botones."
+      },
+      "text": {
+        "name": "Gris Piedra",
+        "hex": "#4A4A4A",
+        "usage": "Texto principal, párrafos, legibilidad elegante."
+      }
+    },
+    "typography": {
+      "headings": {
+        "font_family": "Wensley",
+        "type": "Serif Moderna / Editorial",
+        "usage": ["H1", "H2"],
+        "source": "Local (/fonts/)"
+      },
+      "body": {
+        "font_family": "Just Sans",
+        "type": "Geométrica / Limpia",
+        "usage": ["p", "H3", "botones", "menús"],
+        "source": "Local (/fonts/)"
+      },
+      "logo_only": {
+        "font_family": "Rosalinde Alyamore",
+        "usage": "Exclusivo para el logotipo gráfico. Prohibido su uso en texto dinámico web."
+      }
+    }
+  },
+  "seo_metadata": {
+    "local_targeting": {
+      "primary_location": "Torre de Benagalbón",
+      "region": "Málaga (Axarquía)",
+      "areas_served": ["Torre de Benagalbón", "Añoreta", "Rincón de la Victoria"]
+    },
+    "keywords": [
+      "Peluquería orgánica",
+      "Barros",
+      "Bioterapias",
+      "Torre de Benagalbón",
+      "Añoreta",
+      "Rincón de la Victoria",
+      "Secretos del Agua",
+      "Salud capilar"
+    ]
+  },
+  "assets": {
+    "directories": {
+      "videos": "/video/",
+      "fonts": "/fonts/",
+      "images": "/images/"
+    },
+    "files": {
+      "main_logo": "LOGOWEB520X80 CHOCOLATE.png",
+      "partner_logo": "logo-SECRETOS.png",
+      "hero_video": "7.mp4",
+      "ambient_videos": ["1.mov", "2.mov", "3.mov", "4.mov", "5.mov", "6.mov"]
+    }
+  }
+}

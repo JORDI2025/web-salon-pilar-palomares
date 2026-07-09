@@ -1,0 +1,78 @@
+{
+  "seo": {
+    "title": "Signature Cuts & Styling",
+    "description": "Signature Cuts, Curly-Methode und botanische Frisuren in Torre de Benagalbón. Individuelles und ökologisches Styling und Haardesign."
+  },
+  "hero": {
+    "eyebrow": "Haararchitektur · Signature-Design",
+    "title1": "Kultur der",
+    "title2": "Form",
+    "text": "Das perfekte Gleichgewicht zwischen Technik, Identität und Zellgesundheit. Wir entwerfen Formen, die den natürlichen Fall Ihres Haares respektieren.",
+    "imgAlt": "Kultur der Form: Signature Cuts, Curly Styling und Friseurhandwerk im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "styling": {
+    "eyebrow": "Schnitt & Stil",
+    "title": "Unser Styling",
+    "desc": "Es ist die perfekte Balance zwischen Pflege und Halt. Wir verwenden botanische Produkte, die einen Schutzschild in der Schuppenschicht bilden und für Festigkeit, Glanz und Frizz-Kontrolle sorgen – für einen eleganten, gesunden und natürlichen Stil.",
+    "antifrizz": "Anti-Frizz",
+    "shine": "Glanz",
+    "nutrition": "Nährstoffe",
+    "imgAlt": "Botanisches Styling und natürliches Haar-Finish im Salón Pilar Palomares"
+  },
+  "design": {
+    "eyebrow": "Stil & Identität",
+    "subtitle": "Schnitte und Stylings, die den natürlichen Fall respektieren und Ihre einzigartige Identität betonen.",
+    "woman": {
+      "title": "Damen-Styling",
+      "desc": "Inklusive dermokapillärer Haarwäsche, Gesichts-Bioterapie und Finish mit botanischen Stylingprodukten.",
+      "imgAlt": "Gesundes Damen-Styling mit biologischen Produkten bei Pilar Palomares"
+    },
+    "signature": {
+      "title": "Signature Cut",
+      "desc": "Dermokapilläres Waschritual, Express-Gesichts-Bioterapie und individuelles Styling abgestimmt auf Ihren natürlichen Fall.",
+      "imgAlt": "Individueller Signature Cut, der den natürlichen Fall des Haares respektiert"
+    },
+    "man": {
+      "title": "Herrenpflege",
+      "desc": "Essenzielle Schnitte und Verwöhnerlebnisse inklusive eines Moments absoluter Entspannung und Gesichtsbioterapie.",
+      "imgAlt": "Herrenhaarschnitt und -pflege mit Gesichtsbioterapie bei Pilar Palomares"
+    },
+    "title1": "Die Kunst des",
+    "title2": "Designs und Stylings"
+  },
+  "specialties": {
+    "eyebrow": "Organische Wirkstoffe & Mineralien",
+    "desc": "Fortschrittliche Behandlungen, die in Synergie mit Ihrem Haar wirken, um seine ideale Form wiederherzustellen.",
+    "curly": {
+      "eyebrow": "Definition & Gesundheit",
+      "title": "Curly-Methode",
+      "desc": "Es geht nicht nur um das Styling, sondern darum, die Locke von Grund auf zu heilen. Wir stellen die Elastizität und das natürliche Gedächtnis Ihres Haares durch die Verwendung reiner Mineralien und mikronisierter Pflanzen wieder her, die die Faser nähren, ohne sie zu beschweren.",
+      "badge1": "Silikonfrei",
+      "badge2": "Reine Botanik",
+      "badge3": "Elastizität",
+      "imgAlt": "Curly-Methode: Wiederherstellung natürlicher Locken"
+    },
+    "alisado": {
+      "eyebrow": "Kontrolle & Glanz",
+      "title": "Amino-Protein-Glättung",
+      "desc": "Eine Revolution in der organischen Glättung, die das Haar bändigt und es gleichzeitig schützt. Unsere an Aminosäuren reiche Formel baut die innere Struktur wieder auf und hinterlässt eine geschmeidige, bewegliche Mähne mit unvergleichlichem dreidimensionalem Glanz.",
+      "badge1": "Anti-Frizz",
+      "badge2": "Bio",
+      "badge3": "Schutz",
+      "recHeader": "Empfehlungen: Langanhaltende natürliche Glättung",
+      "rec1": "Die Nachbehandlung ist im Preis inbegriffen. Es ist wichtig, die Pflegeroutine von Secretos del Agua zu Hause fortzusetzen, um Ergebnisse zu garantieren.",
+      "rec2": "Lassen Sie das Haar in den ersten Tagen locker, ohne feste Pferdeschwänze oder Zöpfe.",
+      "rec3": "Trocknen Sie das Haar vollständig mit den Händen und dem Föhn in Wuchsrichtung der Glättung. Wärme aktiviert das Keratin wie ein Schutzwachs.",
+      "rec4": "Wenn Sie es an der Luft trocknen lassen, erhalten Sie ein welligeres und natürlicheres Ergebnis.",
+      "btn": "Details zur Glättung anzeigen"
+    },
+    "title1": "Spezialgebiete",
+    "title2": "für Haartexturen"
+  },
+  "cta": {
+    "btn": "Termin buchen",
+    "imgAlt": "Signature-Schnitte und -Stylings mit natürlicher Ästhetik im Salón Pilar Palomares",
+    "title1": "Suchen Sie Ihre",
+    "title2": "ideale Form?"
+  }
+}

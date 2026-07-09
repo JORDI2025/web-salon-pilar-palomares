@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "Signature & Organic Hair Salon in Malaga",
+    "description": "Organic hair salon in Malaga (Torre de Benagalbón). Specialists in natural coloring with clay and oils, signature haircuts and healthy treatments."
+  },
+  "hero": {
+    "eyebrow": "Philosophy · Technique · Well-being",
+    "title1": "Signature",
+    "title2": "Hairdressing",
+    "text": "We view hair as a living organ. Explore our specialties designed to enhance your beauty in a healthy way."
+  },
+  "categories": {
+    "color": {
+      "title": "Color Culture",
+      "desc": "Organic color treatments with clay and oils that bring health and light without damaging the hair fiber. Mirror shine and natural durability.",
+      "label": "Light & Health"
+    },
+    "forma": {
+      "title": "The Culture of Form",
+      "desc": "Our vision of hair design: signature cuts, botanical styling and specialties in textures (Curly, Straightening) that respect the natural fall.",
+      "label": "Design & Identity"
+    },
+    "tratamientos": {
+      "title": "Hair Treatments",
+      "desc": "Cellular health rituals that purify, nourish and regenerate your scalp and hair from within with botanical technology.",
+      "label": "Cellular Health"
+    },
+    "eventos": {
+      "title": "Events & Brides",
+      "desc": "We accompany your most special moments with exclusive styling and well-being services for brides, maids of honor and guests.",
+      "label": "Unique Days"
+    },
+    "explore": "Explore Service"
+  }
+}

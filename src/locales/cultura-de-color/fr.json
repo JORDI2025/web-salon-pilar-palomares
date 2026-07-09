@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Coloration Bio aux Argiles & aux Huiles à Malaga",
+    "description": "Coloration bio aux argiles et huiles Secretos del Agua à Malaga. Couleur botanique naturelle et saine à Torre de Benagalbón."
+  },
+  "hero": {
+    "eyebrow": "Beauté Saine",
+    "title1": "Culture",
+    "title2": "de la Couleur",
+    "text": "Une couleur qui respire, brille et soigne. Redécouvrez la nature de vos cheveux grâce au pouvoir des plantes.",
+    "imgAlt": "Résultat de coloration organique aux argiles botaniques au Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria, au service d'Añoreta, Chilches et Torre del Mar"
+  },
+  "philosophy": {
+    "eyebrow": "Notre Philosophie",
+    "title1": "Plus qu'une couleur,",
+    "title2": "un soin",
+    "p1": "Nous utilisons des produits botaniques qui respectent la structure capillaire tout en apportant une luminosité unique. Nous croyons en la santé du cheveu comme fondement de toute beauté.",
+    "p2": "Chez Pilar Palomares, nous abandonnons l'agressivité des colorations synthétiques pour embrasser le pouvoir des plantes micronisées et des huiles végétales. Le résultat : des cheveux qui ne sont pas seulement plus beaux, mais aussi plus forts, hydratés et souples.",
+    "quote": "« La nature nous offre les pigments les plus purs pour prendre soin de votre essence sans compromettre votre bien-être. »",
+    "card1": {
+      "title": "Respect Structurel",
+      "desc": "Nous préservons l'intégrité de la fibre de l'intérieur, en évitant les dommages chimiques et en maintenant la vitalité naturelle.",
+      "imgAlt": "Application d'argiles organiques dans le respect de la structure capillaire au Salón Pilar Palomares"
+    },
+    "card2": {
+      "title": "Luminosité",
+      "desc": "Des reflets organiques qui vibrent avec la lumière naturelle, créant des dimensions profondes et fuyant l'effet couleur uniforme."
+    },
+    "card3": {
+      "title": "Conscience",
+      "desc": "Durabilité et éthique dans chaque pigment. Nous respectons votre santé avec des soins sans toxiques et pleins de vie."
+    }
+  },
+  "products": {
+    "title": "Nos Outils",
+    "subtitle": "Botanique Pure & Huiles Essentielles",
+    "barros": {
+      "title": "Argiles Gold & Original",
+      "desc": "Des mélanges botaniques purs qui agissent comme une phytothérapie capillaire. Ils couvrent les cheveux blancs de façon naturelle, apportent des reflets multitonaux et renforcent la cuticule de l'intérieur pour des cheveux visiblement plus épais, plus sains et pleins de vie.",
+      "tag": "Pigmentation par Affinité",
+      "imgAlt": "Mélanges d'argiles botaniques Gold et Original pour une phytothérapie capillaire saine"
+    },
+    "oleos": {
+      "title": "Pigment Organique (Huiles)",
+      "desc": "Une fusion d'huiles végétales et de pigments purs offrant une coloration permanente sans ammoniaque. Une expérience sensorielle unique qui hydrate en profondeur et nourrit intensément.",
+      "tag": "Brillance Tridimensionnelle",
+      "imgAlt": "Coloration aux huiles et pigments naturels sans ammoniaque pour une brillance tridimensionnelle"
+    }
+  },
+  "ritual": {
+    "eyebrow": "Nos Étapes",
+    "quote": "« Un moment pour déconnecter et vous reconnecter à votre propre beauté naturelle. »",
+    "imgAlt": "Massage sensoriel et rituel de bien-être pendant la coloration organique chez Pilar Palomares",
+    "step1": {
+      "title": "Diagnostic Capillaire",
+      "desc": "Analyse détaillée de votre fibre capillaire pour un soin unique."
+    },
+    "step2": {
+      "title": "Lavage Conscient",
+      "desc": "Nettoyage en profondeur avec des botaniques sans sulfates ni silicones."
+    },
+    "step3": {
+      "title": "Régulation de la Porosité",
+      "desc": "Nous préparons le cheveu pour que le pigment se fixe durablement."
+    },
+    "step4": {
+      "title": "Rituel Couleur",
+      "desc": "Une application posée et aromatique qui transforme votre chevelure en œuvre d'art."
+    },
+    "step5": {
+      "title": "Équilibrant de pH",
+      "desc": "Nous scellons la cuticule pour préserver la couleur bien plus longtemps."
+    },
+    "step6": {
+      "title": "Massage Sensoriel",
+      "desc": "Nous terminons en apaisant l'esprit tout en nourrissant en profondeur."
+    },
+    "title1": "Notre Rituel",
+    "title2": "de Couleur"
+  },
+  "benefits": {
+    "eyebrow": "Résultats Réels",
+    "item1": {
+      "title": "Cuir chevelu sain",
+      "desc": "Sans irritations, démangeaisons ni desquamations chimiques."
+    },
+    "item2": {
+      "title": "Sans produits chimiques agressifs",
+      "desc": "Sans ammoniaque, résorcine ni parabènes nocifs."
+    },
+    "item3": {
+      "title": "Durabilité exceptionnelle",
+      "desc": "Des pigments qui vieillissent avec grâce, sans effet racine marqué."
+    },
+    "item4": {
+      "title": "Hydratation profonde",
+      "desc": "Les huiles botaniques scellent l'hydratation naturelle."
+    },
+    "item5": {
+      "title": "Corps et volume",
+      "desc": "Les plantes épaississent le cheveu dès la première application."
+    },
+    "item6": {
+      "title": "Fragrance botanique",
+      "desc": "Nous remplaçons l'odeur chimique par des essences de fleurs et de terre."
+    },
+    "title1": "Bénéfices pour",
+    "title2": "votre Bien-être"
+  },
+  "cta": {
+    "eyebrow": "Commencez votre Transformation",
+    "title1": "La Couleur que vos",
+    "title2": "Cheveux Désirent",
+    "text": "Laissez-nous réaliser un diagnostic personnalisé et découvrir la teinte parfaite qui s'harmonise avec votre essence et respecte votre santé.",
+    "reservar": "Réserver un Diagnostic",
+    "contactar": "Des questions ? Contactez-nous",
+    "imgAlt": "Coloration aux argiles botaniques au Salón Pilar Palomares"
+  }
+}

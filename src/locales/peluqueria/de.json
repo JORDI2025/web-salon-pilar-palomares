@@ -1,0 +1,35 @@
+{
+  "seo": {
+    "title": "Signature & Bio-Friseur in Malaga",
+    "description": "Bio-Friseursalon in Malaga (Torre de Benagalbón). Spezialisten für natürliche Färbung mit Tonerde und Ölen, Signature-Haarschnitte und gesunde Pflege."
+  },
+  "hero": {
+    "eyebrow": "Philosophie · Technik · Wohlbefinden",
+    "title1": "Signature",
+    "title2": "Friseur",
+    "text": "Wir verstehen das Haar als ein lebendiges Organ. Entdecken Sie unsere Spezialitäten, die Ihre Schönheit auf gesunde Weise zur Geltung bringen."
+  },
+  "categories": {
+    "color": {
+      "title": "Farbkultur",
+      "desc": "Organische Farbbehandlungen mit Tonerde und Ölen, die Gesundheit und Licht spenden, ohne die Haarfaser anzugreifen. Spiegelglanz und natürliche Haltbarkeit.",
+      "label": "Licht & Gesundheit"
+    },
+    "forma": {
+      "title": "Kultur der Form",
+      "desc": "Unsere Vision des Haardesigns: Signature-Cuts, botanisches Styling und Spezialitäten in Texturen (Curly, Glättung), die den natürlichen Fall respektieren.",
+      "label": "Design & Identität"
+    },
+    "tratamientos": {
+      "title": "Haarbehandlungen",
+      "desc": "Zelluläre Gesundheitsrituale, die Ihre Kopfhaut und Ihr Haar von innen heraus mit botanischer Technologie reinigen, nähren und regenerieren.",
+      "label": "Zelluläre Gesundheit"
+    },
+    "eventos": {
+      "title": "Events & Bräute",
+      "desc": "Wir begleiten Ihre besonderen Momente mit exklusiven Styling- und Wellness-Services für Bräute, Brautjungfern und Gäste.",
+      "label": "Einzigartige Tage"
+    },
+    "explore": "Service Entdecken"
+  }
+}

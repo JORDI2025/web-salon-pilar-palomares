@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "Reservieren Sie Ihren Termin online",
+    "description": "Reservieren Sie online Ihren Termin oder Ihre kostenlose Haar- und Gesichtsdiagnose im Salón Pilar Palomares in Torre de Benagalbón (Málaga)."
+  },
+  "success": {
+    "title": "Vielen Dank!",
+    "text": "Wir haben Ihre Anfrage erhalten, {{name}}. Pilar oder ein Mitglied des Teams wird Sie sehr bald kontaktieren, um Ihren Termin zu bestätigen.",
+    "back": "Zurück zur Startseite"
+  },
+  "header": {
+    "eyebrow": "Reservieren Sie Ihren Platz",
+    "title1": "BEWUSSTE",
+    "title2": "SCHÖNHEIT"
+  },
+  "contact": {
+    "callLabel": "Anrufen",
+    "whatsappLabel": "WhatsApp",
+    "whatsappHref": "https://wa.me/34642275906?text=Hallo,%20ich%20w%C3%BCrde%20gerne%20eine%20Diagnose%20oder%20einen%20Termin%20im%20Salon%20anfragen.",
+    "imgAlt": "Pilar Palomares am Telefon an der Rezeption des Salons",
+    "imgAltFull": "Pilar Palomares am Telefon an der Rezeption des Salons, bereit, Sie zu Ihrem Termin für bewusste Schönheit zu empfangen"
+  },
+  "form": {
+    "title": "Fragen Sie Ihren Termin an",
+    "subtitle": "Füllen Sie das Formular aus, und wir gestalten den perfekten Rahmen für Ihre Behandlung.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Ihr Name...",
+    "phoneLabel": "Telefon",
+    "phonePlaceholder": "Ihre Nummer...",
+    "serviceLabel": "Gewünschte Leistung",
+    "serviceDefault": "Wählen Sie eine Option...",
+    "servicePeluqueria": "Friseur",
+    "serviceColor": "Farbkultur (Tonerden / Öle)",
+    "serviceBioterapia": "Biotherapie (Haar / Gesicht / Maderotherapie)",
+    "serviceEstetica": "Kosmetik",
+    "serviceNovias": "Bräute",
+    "serviceOtros": "Sonstiges",
+    "detailsLabel": "Weitere Angaben",
+    "detailsPlaceholder": "Teilen Sie uns Ihre bevorzugte Uhrzeit mit (z. B. vormittags, nachmittags...)",
+    "privacyPre": "Ich habe die",
+    "privacyLink": "Datenschutzerklärung",
+    "privacyPost": " gelesen und akzeptiere sie. *",
+    "sending": "Wird gesendet...",
+    "submit": "Termin anfragen",
+    "footer": "Pilar Palomares • Bewusste Schönheit • 2026"
+  },
+  "legal": {
+    "title": "Grundlegende Informationen zum Datenschutz:",
+    "responsableLabel": "Verantwortlicher:",
+    "responsable": "Pilar Palomares (Salón Pilar Palomares).",
+    "finalidadLabel": "Zweck:",
+    "finalidad": "Bearbeitung Ihrer Terminanfrage und Beantwortung Ihrer Fragen zu unseren Leistungen.",
+    "legitimacionLabel": "Rechtsgrundlage:",
+    "legitimacion": "Einwilligung der betroffenen Person durch Ankreuzen des Kästchens und Absenden des Formulars.",
+    "destinatariosLabel": "Empfänger:",
+    "destinatarios": "Ihre Daten werden nicht an Dritte weitergegeben, außer bei gesetzlicher Verpflichtung oder an technische Dienstleister.",
+    "derechosLabel": "Rechte:",
+    "derechos": "Sie können Ihre Daten einsehen, berichtigen und löschen sowie weitere Rechte ausüben, die in unserer",
+    "derechosLink": "Datenschutzerklärung",
+    "derechosPost": " beschrieben sind."
+  }
+}

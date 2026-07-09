@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Coloración de Barros y Óleos Orgánicos en Málaga",
+    "description": "Coloración orgánica con barros y óleos en Málaga. Tinte botánico 100% natural, respetuoso y saludable en el Salón Pilar Palomares en Torre de Benagalbón."
+  },
+  "hero": {
+    "eyebrow": "Belleza Saludable",
+    "title1": "Cultura",
+    "title2": "de Color",
+    "text": "Coloración que respira, brilla y sana. Redescubre la naturaleza de tu cabello a través del poder de las plantas.",
+    "imgAlt": "Resultado de coloración orgánica y barros botánicos en Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, sirviendo a Añoreta, Chilches y Torre del Mar"
+  },
+  "philosophy": {
+    "eyebrow": "Nuestra Filosofía",
+    "title1": "Más que un color,",
+    "title2": "un tratamiento",
+    "p1": "Utilizamos productos botánicos que respetan la estructura capilar mientras aportan una luminosidad única. Creemos en la salud del cabello como base de toda estética.",
+    "p2": "En Pilar Palomares, abandonamos la agresión de los tintes sintéticos para abrazar el poder de las plantas micronizadas y los aceites vegetales. El resultado es un cabello que no solo luce mejor, sino que está más fuerte, hidratado y flexible.",
+    "quote": "\"La naturaleza nos brinda los pigmentos más puros para cuidar tu esencia sin comprometer tu bienestar.\"",
+    "card1": {
+      "title": "Respeto Estructural",
+      "desc": "Preservamos la integridad de la fibra de forma interna, evitando daños químicos y manteniendo la vitalidad natural.",
+      "imgAlt": "Aplicación de barros orgánicos respetando la estructura capilar en Salón Pilar Palomares"
+    },
+    "card2": {
+      "title": "Luminosidad",
+      "desc": "Reflejos orgánicos que vibran con la luz natural, creando dimensiones profundas y huyendo del efecto bloque."
+    },
+    "card3": {
+      "title": "Consciencia",
+      "desc": "Sostenibilidad y ética en cada pigmento. Respetamos tu salud con tratamientos libres de tóxicos y llenos de vida."
+    }
+  },
+  "products": {
+    "title": "Nuestras Herramientas",
+    "subtitle": "Botánica Pura & Aceites Esenciales",
+    "barros": {
+      "title": "Barros Gold & Original",
+      "desc": "Mezclas botánicas puras que actúan como fitoterapia capilar. Cubren canas de forma natural, aportando reflejos multitonales y fortaleciendo la cutícula desde el interior para conseguir un cabello visiblemente más grueso, sano y lleno de vida.",
+      "tag": "Pigmentación por Afinidad",
+      "imgAlt": "Mezclas de barros botánicos Gold y Original para fitoterapia capilar saludable"
+    },
+    "oleos": {
+      "title": "Pigmento Orgánico (Óleos)",
+      "desc": "Fusión de aceites vegetales y pigmentos puros que ofrecen coloración permanente sin amoníaco. Una experiencia sensorial única que hidrata profundamente aportando nutrición.",
+      "tag": "Brillo Tridimensional",
+      "imgAlt": "Coloración con óleos y pigmentos naturales sin amoníaco para un brillo tridimensional"
+    }
+  },
+  "ritual": {
+    "eyebrow": "Nuestros Pasos",
+    "quote": "\"Un momento para desconectar y reconectar con tu propia belleza natural.\"",
+    "imgAlt": "Masaje sensorial y ritual de bienestar durante la coloración orgánica en Pilar Palomares",
+    "step1": {
+      "title": "Diagnóstico Capilar",
+      "desc": "Análisis detallado de tu fibra capilar para un tratamiento único."
+    },
+    "step2": {
+      "title": "Lavado Consciente",
+      "desc": "Limpieza profunda con botánicos libres de sulfatos y siliconas."
+    },
+    "step3": {
+      "title": "Regulación de Porosidad",
+      "desc": "Preparamos el cabello para que el pigmento asiente de forma duradera."
+    },
+    "step4": {
+      "title": "Ritual de Color",
+      "desc": "Aplicación pausada y aromática que transforma tu melena en arte."
+    },
+    "step5": {
+      "title": "Equilibrador de pH",
+      "desc": "Sellamos la cutícula para mantener el color por mucho más tiempo."
+    },
+    "step6": {
+      "title": "Masaje Sensorial",
+      "desc": "Finalizamos relajando la mente mientras nutrimos profundamente."
+    },
+    "title1": "Nuestro Ritual",
+    "title2": "de Color"
+  },
+  "benefits": {
+    "eyebrow": "Resultados Reales",
+    "item1": {
+      "title": "Cuero cabelludo sano",
+      "desc": "Libre de irritaciones, picores o descamaciones químicas."
+    },
+    "item2": {
+      "title": "Sin químicos agresivos",
+      "desc": "Sin amoníaco, resorcinol ni parabenos perjudiciales."
+    },
+    "item3": {
+      "title": "Durabilidad excepcional",
+      "desc": "Pigmentos que envejecen con gracia sin efecto raíz marcado."
+    },
+    "item4": {
+      "title": "Hidratación profunda",
+      "desc": "Los aceites botánicos sellan la hidratación natural."
+    },
+    "item5": {
+      "title": "Cuerpo y volumen",
+      "desc": "Las plantas engrosan el cabello desde la primera aplicación."
+    },
+    "item6": {
+      "title": "Fragancia botánica",
+      "desc": "Sustituimos el olor químico por esencias de flores y tierra."
+    },
+    "title1": "Beneficios para",
+    "title2": "tu Bienestar"
+  },
+  "cta": {
+    "eyebrow": "Inicia tu Transformación",
+    "title1": "El Color que tu",
+    "title2": "Cabello Desea",
+    "text": "Permítenos realizar un diagnóstico personalizado y descubrir la tonalidad perfecta que armoniza con tu esencia y respeta tu salud.",
+    "reservar": "Reservar Diagnóstico",
+    "contactar": "¿Dudas? Contáctanos",
+    "imgAlt": "Coloración con barros botánicos en Salón Pilar Palomares"
+  }
+}

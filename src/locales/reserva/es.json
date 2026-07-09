@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "Reserva tu Cita Online",
+    "description": "Reserva tu cita o diagnóstico capilar y facial gratuito online en el Salón Pilar Palomares de Torre de Benagalbón (Málaga)."
+  },
+  "success": {
+    "title": "¡Gracias!",
+    "text": "Hemos recibido tu solicitud, {{name}}. Pilar o alguien del equipo te contactará muy pronto para confirmar tu cita.",
+    "back": "Volver al inicio"
+  },
+  "header": {
+    "eyebrow": "Reserva tu espacio",
+    "title1": "BELLEZA",
+    "title2": "CONSCIENTE"
+  },
+  "contact": {
+    "callLabel": "Llamar",
+    "whatsappLabel": "WhatsApp",
+    "whatsappHref": "https://wa.me/34642275906?text=Hola,%20me%20gustaría%20solicitar%20un%20diagnóstico%20o%20cita%20en%20el%20salón.",
+    "imgAlt": "Pilar Palomares atendiendo el teléfono en la recepción del salón",
+    "imgAltFull": "Pilar Palomares atendiendo el teléfono en la recepción del salón, lista para recibirte en tu cita de belleza consciente"
+  },
+  "form": {
+    "title": "Solicita tu cita",
+    "subtitle": "Completa el formulario y diseñaremos el espacio perfecto para tu tratamiento.",
+    "nameLabel": "Nombre",
+    "namePlaceholder": "Tu nombre...",
+    "phoneLabel": "Teléfono",
+    "phonePlaceholder": "Tu número...",
+    "serviceLabel": "Servicio de Interés",
+    "serviceDefault": "Selecciona una opción...",
+    "servicePeluqueria": "Peluquería",
+    "serviceColor": "Cultura de Color (Barros / Óleos)",
+    "serviceBioterapia": "Bioterapia (Capilar / Facial / Maderoterapia)",
+    "serviceEstetica": "Estética",
+    "serviceNovias": "Novias",
+    "serviceOtros": "Otros",
+    "detailsLabel": "Detalles Adicionales",
+    "detailsPlaceholder": "Indica tu preferencia horaria (ej. mañanas, tardes...)",
+    "privacyPre": "He leído y acepto la",
+    "privacyLink": "Política de Privacidad",
+    "privacyPost": ". *",
+    "sending": "Enviando...",
+    "submit": "Solicitar Cita",
+    "footer": "Pilar Palomares • Belleza Consciente • 2026"
+  },
+  "legal": {
+    "title": "Información básica sobre protección de datos:",
+    "responsableLabel": "Responsable:",
+    "responsable": "Pilar Palomares (Salón Pilar Palomares).",
+    "finalidadLabel": "Finalidad:",
+    "finalidad": "Gestionar su solicitud de cita previa y responder a sus consultas de servicios.",
+    "legitimacionLabel": "Legitimación:",
+    "legitimacion": "Consentimiento del interesado al marcar la casilla y enviar el formulario.",
+    "destinatariosLabel": "Destinatarios:",
+    "destinatarios": "No se cederán datos a terceros salvo obligación legal o proveedores de servicios técnicos.",
+    "derechosLabel": "Derechos:",
+    "derechos": "Acceder, rectificar y suprimir los datos, así como otros derechos detallados en nuestra",
+    "derechosLink": "Política de Privacidad",
+    "derechosPost": "."
+  }
+}

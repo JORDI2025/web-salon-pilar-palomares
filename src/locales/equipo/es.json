@@ -1,0 +1,72 @@
+{
+  "seo": {
+    "title": "Equipo de Estilistas",
+    "description": "Conoce al equipo de estilistas y terapeutas del Salón Pilar Palomares, expertos en bioterapias y peluquería orgánica en Málaga."
+  },
+  "hero": {
+    "title1": "Nuestro",
+    "title2": "Equipo",
+    "text": "Siete historias, una misma pasión. Profesionales que han convertido el cuidado natural en su forma de vida.",
+    "imgAlt": "Equipo de Salón Pilar Palomares en Torre de Benagalbón, Axarquía (Málaga)"
+  },
+  "intro": {
+    "eyebrow": "Las personas",
+    "title": "Equipo Profesional",
+    "subtitle": "altamente capacitado",
+    "tagline": "Para nosotr@s el trabajo es pura diversión",
+    "lead": "Ofrecemos una experiencia de belleza más saludable y sostenible.",
+    "text": "No solo nos preocupamos de embellecer a nuestr@s client@s, sino que también trabajamos activamente para preservar el planeta y promover un estilo de vida más consciente con respecto al medio ambiente. Si no nos conoces, ¿a qué esperas?"
+  },
+  "carousel": {
+    "prevLabel": "Ver imagen anterior",
+    "nextLabel": "Ver imagen siguiente",
+    "placeholder": "Foto {{num}}",
+    "workAlt": "{{name}}, del equipo de Salón Pilar Palomares, trabajando — foto {{num}}"
+  },
+  "team": {
+    "pilar": {
+      "role": "Directora & Fundadora",
+      "bio": "Pilar sintió la vocación por la peluquería desde pequeña, teniendo siempre muy claro a qué quería dedicarse. A lo largo de su carrera, ha fundado con éxito 6 salones de belleza. Tras más de 30 años de trayectoria, su carácter cercano y familiar, junto con su forma de ver el mundo, definen el alma acogedora de nuestro salón, evolucionando de manera natural hacia una peluquería y estética orgánicas donde apuesta por una belleza natural, consciente y saludable. Su formación en el método biodinámico de Secretos del Agua la convirtió en pionera en la Axarquía, siempre fiel a su creencia de que cada persona merece un trato que respete su esencia única.",
+      "photoAlt": "Pilar Palomares, directora de Salón Pilar Palomares"
+    },
+    "bea": {
+      "role": "Peluquera & Esteticista",
+      "bio": "Con 30 años de trayectoria y dedicación en nuestro salón, Bea es la versatilidad hecha persona y una profesional sumamente perfeccionista en cada detalle de su trabajo. Domina con maestría tanto la peluquería como la estética, lo que le permite ofrecer una visión integral de la belleza. Su sensibilidad especial para entender lo que cada clienta necesita la convierte en una pieza clave del equipo, fusionando técnica y calidez en cada servicio.",
+      "photoAlt": "Bea, peluquera y esteticista del equipo de Salón Pilar Palomares"
+    },
+    "rosi": {
+      "role": "Peluquera · Experta en Coloración de Barros",
+      "bio": "Con 18 años de trayectoria en nuestro salón, Rosi destaca por su simpatía contagiosa y ha convertido la coloración con barros orgánicos en un verdadero arte. Su profundo conocimiento de los pigmentos naturales y su capacidad para interpretar los matices de cada cabello hacen que sus resultados sean únicos, saludables y siempre auténticos.",
+      "photoAlt": "Rosi, experta en coloración de barros del equipo de Salón Pilar Palomares"
+    },
+    "sonia": {
+      "role": "Peluquera · Experta en Iluminaciones y Recogidos",
+      "bio": "Sonia aporta frescura y energía al equipo, destacando como experta en iluminaciones y recogidos de cabello. Su pasión por la peluquería se refleja en la dedicación que pone en cada corte, cada peinado y cada tratamiento capilar. Siempre en formación continua, combina las tendencias actuales con los principios de la belleza orgánica que definen al salón.",
+      "photoAlt": "Sonia, peluquera del equipo de Salón Pilar Palomares"
+    },
+    "paqui": {
+      "role": "Esteticista",
+      "bio": "Con una trayectoria que incluye su paso por prestigiosas firmas del sector y más de 10 años de dedicación en nuestro salón, Paqui es la guardiana de la piel en nuestro equipo. Especializada en bioterapias faciales y corporales, diseña cada protocolo como un viaje sensorial que restaura el equilibrio cutáneo desde la profundidad celular, convirtiendo cada sesión en una experiencia transformadora.",
+      "photoAlt": "Paqui, esteticista de Salón Pilar Palomares"
+    },
+    "alba": {
+      "role": "Experta en Manicura",
+      "bio": "Alba es la integrante más joven del salón y la encargada de aportar frescura y vitalidad al equipo. Cuida de tus manos con una precisión artesanal que marca la diferencia, combinando su dominio de las técnicas de manicura (desde el esmaltado clásico hasta el semi-permanente) con un trato exquisito. Detallista por naturaleza, Alba convierte cada cita en un relajante momento de mimos sin dejar nada al azar.",
+      "photoAlt": "Alba, experta en manicura del equipo de Salón Pilar Palomares"
+    },
+    "david": {
+      "role": "Estilista de Caballeros",
+      "bio": "David es el referente masculino del salón. Simpático, dicharachero y un poco travieso, siempre está de broma y con una sonrisa lista para contagiar su alegría. Su formación en barbería moderna y estilismo le permite ofrecer cortes con personalidad y acabados impecables. Entiende que el cuidado personal no tiene género y que cada hombre merece un servicio a la altura: preciso, elegante y con productos que respetan su piel y cabello.",
+      "photoAlt": "David, estilista de caballeros de Salón Pilar Palomares"
+    }
+  },
+  "cta": {
+    "eyebrow": "Únete a nosotros",
+    "title1": "¿Quieres vivir la",
+    "title2": "experiencia con nosotros?",
+    "text": "Cada visita al salón es una oportunidad para reconectar contigo. Nuestro equipo está preparado para cuidarte como mereces.",
+    "reservar": "Reserva tu Cita",
+    "contactar": "Contáctanos",
+    "imgAlt": "Interior de Salón Pilar Palomares, peluquería orgánica"
+  }
+}

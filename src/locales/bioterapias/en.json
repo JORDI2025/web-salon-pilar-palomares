@@ -1,0 +1,304 @@
+{
+  "seo": {
+    "title": "Biotherapies & Natural Aesthetics in Malaga",
+    "description": "Hair, facial and body Biotherapies in Malaga. Treatment with Biopolar Water™ by Secretos del Agua in Torre de Benagalbón. Cellular and integrative health."
+  },
+  "hero": {
+    "eyebrow": "Conscious Beauty · Natural Health",
+    "title": "Biotherapies",
+    "text": "Biological treatments that restore the natural balance of your body and hair through the power of plants and Biopolar Water™.",
+    "imgAlt": "Holistic Biotherapy protocols and advanced body treatments at Salón Pilar Palomares in Torre de Benagalbón, Málaga. Holistic care near Añoreta, Chilches and Torre del Mar"
+  },
+  "detalles": "Details",
+  "agua": {
+    "eyebrow": "The Science",
+    "title": "Biopolar Water™",
+    "imgAltMobile": "Biopolar Water™ by Secretos del Agua",
+    "imgAltDesktop": "Secretos del Agua Biotherapy products with Biopolar Water™ at Pilar Palomares",
+    "text1": "The heart of our biotherapies. A patented liquid nanostructure that boosts the skin's regenerative capacity by up to ",
+    "textStrong": "40%",
+    "text2": ", restoring cellular memory and skin vitality through pure bioenergetic restructuring.",
+    "props": {
+      "molecular": {
+        "title": "Molecular Restructuring",
+        "desc": "Amplifies botanical potency and transmits vital energy to every tissue."
+      },
+      "regenerativa": {
+        "title": "Regenerative Stimulation",
+        "desc": "Enhances deep renewal, improving the skin's vitality."
+      },
+      "depurativa": {
+        "title": "Purifying Capacity",
+        "desc": "Protects against oxidative damage and eliminates toxins naturally."
+      },
+      "vibracion": {
+        "title": "Vibration & Memory",
+        "desc": "Restores the biological memory and natural vitality of the cells."
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently Asked Questions",
+    "q1": {
+      "question": "What do Biotherapies consist of?",
+      "item1": "We begin with a prior diagnosis to establish which Biotherapy best suits your needs.",
+      "item2": "From the moment the treatment begins, your senses will awaken.",
+      "item3": "We use quartz and haematite to guide and channel the body's energies correctly.",
+      "item4": "We apply pressure points and massage.",
+      "item5": "We use only organic products by Secretos del Agua.",
+      "item6": "We include our Integrative Remedies, according to the diagnosis carried out.",
+      "item7": "We accompany you with ongoing advice: every Biotherapy, both facial and body, includes an at-home maintenance treatment."
+    },
+    "q2": {
+      "question": "Why should you try the Biotherapies?",
+      "answer": "We are often unaware of just how much we need to care for our body — to devote a few minutes simply to disconnecting and letting the organism find its balance again. From blood circulation to skin exfoliation and even hydration. Biotherapies go further still: the use of quartz, haematite and brushes turns the experience into a moment of complete relaxation and total disconnection."
+    },
+    "q3": {
+      "question": "What is the difference between the Biotherapies and Secretos del Agua at-home treatments?",
+      "p1": "Whenever desired, a diagnosis is carried out to offer you the best treatment according to your skin's needs. In addition, the Biotherapies use specific professional-only products to achieve a deeper cleanse and maximum hydration. They also incorporate specialist equipment, massage and contact points that aid circulation and improve the penetration of the products applied.",
+      "p2": "The Biotherapies are complemented by our Integrative Remedies, formulas specially indicated for different organs of the body. The application of the Integrative Remedies goes beyond beautifying the skin: they regulate the organism and help achieve inner balance.",
+      "p3": "We recommend a facial Biotherapy as an in-depth treatment, followed by the prescribed at-home routine to maintain the results long term. Likewise, for localised body treatments to tone and reduce adiposity, we recommend the Biotherapies as an intensive boost, followed by proper at-home maintenance with the right products."
+    },
+    "title1": "What are",
+    "title2": "Biotherapies?"
+  },
+  "capilar": {
+    "eyebrow": "Hair Restoration",
+    "title1": "Hair",
+    "title2": "Treatments",
+    "imgAlt": "Hair Restoration Treatment in Málaga",
+    "quoteMobile": "\"Infoactivos are highly concentrated biological serums that act on the metabolism of the hair follicle.\"",
+    "quoteDesktop": "\"Infoactivos are highly concentrated biological serums that act on the metabolism of the hair follicle, restoring real strength and vitality.\"",
+    "text": "Our Hair Treatment is an advanced ritual of detoxification and deep nourishment, designed to restore biological health from follicle to tip. A system that frees the hair from synthetic residues while infusing high-purity botanical nutrients, restoring lost vitality, shine and natural structure through your hair's natural cycles.",
+    "items": {
+      "biolaminar": {
+        "name": "BIOLAMINAR RESTORER",
+        "benefits": "Rejuvenates and seals the cuticle, restoring natural shine and elasticity.",
+        "price": "From 25€"
+      },
+      "fuerza": {
+        "name": "STRENGTH RESTORER",
+        "benefits": "Revitalises the follicle, delivering extraordinary body, volume and density.",
+        "price": "From 25€"
+      },
+      "lluvia": {
+        "name": "RAIN WATER",
+        "benefits": "A shot of deep hydration that recovers extreme elasticity and softness.",
+        "price": "From 25€"
+      },
+      "volumen": {
+        "name": "VOLUME & DENSITY",
+        "benefits": "Brings fullness and visible density to fine or lifeless hair.",
+        "price": "From 25€"
+      },
+      "purificante": {
+        "name": "PURIFYING",
+        "benefits": "A deep detox that frees the pore from silicones, synthetic residues and pollution.",
+        "price": "From 25€"
+      },
+      "tierra": {
+        "name": "EARTH WATER",
+        "benefits": "Intensive reconstruction that repairs structurally damaged hair.",
+        "price": "From 25€"
+      },
+      "infoFuerza": {
+        "name": "INFOACTIVO STRENGTH",
+        "benefits": "A biological stimulant that boosts the hair's anchorage, vigour and growth.",
+        "price": "30€"
+      },
+      "infoSensitivo": {
+        "name": "INFOACTIVO SENSITIVE",
+        "benefits": "Soothes the reactive scalp while protecting and reinforcing the outer structure.",
+        "price": "30€"
+      },
+      "alisado": {
+        "name": "AMINO-PROTEIN SMOOTHING",
+        "benefits": "Smooth perfection and absolute discipline with long-lasting organic technology.",
+        "price": "From 267€"
+      },
+      "reparador": {
+        "name": "AMINO-PROTEIN REPAIR",
+        "benefits": "Hair architecture that rebuilds and strengthens the keratin bridges.",
+        "price": "From 267€"
+      }
+    }
+  },
+  "corporal": {
+    "eyebrow": "Energy & Balance",
+    "title1": "Body",
+    "title2": "Biotherapies",
+    "sesiones": "Individual Sessions",
+    "precio": "65€",
+    "imgAlt": "David and Paqui of Salón Pilar Palomares",
+    "quote": "\"Body biotherapy is a biological response that respects your skin's timing and your organism's rhythms.\"",
+    "text": "Our body biotherapies act on the circulatory and lymphatic systems, allowing your body to recover its natural biological architecture through botanical ingredients that respect your cellular frequency and revitalise every tissue.",
+    "protocolos": "Protocols combined with Biopolar Water™ for deep, harmonious detoxification.",
+    "items": {
+      "sculptor": {
+        "name": "Sculptor Body Biotherapy",
+        "desc": "A toning, slimming therapy that drains toxins and redefines the silhouette biologically.",
+        "price": "65 €"
+      },
+      "colorLuz": {
+        "name": "Colour Light Body Biotherapy",
+        "desc": "A rejuvenating treatment that evens the tone and brings extraordinary luminosity to the skin.",
+        "price": "65 €"
+      },
+      "piernas": {
+        "name": "Perfect Legs Biotherapy",
+        "desc": "Immediate relief from fatigue, deep drainage and toning for the legs.",
+        "price": "65 €"
+      }
+    }
+  },
+  "madero": {
+    "eyebrow": "Ancestral Legacy",
+    "title": "Wood Therapy",
+    "imgAlt": "Wood Therapy technique at Pilar Palomares",
+    "text": "We complement our biotherapies with anatomically designed wooden tools that sculpt the figure and eliminate localised adiposity through deep, draining mechanical stimulation.",
+    "cta": "Explore Treatment",
+    "tools": {
+      "tabla": {
+        "name": "Sculpting Board",
+        "desc": "Drains mobilised fat and sculpts the body's most delicate areas."
+      },
+      "rodilloCubos": {
+        "name": "Cube Roller",
+        "desc": "Breaks down adipocytes in the deeper layers and softens the appearance of cellulite."
+      },
+      "copa": {
+        "name": "Swedish Cup",
+        "desc": "A suction effect that lifts and tones tissue on the buttocks, abdomen and thighs."
+      },
+      "rodilloLiso": {
+        "name": "Smooth Roller",
+        "desc": "Activates the circulatory and lymphatic systems overall."
+      },
+      "cepillo": {
+        "name": "Exfoliating Brush",
+        "desc": "Removes dead cells and stimulates surface microcirculation."
+      }
+    }
+  },
+  "facial": {
+    "eyebrow": "Facial Care",
+    "badge": "Cellular Biotechnology",
+    "precio": "From 65€",
+    "text": "Biological facial treatments that respect your skin's health, restoring the luminosity and vitality it needs according to your skin type.",
+    "imgAlt": "Personalised Facial Biotherapy",
+    "items": {
+      "sensitiva": {
+        "name": "Sensitive Biotherapy",
+        "desc": "A calming, responsive therapy for sensitive, unbalanced skin.",
+        "price": "65 €"
+      },
+      "iluminante": {
+        "name": "Illuminating Biotherapy",
+        "desc": "Targets skin hyperpigmentation while delivering luminosity.",
+        "price": "65 €"
+      },
+      "detox": {
+        "name": "Detox Biotherapy",
+        "desc": "Purifies and balances excess oil, indicated for acne-prone skin.",
+        "price": "65 €"
+      },
+      "antiaging": {
+        "name": "Anti-Ageing Biotherapy",
+        "desc": "Restructures, brings light and delays cellular ageing.",
+        "price": "65 €"
+      },
+      "regeneradora": {
+        "name": "Regenerating Biotherapy",
+        "desc": "Specifically for dehydrated skin with pronounced lines.",
+        "price": "65 €"
+      }
+    },
+    "title1": "Facial",
+    "title2": "Biotherapy"
+  },
+  "manosPies": {
+    "eyebrow": "Hand & Foot Care",
+    "text": "Biological treatments that not only beautify, but act on the skin's health and the circulation of your hands and feet.",
+    "protocolo": "Aesthetic Protocol",
+    "manos": {
+      "name": "Hand Biotherapy",
+      "desc": "A revitalising ritual that exfoliates, hydrates and improves skin texture, restoring your hands' natural softness and luminosity."
+    },
+    "pies": {
+      "name": "Foot Biotherapy",
+      "desc": "A refreshing treatment that renews the skin and brings lightness to tired feet, providing a lasting sense of wellbeing."
+    },
+    "title1": "Hands",
+    "title2": "and Feet"
+  },
+  "remedios": {
+    "eyebrow": "Inner Balance",
+    "text": "The link between dermatology and psychosomatics. Each remedy is associated with an organ and an emotional state, working on beauty from within.",
+    "badge": "Cellular Biological Care",
+    "quote": "\"These remedies are applied through massage on the area corresponding to the organ, allowing Biopolar Water™ to carry the plants' information directly to the cells.\"",
+    "items": {
+      "pul": {
+        "name": "Breathe",
+        "organ": "Respiratory System",
+        "emotion": "Mental clarity and firmness in decision-making."
+      },
+      "rex": {
+        "name": "Rest",
+        "organ": "Relaxation",
+        "emotion": "Enhances joy and hope; an emotional stabiliser."
+      },
+      "cor": {
+        "name": "Love",
+        "organ": "Heart",
+        "emotion": "Softens feminine cycles; brings affection and creativity."
+      },
+      "baz": {
+        "name": "Renew",
+        "organ": "Cellular Renewal",
+        "emotion": "Strengthens the will to overcome sadness."
+      },
+      "gen": {
+        "name": "Sensitivity",
+        "organ": "Skin Sensitivity",
+        "emotion": "Protection and calm for states of extreme reactivity."
+      },
+      "pan": {
+        "name": "Flexibility",
+        "organ": "Body Flexibility",
+        "emotion": "Brings tolerance and tranquillity; eases self-demand."
+      },
+      "hig": {
+        "name": "Courage",
+        "organ": "Hepatic System",
+        "emotion": "Strength and determination in the face of new challenges or changes."
+      },
+      "dig": {
+        "name": "Digest",
+        "organ": "Digestive System",
+        "emotion": "Helps process food and emotions with ease."
+      },
+      "rin": {
+        "name": "Energy",
+        "organ": "Renal Vitality",
+        "emotion": "Restores vital energy and fights fatigue."
+      },
+      "men": {
+        "name": "Direction",
+        "organ": "Focus & Purpose",
+        "emotion": "Helps find clarity in times of uncertainty."
+      }
+    },
+    "title1": "Integrative",
+    "title2": "Remedies"
+  },
+  "cta": {
+    "eyebrow": "Begin Your Transformation",
+    "title1": "Reserve Your Space of",
+    "title2": "Conscious Beauty",
+    "text": "We are ready to listen and design the ideal biotherapy for your hair and skin. Your transformation begins with a personalised diagnosis.",
+    "imgAltMobile": "Personalised diagnosis - Salón Pilar Palomares",
+    "imgAltDesktop": "Begin your transformation with a personalised biotherapy diagnosis in Málaga",
+    "reservar": "Book a Diagnosis",
+    "contactar": "Questions? Contact Us"
+  }
+}

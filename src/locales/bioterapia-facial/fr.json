@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Biothérapie Faciale Biologique",
+    "description": "Soins et biothérapies faciales biologiques à l'Eau Biopolaire de Secretos del Agua à Torre de Benagalbón. Soin naturel de la peau."
+  },
+  "hero": {
+    "back": "Toutes les Biothérapies",
+    "title1": "Biothérapie",
+    "title2": "Faciale",
+    "text": "Une approche intégrative de la beauté où la santé de votre peau se régénère grâce à la science botanique de Secretos del Agua.",
+    "cta": "Demander un Diagnostic",
+    "imgAlt": "Soins intégratifs de biothérapie faciale avancée au Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria, près d'Añoreta, Chilches et Málaga"
+  },
+  "intro": {
+    "eyebrow": "Science Botanique",
+    "text1": "Notre biothérapie faciale n'est pas un nettoyage conventionnel. C'est un système thérapeutique qui utilise l'",
+    "strong": "Eau Biopolaire™",
+    "text2": " pour transmettre une information cellulaire et botanique, permettant à la peau de retrouver son équilibre, son hydratation et sa luminosité de l'intérieur.",
+    "title1": "Santé",
+    "title2": "et Beauté"
+  },
+  "protocols": {
+    "eyebrow": "Protocoles du Visage",
+    "title1": "Biothérapie",
+    "title2": "Faciale",
+    "imgAltMobile": "Séance de biothérapie faciale avancée aux actifs botaniques au Salón Pilar Palomares",
+    "imgAltDesktop": "Séance de biothérapie faciale aux actifs botaniques au salon de coiffure biologique Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "quote": "\"Nous restaurons l'architecture de votre peau en respectant ses rythmes biologiques.\"",
+    "card": "\"Nous renforçons chaque soin par la madérothérapie faciale et les quartz, réactivant la circulation et le collagène naturel pour un effet liftant biologique immédiat.\""
+  },
+  "list": {
+    "eyebrow": "Soins Personnalisés",
+    "text": "Découvrez nos biothérapies faciales, une sélection de rituels conçus pour restaurer l'équilibre et la vitalité de votre peau :",
+    "title1": "Biothérapies",
+    "title2": "Faciales"
+  },
+  "tabs": {
+    "description": "Description",
+    "benefits": "Bienfaits",
+    "ideal": "Pour vous",
+    "actives": "Actifs"
+  },
+  "slideshow": {
+    "prev": "Voir l'image précédente",
+    "next": "Voir l'image suivante"
+  },
+  "treatments": {
+    "sensitiva": {
+      "title": "Biothérapie Sensitive",
+      "subtitle": "Peaux Réactives · Apaisement et Protection",
+      "summary": "Thérapie biologique conçue pour restaurer l'équilibre des peaux les plus délicates et réactives.",
+      "tabs": {
+        "description": "Rituel apaisant qui renforce la barrière protectrice du derme, éliminant rougeurs et tiraillements grâce à l'Eau Biopolaire™ et à des actifs botaniques comme le calendula et le bleuet.",
+        "benefits": "• Apaise immédiatement l'irritation.\n• Renforce l'hydratation naturelle.\n• Réduit la réactivité cutanée.\n• Apporte douceur et confort.",
+        "ideal": "• Vous avez la peau sensible ou réactive.\n• Vous souffrez de rougeurs ou de desquamation.\n• Vous ressentez des tiraillements après le nettoyage.\n• Vous recherchez un rituel doux et respectueux.",
+        "actives": "Calendula, Bleuet, Camomille, Aloe Vera, Eau Biopolaire™."
+      }
+    },
+    "iluminante": {
+      "title": "Biothérapie Illuminatrice",
+      "subtitle": "Uniformité · Lumière et Dépigmentation",
+      "summary": "Agit sur l'hyperpigmentation pour redonner luminosité et uniformité au teint du visage.",
+      "tabs": {
+        "description": "Soin avancé qui régule la production de mélanine et affine le grain de peau. Idéal pour les peaux ternes ou présentant des taches solaires et hormonales.",
+        "benefits": "• Estompe taches et marques.\n• Unifie le teint du visage.\n• Apporte une luminosité instantanée.\n• Régénère les tissus abîmés.",
+        "ideal": "• Votre teint vous semble terne ou irrégulier.\n• Vous avez des taches solaires ou liées à l'âge.\n• Vous souhaitez retrouver votre éclat naturel.\n• Vous avez des marques d'acné.",
+        "actives": "Busserole, Réglisse, Vitamine C naturelle, Ginkgo Biloba."
+      }
+    },
+    "detox": {
+      "title": "Biothérapie Détox",
+      "subtitle": "Pureté · Équilibre et Nettoyage en Profondeur",
+      "summary": "Nettoyage biologique en profondeur qui draine les toxines et régule l'excès de sébum.",
+      "tabs": {
+        "description": "Rituel purifiant qui nettoie les pores sans agresser, équilibrant le pH et redonnant sa vitalité aux peaux à tendance aux imperfections.",
+        "benefits": "• Élimine toxines et points noirs.\n• Régule l'excès de sébum.\n• Resserre les pores et affine la texture.\n• Prévient les poussées d'acné.",
+        "ideal": "• Vous avez la peau grasse ou mixte.\n• Vous remarquez des pores dilatés et des imperfections.\n• Vous vivez dans un environnement pollué.\n• Vous sentez votre peau lourde ou encrassée.",
+        "actives": "Bardane, Ortie, Argile Blanche, Citron, Thym."
+      }
+    },
+    "antiaging": {
+      "title": "Biothérapie Anti-Âge",
+      "subtitle": "Restructuration · Fermeté et Jeunesse",
+      "summary": "Thérapie restructurante qui combat le vieillissement cellulaire et redonne de la densité à la peau.",
+      "tabs": {
+        "description": "Rituel conçu pour les peaux ayant besoin d'un supplément de nutrition et de fermeté. Il stimule biologiquement la production de collagène et d'élastine, comblant les rides de l'intérieur.",
+        "benefits": "• Effet liftant biologique.\n• Comble les rides d'expression.\n• Améliore l'élasticité et la fermeté.\n• Nourrit en profondeur.",
+        "ideal": "• Vous constatez une perte de fermeté de l'ovale du visage.\n• Vous avez des rides ou des lignes marquées.\n• Vous recherchez un rajeunissement naturel.\n• Votre peau vous semble fine ou fragile.",
+        "actives": "Resvératrol, Huile d'Argan, Soja, Rose Musquée, Karité."
+      }
+    },
+    "regeneradora": {
+      "title": "Biothérapie Régénérante",
+      "subtitle": "Renouvellement · Hydratation et Énergie",
+      "summary": "Biothérapie intensive pour les peaux dévitalisées, sèches ou en manque d'énergie cellulaire.",
+      "tabs": {
+        "description": "Rituel de nutrition intense qui redonne rebond et volume au visage, réparant les dommages causés par les agressions extérieures.",
+        "benefits": "• Hydratation longue durée.\n• Régénère les tissus en express.\n• Lisse le grain de peau.\n• Apporte souplesse et rebond.",
+        "ideal": "• Votre peau est très sèche ou déshydratée.\n• Vous remarquez un manque de vitalité et de fraîcheur.\n• Vous avez été exposée au soleil ou au froid extrême.\n• Vous recherchez une peau souple et rebondie.",
+        "actives": "Acide Hyaluronique végétal, Avocat, Beurre de Murumuru, Algues."
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Bio-Coloration mit Tonerden & Ölen in Malaga",
+    "description": "Bio-Coloration mit Tonerden und Ölen von Secretos del Agua in Malaga. Natürliche, gesunde botanische Haarfarbe in Torre de Benagalbón."
+  },
+  "hero": {
+    "eyebrow": "Gesunde Schönheit",
+    "title1": "Kultur",
+    "title2": "der Farbe",
+    "text": "Farbe, die atmet, glänzt und heilt. Entdecken Sie die Natur Ihres Haares neu – durch die Kraft der Pflanzen.",
+    "imgAlt": "Ergebnis organischer Coloration mit botanischen Tonerden im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, für Añoreta, Chilches und Torre del Mar"
+  },
+  "philosophy": {
+    "eyebrow": "Unsere Philosophie",
+    "title1": "Mehr als eine Farbe –",
+    "title2": "eine Pflegebehandlung",
+    "p1": "Wir verwenden botanische Produkte, die die Haarstruktur respektieren und zugleich eine einzigartige Leuchtkraft schenken. Wir glauben an gesundes Haar als Grundlage jeder Schönheit.",
+    "p2": "Bei Pilar Palomares verzichten wir auf die Aggressivität synthetischer Farben und setzen auf die Kraft mikronisierter Pflanzen und pflanzlicher Öle. Das Ergebnis ist Haar, das nicht nur schöner aussieht, sondern auch stärker, feuchtigkeitsversorgt und geschmeidiger ist.",
+    "quote": "„Die Natur schenkt uns die reinsten Pigmente, um Ihr Wesen zu pflegen, ohne Ihr Wohlbefinden zu gefährden.“",
+    "card1": {
+      "title": "Strukturschutz",
+      "desc": "Wir bewahren die Integrität der Haarfaser von innen, vermeiden chemische Schäden und erhalten die natürliche Vitalität.",
+      "imgAlt": "Auftragen organischer Tonerden unter Schonung der Haarstruktur im Salón Pilar Palomares"
+    },
+    "card2": {
+      "title": "Leuchtkraft",
+      "desc": "Organische Reflexe, die mit dem natürlichen Licht vibrieren, tiefe Dimensionen schaffen und jeden Blockfarben-Effekt vermeiden."
+    },
+    "card3": {
+      "title": "Bewusstsein",
+      "desc": "Nachhaltigkeit und Ethik in jedem Pigment. Wir respektieren Ihre Gesundheit mit Behandlungen frei von Schadstoffen und voller Leben."
+    }
+  },
+  "products": {
+    "title": "Unsere Werkzeuge",
+    "subtitle": "Reine Botanik & Ätherische Öle",
+    "barros": {
+      "title": "Tonerden Gold & Original",
+      "desc": "Reine botanische Mischungen, die wie eine Phytotherapie fürs Haar wirken. Sie decken graues Haar auf natürliche Weise ab, schenken mehrdimensionale Reflexe und stärken die Schuppenschicht von innen – für sichtbar kräftigeres, gesünderes Haar voller Leben.",
+      "tag": "Pigmentierung nach Affinität",
+      "imgAlt": "Botanische Tonerden-Mischungen Gold und Original für gesunde Haar-Phytotherapie"
+    },
+    "oleos": {
+      "title": "Organisches Pigment (Öle)",
+      "desc": "Eine Fusion aus Pflanzenölen und reinen Pigmenten für permanente Coloration ohne Ammoniak. Ein einzigartiges Sinneserlebnis, das tief hydratisiert und nährt.",
+      "tag": "Dreidimensionaler Glanz",
+      "imgAlt": "Coloration mit natürlichen Ölen und Pigmenten ohne Ammoniak für dreidimensionalen Glanz"
+    }
+  },
+  "ritual": {
+    "eyebrow": "Unsere Schritte",
+    "quote": "„Ein Moment, um abzuschalten und sich wieder mit der eigenen natürlichen Schönheit zu verbinden.“",
+    "imgAlt": "Sinnliche Massage und Wohlfühlritual während der organischen Coloration bei Pilar Palomares",
+    "step1": {
+      "title": "Haardiagnose",
+      "desc": "Detaillierte Analyse Ihrer Haarfaser für eine einzigartige Behandlung."
+    },
+    "step2": {
+      "title": "Bewusste Haarwäsche",
+      "desc": "Tiefenreinigung mit botanischen Produkten ohne Sulfate und Silikone."
+    },
+    "step3": {
+      "title": "Porositätsregulierung",
+      "desc": "Wir bereiten das Haar vor, damit sich das Pigment dauerhaft verankert."
+    },
+    "step4": {
+      "title": "Farbritual",
+      "desc": "Ein ruhiges, aromatisches Auftragen, das Ihr Haar in Kunst verwandelt."
+    },
+    "step5": {
+      "title": "pH-Ausgleich",
+      "desc": "Wir versiegeln die Schuppenschicht, damit die Farbe deutlich länger hält."
+    },
+    "step6": {
+      "title": "Sinnliche Massage",
+      "desc": "Zum Abschluss entspannen wir den Geist und nähren das Haar in der Tiefe."
+    },
+    "title1": "Unser",
+    "title2": "Farbrithual"
+  },
+  "benefits": {
+    "eyebrow": "Echte Ergebnisse",
+    "item1": {
+      "title": "Gesunde Kopfhaut",
+      "desc": "Frei von Reizungen, Juckreiz oder chemisch bedingter Schuppung."
+    },
+    "item2": {
+      "title": "Ohne aggressive Chemie",
+      "desc": "Ohne Ammoniak, Resorcin oder schädliche Parabene."
+    },
+    "item3": {
+      "title": "Außergewöhnliche Haltbarkeit",
+      "desc": "Pigmente, die anmutig verblassen – ohne harten Ansatz-Effekt."
+    },
+    "item4": {
+      "title": "Tiefenhydratation",
+      "desc": "Botanische Öle versiegeln die natürliche Feuchtigkeit."
+    },
+    "item5": {
+      "title": "Fülle und Volumen",
+      "desc": "Die Pflanzen kräftigen das Haar schon ab der ersten Anwendung."
+    },
+    "item6": {
+      "title": "Botanischer Duft",
+      "desc": "Wir ersetzen den chemischen Geruch durch Essenzen von Blüten und Erde."
+    },
+    "title1": "Vorteile für Ihr",
+    "title2": "Wohlbefinden"
+  },
+  "cta": {
+    "eyebrow": "Beginnen Sie Ihre Verwandlung",
+    "title1": "Die Farbe, die sich Ihr",
+    "title2": "Haar wünscht",
+    "text": "Lassen Sie uns eine persönliche Diagnose durchführen und den perfekten Farbton entdecken, der mit Ihrem Wesen harmoniert und Ihre Gesundheit respektiert.",
+    "reservar": "Diagnose buchen",
+    "contactar": "Fragen? Kontakt",
+    "imgAlt": "Coloration mit botanischen Tonerden im Salón Pilar Palomares"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "seo": {
+    "title": "Ästhetik & Maderotherapie",
+    "description": "Integrative Ästhetik, Schönheitsrituale und Körper-Maderotherapie in Torre de Benagalbón. Individuelle Gesichtspflege, Körperpflege und natürliches Augendesign."
+  },
+  "hero": {
+    "eyebrow": "Schönheit, die atmet",
+    "title1": "Integrative",
+    "title2": "Ästhetik",
+    "text": "Rituale, die die Zyklen Ihrer Haut und die Harmonie Ihres Körpers ehren.",
+    "imgAlt": "Rituale der integrativen Ästhetik und Maderotherapie im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "intro": {
+    "eyebrow": "Unsere Vision",
+    "title": "Die Kunst der ganzheitlichen Pflege",
+    "desc": "Bei Pilar Palomares verstehen wir Ästhetik nicht als Ziel, sondern als Gesundheitsprozess. Wir wollen Unvollkommenheiten nicht überdecken, sondern die Schönheit enthüllen, die von einem ausgeglichenen Körper und einer mit Sauerstoff versorgten Haut ausgeht. Unsere Gesichts- und Körperbehandlungen verbinden traditionelle Maderotherapie mit der Biotechnologie von Agua Biopolar™.",
+    "card1Title": "Geschützte Haut",
+    "card1Desc": "Wir respektieren Ihre natürliche Hydro-Lipid-Barriere zu 100 %.",
+    "card2Title": "Aktiver Fluss",
+    "card2Desc": "Wir stimulieren das Lymph- und Kreislaufsystem.",
+    "imgAlt": "Biologische Gesichtspflege und natürliche ästhetische Bioterapie im Salón Pilar Palomares"
+  },
+  "mirada": {
+    "eyebrow": "Intensiver Blick · Gesichtsharmonie",
+    "title": "Design des Blicks",
+    "desc": "Wir betonen Ihre natürliche Schönheit durch eine individuelle Untersuchung und Gestaltung von Augenbrauen und Wimpern und schaffen so den perfekten Rahmen für Ihren Blick.",
+    "imgAlt": "Augenbrauen- und Wimperndesign im Salón Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "items": {
+      "cejas": {
+        "name": "Augenbrauendesign",
+        "desc": "Morphologische Untersuchung und Brauendesign abgestimmt auf Ihre Gesichtszüge. Inklusive Haarentfernung (mit Wachs oder Pinzette) und Definition durch Augenbrauenfarbe oder -tönung."
+      },
+      "lifting": {
+        "name": "Wimpernlifting",
+        "desc": "Behandlung zur Anhebung und Schwunggebung der natürlichen Wimpern von der Wurzel an. Inklusive Wimpernfärben zur Farbintensivierung oder Einzelwimpernfärbeservice."
+      },
+      "extensiones": {
+        "name": "Wimpernverlängerung",
+        "desc": "Sorgfältiges Anbringen einzelner Wimpern. Es dient dazu, Dichte und Anzahl der Wimpern zu erhöhen, um den Blick zu intensivieren und die Augen optisch zu vergrößern."
+      },
+      "micropigmentacion": {
+        "name": "Mikropigmentierung",
+        "desc": "Semipermanente Härchen-für-Härchen-Augenbrauen-Makeup-Technik. Füllt Lücken, definiert die Form und sorgt für Symmetrie – für einen perfekten, natürlichen Rahmen."
+      }
+    }
+  },
+  "depilacion": {
+    "eyebrow": "Tägliche Pflege & Harmonie",
+    "title": "Haarentfernung & Make-up",
+    "desc": "Wir bieten essenzielle Haarentfernungs- und professionelle Make-up-Services, die Ihre Haut verwöhnen und die Harmonie Ihrer natürlichen Züge betonen.",
+    "depilacionTitle": "Haarentfernung",
+    "depilacionDesc": "Haarentfernung im Gesicht oder am Körper. Service sowohl für Frauen als auch für Männer geeignet.",
+    "maquillajeTitle": "Make-up",
+    "maquillajeDesc": "Wir betonen die Gesichtszüge und kaschieren kleine Makel für eine stärkere Harmonie.",
+    "imgAlt": "Professionelles Make-up im Salón Pilar Palomares, Torre de Benagalbón"
+  },
+  "faciales": {
+    "title": "Gesichtsrituale",
+    "eyebrow": "Zellbiotechnologie für Ihr Gesicht",
+    "priceLabel": "Ab 65€",
+    "viewBtn": "Behandlung anzeigen",
+    "items": {
+      "sensitiva": {
+        "name": "Sensitive Bioterapie",
+        "desc": "Beruhigt und stellt das Gleichgewicht bei empfindlicher Haut wieder her."
+      },
+      "iluminante": {
+        "name": "Illuminating Bioterapie",
+        "desc": "Spendet Licht und gleicht den Hautton durch Bekämpfung von Flecken aus."
+      },
+      "antiaging": {
+        "name": "Anti-Aging Bioterapie",
+        "desc": "Tiefenrestrukturierung zur Milderung von Mimikfalten."
+      },
+      "detox": {
+        "name": "Detox Bioterapie",
+        "desc": "Intensive Klärung bei fettiger oder unreiner Haut."
+      }
+    }
+  },
+  "manosPies": {
+    "eyebrow": "Details, die zählen",
+    "title": "Hände, Füße & Massagen",
+    "desc": "Ihre Gliedmaßen sind die Entladungsstellen Ihrer Energiekanäle und Ihr Körper sammelt alltägliche Spannungen an. Eine Behandlung mit Hand- und Fußbioterapien oder Wellness-Körpermassagen entwässert, versorgt den Körper mit Sauerstoff und entspannt den Organismus, was zu absoluter Leichtigkeit und tiefer Ruhe führt.",
+    "manos": {
+      "label": "Verschönerung & Pflege",
+      "title": "Hand-Bioterapie",
+      "desc": "Komplette Maniküre: Diese Schönheitsbehandlung pflegt Hände und Nägel. Ein Peeling und Nährstoffe machen die Haut geschmeidig und beheben Mängel.",
+      "imgAlt": "Hand-Bioterapie im Salón Pilar Palomares"
+    },
+    "pies": {
+      "label": "Leichtigkeit & Rundumpflege",
+      "title": "Fuß-Bioterapie",
+      "desc": "Komplette Pediküre: Diese Rundumpflege peelt die Füße, pflegt die Nägel, entfernt Hornhaut und hält die Haut frei von Unreinheiten.",
+      "imgAlt": "Fuß-Bioterapie im Salón Pilar Palomares"
+    },
+    "masajes": {
+      "label": "Abschalten & Tiefe Ruhe",
+      "title": "Massagen",
+      "desc": "Körperliches Wohlbefinden: Diese Behandlung hilft Ihnen, Muskelverspannungen zu lösen, die Durchblutung zu verbessern und Stress abzubauen, um angestaute Spannungen im Körper und Geist zu lösen.",
+      "imgAlt": "Entspannende Körpermassage im Salón Pilar Palomares"
+    }
+  },
+  "madero": {
+    "eyebrow": "Traditionelle Modellierung",
+    "title": "Maderotherapie",
+    "quote": "\"Die Kraft des edlen Holzes, meisterhaft angewendet, um Energie zu kanalisieren und Ihre Silhouette neu zu formen.\"",
+    "desc": "Maderotherapie besteht aus einer Massage unter Verwendung verschiedener Holzwerkzeuge in unterschiedlichen Größen und Formen, die speziell an die Anatomie des Körpers angepasst sind. Es hilft auf nicht-invasive Weise zu straffen, zu festigen und Cellulite zu bekämpfen.",
+    "corporalTitle": "Körper-Maderotherapie",
+    "corporalDesc": "Tiefenmodellierung mit Holzwerkzeugen, die den Abtransport von Giftstoffen anregen und das Volumen reduzieren. Kann mit der Bioterapie Sculptor kombiniert werden.",
+    "imgAlt": "Professionelle Maderotherapie-Sitzung in der Axarquía"
+  },
+  "cta": {
+    "eyebrow": "Beginnen Sie Ihr Ritual",
+    "title": "Gönnen Sie sich einen Moment wahrer Schönheit",
+    "desc": "Zögern Sie nicht, uns Ihre Fragen zu stellen. Wir sind hier, um Sie mit Behandlungen, die Ihr Wesen respektieren, zu Ihrer besten Version zu führen.",
+    "btnReserva": "Meinen Termin buchen",
+    "btnContacto": "Kontakt mit Pilar"
+  }
+}

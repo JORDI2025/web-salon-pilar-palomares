@@ -1,0 +1,53 @@
+{
+  "seo": {
+    "title": "Bridal & Event Hairstyling",
+    "description": "Natural hairdressing and makeup for brides and event guests in Torre de Benagalbón. Elegant styling for your most special moments."
+  },
+  "hero": {
+    "eyebrow": "Brides & Special Events",
+    "title": "Events & Brides",
+    "text": "Your best self for your most special moments.",
+    "imgAlt": "Specialised hairdressing and makeup services for brides and guests at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, near Añoreta, Chilches and Málaga"
+  },
+  "vision": {
+    "eyebrow": "Our Vision",
+    "text": "At Salón Pilar Palomares we understand that an event is not just the big day itself, but the whole journey of preparation. We focus on enhancing your natural beauty without transforming who you are, using organic products that care for your hair and skin from start to finish.",
+    "title1": "Every event is unique,",
+    "title2": "and your style should be too."
+  },
+  "maquillaje": {
+    "eyebrow": "Luxury Experience",
+    "title": "PROFESSIONAL MAKEUP",
+    "text": "We use high-end professional makeup products to achieve a flawless, luminous, long-lasting finish on your big day. Our goal is for you to feel like yourself, enhancing your features with elegance, technique and naturalness.",
+    "tagline": "Silky textures and natural pigmentation",
+    "imgAlt": "Professional makeup service for brides and events at Salón Pilar Palomares"
+  },
+  "services": {
+    "eyebrow": "Specialities",
+    "novias": {
+      "title": "Premium Brides",
+      "desc": "A complete service that includes a prior consultation, hair and makeup trials, and exclusive attention on the day of the event. We create a natural, sophisticated look that highlights your essence in every detail.",
+      "imgAlt": "Premium Bridal package: personalised hair and makeup for the big day"
+    },
+    "madrinas": {
+      "title": "Wedding Party & Guests",
+      "desc": "Elegant, long-lasting styles designed so you can enjoy every moment in complete comfort and confidence. We adapt to your personal style to achieve a flawless finish that lasts the whole event.",
+      "imgAlt": "Styling and hairdressing service for the wedding party and event guests"
+    },
+    "comuniones": {
+      "title": "First Communions",
+      "desc": "Delicate, natural hairstyles for the little ones, always respecting their freshness and natural joy. A warm, gentle service so they feel special on an unforgettable day for them and their family.",
+      "imgAlt": "Natural, delicate hairstyles for girls on their First Communion day"
+    },
+    "title1": "Hairdressing",
+    "title2": "& Styling"
+  },
+  "info": {
+    "text": "To guarantee the best results, all our bridal services require a prior consultation. At this appointment, we analyse your hair and skin, your tastes and the style of the event to design the perfect proposal.",
+    "cardEyebrow": "Check availability",
+    "cardTitle": "Request your consultation appointment",
+    "cta": "Book a consultation",
+    "title1": "Process",
+    "title2": "and Valuation"
+  }
+}

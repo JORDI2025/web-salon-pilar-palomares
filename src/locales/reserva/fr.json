@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "Réservez votre rendez-vous en ligne",
+    "description": "Réservez en ligne votre rendez-vous ou votre diagnostic capillaire et facial gratuit au Salón Pilar Palomares de Torre de Benagalbón (Málaga)."
+  },
+  "success": {
+    "title": "Merci !",
+    "text": "Nous avons bien reçu votre demande, {{name}}. Pilar ou un membre de l'équipe vous contactera très prochainement pour confirmer votre rendez-vous.",
+    "back": "Retour à l'accueil"
+  },
+  "header": {
+    "eyebrow": "Réservez votre espace",
+    "title1": "BEAUTÉ",
+    "title2": "CONSCIENTE"
+  },
+  "contact": {
+    "callLabel": "Appeler",
+    "whatsappLabel": "WhatsApp",
+    "whatsappHref": "https://wa.me/34642275906?text=Bonjour,%20je%20souhaiterais%20demander%20un%20diagnostic%20ou%20un%20rendez-vous%20au%20salon.",
+    "imgAlt": "Pilar Palomares répondant au téléphone à la réception du salon",
+    "imgAltFull": "Pilar Palomares répondant au téléphone à la réception du salon, prête à vous accueillir pour votre rendez-vous de beauté consciente"
+  },
+  "form": {
+    "title": "Demandez votre rendez-vous",
+    "subtitle": "Remplissez le formulaire et nous concevrons l'espace parfait pour votre soin.",
+    "nameLabel": "Nom",
+    "namePlaceholder": "Votre nom...",
+    "phoneLabel": "Téléphone",
+    "phonePlaceholder": "Votre numéro...",
+    "serviceLabel": "Service souhaité",
+    "serviceDefault": "Sélectionnez une option...",
+    "servicePeluqueria": "Coiffure",
+    "serviceColor": "Culture de la Couleur (Argiles / Huiles)",
+    "serviceBioterapia": "Biothérapie (Capillaire / Faciale / Madérothérapie)",
+    "serviceEstetica": "Esthétique",
+    "serviceNovias": "Mariées",
+    "serviceOtros": "Autres",
+    "detailsLabel": "Détails supplémentaires",
+    "detailsPlaceholder": "Indiquez vos préférences horaires (ex. matinées, après-midis...)",
+    "privacyPre": "J'ai lu et j'accepte la",
+    "privacyLink": "Politique de Confidentialité",
+    "privacyPost": ". *",
+    "sending": "Envoi en cours...",
+    "submit": "Demander un rendez-vous",
+    "footer": "Pilar Palomares • Beauté Consciente • 2026"
+  },
+  "legal": {
+    "title": "Informations de base sur la protection des données :",
+    "responsableLabel": "Responsable :",
+    "responsable": "Pilar Palomares (Salón Pilar Palomares).",
+    "finalidadLabel": "Finalité :",
+    "finalidad": "Gérer votre demande de rendez-vous et répondre à vos questions sur nos services.",
+    "legitimacionLabel": "Base légale :",
+    "legitimacion": "Consentement de la personne concernée en cochant la case et en envoyant le formulaire.",
+    "destinatariosLabel": "Destinataires :",
+    "destinatarios": "Aucune donnée ne sera cédée à des tiers, sauf obligation légale ou prestataires de services techniques.",
+    "derechosLabel": "Droits :",
+    "derechos": "Accéder aux données, les rectifier et les supprimer, ainsi que d'autres droits détaillés dans notre",
+    "derechosLink": "Politique de Confidentialité",
+    "derechosPost": "."
+  }
+}

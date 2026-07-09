@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Organische Gesichtsbiotherapie",
+    "description": "Organische Gesichtsbehandlungen und Biotherapien mit Biopolarem Wasser von Secretos del Agua in Torre de Benagalbón. Natürliche Hautpflege."
+  },
+  "hero": {
+    "back": "Alle Biotherapien",
+    "title1": "Biotherapie",
+    "title2": "für das Gesicht",
+    "text": "Ein integrativer Schönheitsansatz, bei dem die Gesundheit Ihrer Haut durch die botanische Wissenschaft von Secretos del Agua wiederhergestellt wird.",
+    "cta": "Diagnose Anfragen",
+    "imgAlt": "Integrative fortschrittliche Gesichtsbiotherapie-Behandlungen im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, nahe Añoreta, Chilches und Málaga"
+  },
+  "intro": {
+    "eyebrow": "Botanische Wissenschaft",
+    "text1": "Unsere Gesichtsbiotherapie ist keine herkömmliche Reinigung. Sie ist ein therapeutisches System, das ",
+    "strong": "Biopolares Wasser™",
+    "text2": " nutzt, um zelluläre und botanische Information zu übertragen, damit die Haut ihr Gleichgewicht, ihre Hydratation und ihre Leuchtkraft von innen heraus zurückgewinnt.",
+    "title1": "Gesundheit",
+    "title2": "und Schönheit"
+  },
+  "protocols": {
+    "eyebrow": "Gesichtsprotokolle",
+    "title1": "Biotherapie",
+    "title2": "für das Gesicht",
+    "imgAltMobile": "Fortschrittliche Gesichtsbiotherapie-Sitzung mit botanischen Wirkstoffen im Salón Pilar Palomares",
+    "imgAltDesktop": "Gesichtsbiotherapie-Sitzung mit botanischen Wirkstoffen im organischen Friseursalon Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "quote": "\"Wir stellen die Architektur Ihrer Haut wieder her und respektieren dabei ihre biologischen Rhythmen.\"",
+    "card": "\"Wir verstärken jede Behandlung mit Gesichts-Maderotherapie und Quarzen, reaktivieren die Durchblutung und das natürliche Kollagen für einen sofortigen biologischen Lifting-Effekt.\""
+  },
+  "list": {
+    "eyebrow": "Personalisierte Behandlungen",
+    "text": "Entdecken Sie unsere Gesichtsbiotherapien – eine Auswahl an Ritualen, die das Gleichgewicht und die Vitalität Ihrer Haut wiederherstellen:",
+    "title1": "Gesichts-",
+    "title2": "Biotherapien"
+  },
+  "tabs": {
+    "description": "Beschreibung",
+    "benefits": "Vorteile",
+    "ideal": "Für Sie",
+    "actives": "Wirkstoffe"
+  },
+  "slideshow": {
+    "prev": "Vorheriges Bild ansehen",
+    "next": "Nächstes Bild ansehen"
+  },
+  "treatments": {
+    "sensitiva": {
+      "title": "Sensitive Biotherapie",
+      "subtitle": "Reaktive Haut · Beruhigung und Schutz",
+      "summary": "Biologische Therapie zur Wiederherstellung des Gleichgewichts der empfindlichsten und reaktivsten Haut.",
+      "tabs": {
+        "description": "Beruhigendes Ritual, das die Schutzbarriere der Haut stärkt und Rötungen sowie Spannungsgefühle mit Biopolarem Wasser™ und botanischen Wirkstoffen wie Ringelblume und Kornblume lindert.",
+        "benefits": "• Beruhigt Irritationen sofort.\n• Stärkt die natürliche Hydratation.\n• Reduziert die Hautreaktivität.\n• Schenkt Geschmeidigkeit und Komfort.",
+        "ideal": "• Sie haben empfindliche oder reaktive Haut.\n• Sie leiden unter Rötungen oder Schuppung.\n• Ihre Haut spannt nach der Reinigung.\n• Sie suchen ein sanftes, respektvolles Ritual.",
+        "actives": "Ringelblume, Kornblume, Kamille, Aloe Vera, Biopolares Wasser™."
+      }
+    },
+    "iluminante": {
+      "title": "Aufhellende Biotherapie",
+      "subtitle": "Ebenmäßigkeit · Licht und Depigmentierung",
+      "summary": "Wirkt gezielt gegen Hyperpigmentierung und schenkt dem Gesicht Leuchtkraft und einen gleichmäßigen Teint.",
+      "tabs": {
+        "description": "Fortschrittliche Behandlung, die die Melaninproduktion reguliert und das Hautbild verfeinert. Ideal für fahle Haut oder Haut mit Sonnen- und Hormonflecken.",
+        "benefits": "• Mildert Flecken und Male.\n• Gleicht den Teint des Gesichts aus.\n• Schenkt sofortige Leuchtkraft.\n• Regeneriert geschädigtes Gewebe.",
+        "ideal": "• Ihr Hautton wirkt fahl oder ungleichmäßig.\n• Sie haben Sonnen- oder Altersflecken.\n• Sie möchten Ihren natürlichen Glanz zurückgewinnen.\n• Sie haben Aknemale.",
+        "actives": "Bärentraube, Süßholz, natürliches Vitamin C, Ginkgo Biloba."
+      }
+    },
+    "detox": {
+      "title": "Detox-Biotherapie",
+      "subtitle": "Reinheit · Gleichgewicht und Tiefenreinigung",
+      "summary": "Biologische Tiefenreinigung, die Toxine ausleitet und die übermäßige Talgproduktion reguliert.",
+      "tabs": {
+        "description": "Klärendes Ritual, das die Poren sanft und ohne Aggression reinigt, den pH-Wert ausgleicht und zu Unreinheiten neigender Haut ihre Vitalität zurückgibt.",
+        "benefits": "• Beseitigt Toxine und Mitesser.\n• Reguliert überschüssiges Hautfett.\n• Verfeinert die Poren und die Hautstruktur.\n• Beugt Akneausbrüchen vor.",
+        "ideal": "• Sie haben fettige Haut oder Mischhaut.\n• Sie bemerken erweiterte Poren und Unreinheiten.\n• Sie leben in einer Umgebung mit hoher Luftverschmutzung.\n• Ihre Haut fühlt sich schwer oder unrein an.",
+        "actives": "Klette, Brennnessel, Weiße Tonerde, Zitrone, Thymian."
+      }
+    },
+    "antiaging": {
+      "title": "Anti-Aging-Biotherapie",
+      "subtitle": "Restrukturierung · Festigkeit und Jugendlichkeit",
+      "summary": "Restrukturierende Therapie, die der Zellalterung entgegenwirkt und die Dichte der Haut wiederherstellt.",
+      "tabs": {
+        "description": "Ritual für Haut, die zusätzliche Nährstoffe und Festigkeit benötigt. Es stimuliert auf biologische Weise die Produktion von Kollagen und Elastin und polstert Falten von innen auf.",
+        "benefits": "• Biologischer Lifting-Effekt.\n• Polstert Mimikfalten auf.\n• Verbessert Elastizität und Festigkeit.\n• Nährt in der Tiefe.",
+        "ideal": "• Sie bemerken nachlassende Festigkeit der Gesichtskontur.\n• Sie haben Falten oder ausgeprägte Linien.\n• Sie suchen eine natürliche Verjüngung.\n• Ihre Haut wirkt dünn oder fragil.",
+        "actives": "Resveratrol, Arganöl, Soja, Hagebutte, Sheabutter."
+      }
+    },
+    "regeneradora": {
+      "title": "Regenerierende Biotherapie",
+      "subtitle": "Erneuerung · Hydratation und Energie",
+      "summary": "Intensiv-Biotherapie für devitalisierte, trockene Haut mit mangelnder Zellenergie.",
+      "tabs": {
+        "description": "Intensiv nährendes Ritual, das dem Gesicht Frische und Volumen zurückgibt und Schäden durch äußere Einflüsse repariert.",
+        "benefits": "• Langanhaltende Hydratation.\n• Regeneriert das Gewebe im Express-Verfahren.\n• Glättet das Hautbild.\n• Schenkt Elastizität und Frische.",
+        "ideal": "• Ihre Haut ist sehr trocken oder dehydriert.\n• Sie bemerken mangelnde Vitalität und Frische.\n• Sie waren Sonne oder extremer Kälte ausgesetzt.\n• Sie wünschen sich elastische, pralle Haut.",
+        "actives": "Pflanzliche Hyaluronsäure, Avocado, Murumuru-Butter, Algen."
+      }
+    }
+  }
+}

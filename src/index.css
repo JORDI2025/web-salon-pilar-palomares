@@ -1,0 +1,344 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* === REGISTRO LOCAL DE FUENTES (sistema tipográfico unificado) === */
+/* Títulos / editorial: Wensley */
+@font-face {
+  font-family: 'Wensley';
+  src: url('/fonts/Wensley-Light.woff2') format('woff2'), url('/fonts/Wensley-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Wensley';
+  src: url('/fonts/Wensley-Regular.woff2') format('woff2'), url('/fonts/Wensley-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Wensley';
+  src: url('/fonts/Wensley-Bold.woff2') format('woff2'), url('/fonts/Wensley-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cuerpo / UI: Just Sans (Regular + SemiBold ahora registrada) */
+@font-face {
+  font-family: 'Just Sans';
+  src: url('/fonts/JUST Sans Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Just Sans';
+  src: url('/fonts/JUST Sans SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+/* Mapea bold (700) a la SemiBold real para evitar el "faux bold" sintético */
+@font-face {
+  font-family: 'Just Sans';
+  src: url('/fonts/JUST Sans SemiBold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* === FUENTES DE RESPALDO (Mitigación de FOUC y CLS) === */
+/* Fallback para Wensley (Serif) */
+@font-face {
+  font-family: 'Wensley Fallback';
+  src: local('Georgia'), local('Times New Roman'), local('serif');
+  size-adjust: 94%;
+  ascent-override: 95%;
+  descent-override: 20%;
+  line-gap-override: 0%;
+}
+
+/* Fallback para Just Sans (Sans-Serif) */
+@font-face {
+  font-family: 'Just Sans Fallback';
+  src: local('Arial'), local('Segoe UI'), local('sans-serif');
+  size-adjust: 96%;
+  ascent-override: 95%;
+  descent-override: 20%;
+  line-gap-override: 0%;
+}
+
+:root {
+  --color-offwhite: #F9F7F2;
+  --color-chocolate: #3C2F2F;
+  --color-sand: #E8E2D6;
+  --color-accent-aqua: #85B7B2;
+  --color-mint: #B8CEC2;
+  --color-cream: #F4F1EA;
+  --color-peach: #E6DED4;
+  --color-coral: #85B7B2; /* alias del aqua de marca; el coral #FDB3A4 se retiró */
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-offwhite text-chocolate font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+    /* Evita palabras huérfanas en la última línea de los títulos */
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+}
+
+@layer components {
+  /* === SISTEMA DE BOTONES UNIFICADO ===
+     Un único tamaño base, una única tipografía interna y radios/padding fijos.
+     Usa .btn + una variante. El componente <Button/> aplica esto mismo. */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2
+           rounded-full font-sans font-semibold uppercase
+           text-[11px] tracking-[0.22em] leading-none
+           px-7 py-3.5 min-h-[48px]
+           border border-transparent select-none cursor-pointer
+           transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]
+           hover:scale-[1.04] active:scale-[0.97]
+           focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent-aqua focus-visible:ring-offset-2
+           disabled:opacity-50 disabled:pointer-events-none;
+  }
+  /* Variante secundaria compacta (mismo estilo de letra, menor padding) */
+  .btn-sm { @apply px-5 py-2.5 min-h-[40px] text-[10px]; }
+
+  .btn-primary {
+    @apply btn bg-accent-aqua text-white shadow-lg
+           hover:bg-white hover:text-accent-aqua hover:border-accent-aqua/30;
+  }
+  /* (alias) .btn-coral reconducido al aqua de marca por compatibilidad */
+  .btn-coral {
+    @apply btn bg-accent-aqua text-white shadow-lg
+           hover:bg-white hover:text-accent-aqua hover:border-accent-aqua/30;
+  }
+  .btn-outline {
+    @apply btn bg-transparent border-chocolate/25 text-chocolate
+           hover:bg-chocolate hover:text-white hover:border-chocolate;
+  }
+  .btn-outline-aqua {
+    @apply btn bg-transparent border-accent-aqua/40 text-accent-aqua
+           hover:bg-accent-aqua hover:text-white;
+  }
+  .btn-glass {
+    @apply btn bg-white/15 backdrop-blur-md text-white border-white/25
+           hover:bg-white/25;
+  }
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-6 lg:px-12 py-20 md:py-32;
+  }
+
+  .card-elevated {
+    @apply bg-white rounded-3xl shadow-xl border border-sand transition-all duration-300 hover:shadow-2xl hover:-translate-y-2 overflow-hidden;
+  }
+}
+
+/* Custom styles for specific elements */
+.font-serif {
+  font-family: 'Wensley', serif !important;
+}
+
+.font-sans {
+  font-family: 'Just Sans', sans-serif !important;
+}
+
+/* Animation & Transition utilities */
+.animate-fade-in {
+  animation: fadeIn 1.2s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* === SCROLL REVEAL UNIFICADO ===
+   Añade la clase `reveal` a cualquier elemento; el observador en main.jsx
+   le pone `is-visible` al entrar en viewport. Variantes opcionales con
+   `reveal-delay-1..4`. Respeta prefers-reduced-motion. */
+.reveal {
+  opacity: 0;
+  transform: translateY(32px);
+  transition: opacity 0.9s cubic-bezier(0.19,1,0.22,1),
+              transform 0.9s cubic-bezier(0.19,1,0.22,1);
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal-delay-1 { transition-delay: 0.12s; }
+.reveal-delay-2 { transition-delay: 0.24s; }
+.reveal-delay-3 { transition-delay: 0.36s; }
+.reveal-delay-4 { transition-delay: 0.48s; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  .reveal { opacity: 1 !important; transform: none !important; }
+}
+
+/* Fundido de entrada al cambiar de ruta (solo opacidad, sin transform) */
+.route-fade-in {
+  animation: routeFadeIn 0.45s cubic-bezier(0.19, 1, 0.22, 1) both;
+}
+@keyframes routeFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.ease-expo {
+  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.transition-premium {
+  transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.spring-bounce {
+  transition: all 600ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Haptic Double-Bezel (Doppelrand) Architecture */
+.double-bezel-wrapper {
+  @apply ring-1 ring-chocolate/5 p-3 md:p-4 rounded-[2.5rem] bg-chocolate/[0.02] backdrop-blur-sm transition-premium;
+}
+
+.double-bezel-inner {
+  @apply bg-white rounded-[calc(2.5rem-0.75rem)] shadow-[inset_0_1px_1px_rgba(255,255,255,0.9)] border border-sand/40 overflow-hidden;
+}
+
+/* Liquid Glass Refraction Panel */
+.liquid-glass {
+  @apply bg-white/70 backdrop-blur-xl border border-white/40 shadow-[inset_0_1px_2px_rgba(255,255,255,0.8),_0_20px_40px_-15px_rgba(60,47,47,0.1)] rounded-3xl transition-premium;
+}
+
+/* Noise Texture Overlay */
+.bg-noise {
+  position: relative;
+}
+.bg-noise::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.04'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Masonry Grid Utilities */
+.masonry-grid {
+  column-count: 1;
+  column-gap: 1.5rem;
+}
+@media (min-width: 768px) {
+  .masonry-grid {
+    column-count: 2;
+  }
+}
+@media (min-width: 1024px) {
+  .masonry-grid {
+    column-count: 3;
+    column-gap: 2rem;
+  }
+}
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 1024px) {
+  .masonry-item {
+    margin-bottom: 2rem;
+  }
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.eyebrow-badge {
+  @apply inline-flex items-center px-3 py-1 rounded-md bg-accent-aqua text-chocolate text-[10px] md:text-xs tracking-[0.2em] font-sans font-bold uppercase mb-6 select-none;
+}
+
+/* === CINTA MARQUEE INFINITA === */
+.marquee {
+  overflow: hidden;
+  padding-block: 1.3rem;
+  border-block: 1px solid #E8E2D6;          /* --sand */
+  background: #FFFFFF;                       /* --white */
+}
+.marquee__track {
+  display: flex;
+  gap: 3.5rem;
+  width: max-content;
+  animation: marquee 36s linear infinite;
+}
+.marquee span {
+  font-family: 'Wensley', Georgia, serif;      /* --serif */
+  font-size: .95rem;
+  letter-spacing: .5em;
+  text-transform: uppercase;
+  color: rgba(60, 47, 47, .6);                  /* --chocolate-60 */
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 3.5rem;
+}
+.marquee em {
+  font-style: normal;
+  color: #85B7B2;                            /* --aqua (los puntitos ·) */
+}
+@keyframes marquee {
+  to { transform: translateX(-50%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee__track { animation-duration: 120s !important; }
+}

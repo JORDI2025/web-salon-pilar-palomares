@@ -1,0 +1,78 @@
+{
+  "seo": {
+    "title": "Signature Cuts & Styling",
+    "description": "Signature cuts, curly method and botanical hairstyles in Torre de Benagalbón. Custom and organic styling and hair design."
+  },
+  "hero": {
+    "eyebrow": "Hair Architecture · Signature Design",
+    "title1": "The Culture",
+    "title2": "of Form",
+    "text": "The perfect balance between technique, identity and cellular health. We design forms that respect the natural fall of your hair.",
+    "imgAlt": "Culture of Form: signature cuts, curly styling and hair dressing at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "styling": {
+    "eyebrow": "Cut & Style",
+    "title": "Our Styling",
+    "desc": "It is the perfect balance between nutrition and hold. We use botanical products that create a protective shield in the cuticle, providing strength, shine and frizz control for an elegant, healthy and natural style.",
+    "antifrizz": "Anti-frizz",
+    "shine": "Shine",
+    "nutrition": "Nutrition",
+    "imgAlt": "Botanical styling and natural hair finish at Salón Pilar Palomares"
+  },
+  "design": {
+    "eyebrow": "Style & Identity",
+    "subtitle": "Cuts and styles that respect the natural fall and enhance your unique identity.",
+    "woman": {
+      "title": "Women's Styling",
+      "desc": "Includes Dermocapillary Wash, Facial Biotherapy and finishing with botanical Styling products.",
+      "imgAlt": "Healthy women's styling with organic products at Pilar Palomares"
+    },
+    "signature": {
+      "title": "Signature Cut",
+      "desc": "Dermocapillary Wash ritual, Express Facial Biotherapy and custom Styling according to your natural fall.",
+      "imgAlt": "Custom signature cut that respects the natural fall of the hair"
+    },
+    "man": {
+      "title": "Men's Care",
+      "desc": "Essential and experience cuts that include a moment of absolute relaxation and facial biotherapy.",
+      "imgAlt": "Men's hair styling and care with facial biotherapy at Pilar Palomares"
+    },
+    "title1": "The Art of",
+    "title2": "Design and Finish"
+  },
+  "specialties": {
+    "eyebrow": "Organic Actives & Minerals",
+    "desc": "Advanced treatments that work in synergy with your hair to restore its ideal shape.",
+    "curly": {
+      "eyebrow": "Definition & Health",
+      "title": "Curly Method",
+      "desc": "It is not just about styling, but about healing the curl from its origin. We recover the elasticity and natural memory of your hair through the use of pure minerals and micronized plants that nourish the fiber without adding weight.",
+      "badge1": "Silicone Free",
+      "badge2": "Pure Botany",
+      "badge3": "Elasticity",
+      "imgAlt": "Curly Method: Recovery of natural curl"
+    },
+    "alisado": {
+      "eyebrow": "Control & Shine",
+      "title": "Amino-Protein Straightening",
+      "desc": "A revolution in organic straightening that disciplines hair while protecting it. Our formula rich in amino acids rebuilds the internal structure, leaving a smooth, moving mane with an unmatched three-dimensional shine.",
+      "badge1": "Anti-frizz",
+      "badge2": "Organic",
+      "badge3": "Protection",
+      "recHeader": "Recommendations: Long-lasting Natural Straightening",
+      "rec1": "Post-treatment is included. It is essential to continue a Secretos del Agua care routine at home to guarantee results.",
+      "rec2": "During the first days, keep hair loose, without tight ponytails or braids.",
+      "rec3": "Blow-dry completely with hands and dryer directing the straightening. Heat activates keratin like a protective wax.",
+      "rec4": "If you let it air dry, you will obtain a more wavy and natural result.",
+      "btn": "View straightening details"
+    },
+    "title1": "Specialties",
+    "title2": "in Texture"
+  },
+  "cta": {
+    "btn": "Book Appointment",
+    "imgAlt": "Signature cuts and styles with natural aesthetics at Salón Pilar Palomares",
+    "title1": "Looking for your",
+    "title2": "ideal shape?"
+  }
+}

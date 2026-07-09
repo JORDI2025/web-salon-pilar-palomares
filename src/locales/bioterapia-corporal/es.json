@@ -1,0 +1,122 @@
+{
+  "seo": {
+    "title": "Bioterapia Corporal Orgánica",
+    "description": "Tratamientos corporales biológicos y maderoterapia en Torre de Benagalbón (Málaga). Rituales orgánicos de salud, bienestar y relajación."
+  },
+  "hero": {
+    "back": "Todas las Bioterapias",
+    "title1": "Bioterapia",
+    "title2": "Corporal",
+    "text": "Una experiencia de renovación y equilibrio que combina técnicas de masaje manual con productos biológicos de alta vibración celular.",
+    "cta": "Solicitar Diagnóstico",
+    "imgAlt": "Bioterapia Corporal en Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Málaga"
+  },
+  "intro": {
+    "bgImgAlt": "Textura de piel orgánica",
+    "eyebrow": "Filosofía de Cuidado",
+    "title": "Equilibrio Vital",
+    "quote": "\"Nuestras bioterapias corporales no solo embellecen la piel; actúan sobre los sistemas circulatorio, linfático y energético.\"",
+    "text1": "Al utilizar ",
+    "strong": "Agua Biopolar™",
+    "text2": " y activos botánicos de alta calidad, permitimos que tu cuerpo recupere su propia arquitectura biológica natural, liberando tensiones y restaurando la armonía desde el interior."
+  },
+  "protocols": {
+    "eyebrow": "Luxury Experience",
+    "quote": "\"La piel es el espejo de nuestra salud interna; cuidarla es un acto de amor propio.\"",
+    "discoverTitle": "Descubre nuestras bioterapias corporales",
+    "discoverText": "Cada bioterapia es un ritual personalizado diseñado para responder a las necesidades específicas de tu cuerpo. A través de la combinación de técnicas manuales expertas y activos botánicos de máxima pureza, logramos resultados profundos y duraderos. Explora a continuación nuestros tratamientos especializados:",
+    "card": "\"Complementamos nuestras técnicas manuales con cuarzos y hematites para armonizar la energía y potenciar la detoxificación profunda durante cada sesión.\"",
+    "imgAlt": "Masaje de bioterapia corporal con cuarzos y aceites botánicos",
+    "title1": "Ritos de",
+    "title2": "Renovación"
+  },
+  "list": {
+    "title1": "Nuestras Bioterapias",
+    "title2": "Corporales"
+  },
+  "tabs": {
+    "description": "Descripción",
+    "benefits": "Beneficios",
+    "ideal": "Para ti",
+    "actives": "Activos"
+  },
+  "slideshow": {
+    "prev": "Ver imagen anterior",
+    "next": "Ver imagen siguiente"
+  },
+  "treatments": {
+    "sculptor": {
+      "title": "Bioterapia Sculptor",
+      "subtitle": "Remodelación · Drenaje y Silueta",
+      "summary": "Tratamiento reductor inspirado en la Física Cuántica que moviliza las grasas acumuladas y recupera el orden celular.",
+      "tabs": {
+        "description": "La Bioterapia Corporal Sculptor de Secretos del Agua, inspirada en la Física Cuántica, reduce visiblemente los nódulos grasos de la celulitis. Gracias a la actuación del Agua Biopolar™, una nanoestructura líquida que impulsa al sistema celular a recuperar su orden original, este tratamiento intensivo combina masajes drenantes con activos quemagrasas biológicos para remodelar la silueta y devolver la firmeza natural a la piel.",
+        "benefits": "• Reduce volumen localizado.\n• Drena líquidos y toxinas.\n• Mejora la apariencia de la celulitis.\n• Alisa y reafirma la piel.",
+        "ideal": "• Quieres reducir volumen en zonas localizadas.\n• Notas retención de líquidos.\n• Tienes celulitis o piel de naranja.\n• Buscas remodelar tu silueta.",
+        "actives": "Cafeína natural, Hiedra, Castaño de Indias, Fucus."
+      }
+    },
+    "colorluz": {
+      "title": "Bioterapia Color Luz",
+      "subtitle": "Vitalidad · Luminosidad y Antioxidante",
+      "summary": "Ritual rejuvenecedor que protege la piel del daño oxidativo y aporta un brillo radiante.",
+      "tabs": {
+        "description": "Bioterapia nutritiva con alto poder antioxidante que unifica el tono corporal y deja la piel aterciopelada y llena de luz. Protege contra el envejecimiento prematuro.",
+        "benefits": "• Hidrata y suaviza intensamente.\n• Acción antioxidante profunda.\n• Aporta luminosidad de seda.\n• Unifica el tono de la piel.",
+        "ideal": "• Tienes la piel del cuerpo seca o apagada.\n• Notas falta de brillo y suavidad.\n• Quieres prevenir el envejecimiento corporal.\n• Buscas un ritual sensorial relajante.",
+        "actives": "Vitamina E natural, Aceite de Almendras, Caléndula, Sésamo."
+      }
+    },
+    "piernas": {
+      "title": "Bioterapia Piernas Perfectas",
+      "subtitle": "Ligereza · Alivio y Circulación",
+      "summary": "Alivio inmediato para piernas cansadas y pesadas, potenciando el retorno venoso.",
+      "tabs": {
+        "description": "Ritual de frío biológico que descongestiona y tonifica las piernas, eliminando la sensación de pesadez y fatiga acumulada mediante la reactivación circulatoria.",
+        "benefits": "• Alivio inmediato del cansancio.\n• Desinflama y descongestiona.\n• Activa la microcirculación.\n• Sensación de ligereza extrema.",
+        "ideal": "• Sientes las piernas pesadas o hinchadas.\n• Pasas mucho tiempo de pie o sentada.\n• Tienes problemas circulatorios leves.\n• Buscas un descanso profundo.",
+        "actives": "Menta Piperita, Alcanfor, Rusco, Hamamelis."
+      }
+    }
+  },
+  "madero": {
+    "eyebrow": "Técnica Ancestral",
+    "title": "Maderoterapia",
+    "text": "Herramientas de madera anatómicamente diseñadas que moldean la figura, alivian tensiones y eliminan adiposidades localizadas mediante un estímulo mecánico profundo y biológico.",
+    "imgAlt": "Técnica profesional de maderoterapia para modelar la figura en Salón Pilar Palomares",
+    "protocolLabel": "Protocolo recomendado",
+    "protocolText": "Fase intensiva de 2 sesiones semanales para choque inicial, seguida de mantenimiento espaciado. Ideal combinar con Bioterapia Sculptor.",
+    "toolsTitle": "Utensilios Terapéuticos",
+    "tools": {
+      "tabla": {
+        "name": "Tabla Modeladora",
+        "desc": "Drena la grasa movilizada y moldea las zonas más delicadas del cuerpo."
+      },
+      "cubos": {
+        "name": "Rodillo de Cubos",
+        "desc": "Fragmenta los adipocitos en capas profundas y suaviza la apariencia de la celulitis."
+      },
+      "copa": {
+        "name": "Copa Sueca",
+        "desc": "Efecto de succión que eleva y tonifica tejidos en glúteos, abdomen y muslos."
+      },
+      "cepillo": {
+        "name": "Cepillo Exfoliante",
+        "desc": "Elimina células muertas y estimula la microcirculación superficial."
+      },
+      "rodillo": {
+        "name": "Rodillo Liso",
+        "desc": "Activa los sistemas circulatorio y linfático de forma general."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Tu momento es ahora",
+    "title1": "Sincroniza",
+    "title2": "con tu Cuerpo",
+    "text": "Regálate una experiencia de bioterapia corporal diseñada a tu medida para recuperar la ligereza, el equilibrio y el bienestar que tu cuerpo merece.",
+    "imgAlt": "Ritual de bioterapia corporal y bienestar consciente en peluquería orgánica Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "btnPrimary": "Reservar Mi Diagnóstico",
+    "btnWhatsapp": "Consultar por WhatsApp"
+  }
+}

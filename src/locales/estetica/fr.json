@@ -1,0 +1,120 @@
+{
+  "seo": {
+    "title": "Esthétique & Madérothérapie",
+    "description": "Esthétique intégrative, rituels de beauté et madérothérapie corporelle à Torre de Benagalbón. Soin du visage, du corps et design du regard naturel."
+  },
+  "hero": {
+    "eyebrow": "La Beauté qui Respire",
+    "title1": "Esthétique",
+    "title2": "Intégrative",
+    "text": "Des rituels qui honorent les cycles de votre peau et l'harmonie de votre corps.",
+    "imgAlt": "Rituels d'Esthétique Intégrative et de Madérothérapie au Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "intro": {
+    "eyebrow": "Notre Vision",
+    "title": "L'Art du Soin Holistique",
+    "desc": "Chez Pilar Palomares, nous concevons l'esthétique non comme une fin en soi, mais comme un parcours de santé. Nous ne cherchons pas à dissimuler, mais à révéler la beauté qui émane d'un corps équilibré et d'une peau oxygénée. Nos soins visage et corps fusionnent la madérothérapie ancestrale avec la biotechnologie de l'Eau Biopolaire™.",
+    "card1Title": "Peau Protégée",
+    "card1Desc": "Nous respectons à 100 % votre barrière hydrolipidique naturelle.",
+    "card2Title": "Flux Actif",
+    "card2Desc": "Nous stimulons les systèmes lymphatique et circulatoire.",
+    "imgAlt": "Soin visage biologique et biothérapie esthétique naturelle au Salón Pilar Palomares"
+  },
+  "mirada": {
+    "eyebrow": "Regard Intense · Harmonie Faciale",
+    "title": "Design du Regard",
+    "desc": "Nous sublimons votre beauté naturelle grâce à l'étude et au design personnalisé des sourcils et des cils, sculptant un cadre parfait pour votre regard.",
+    "imgAlt": "Design des sourcils et des cils au Salón Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "items": {
+      "cejas": {
+        "name": "Design des Sourcils",
+        "desc": "Étude morphologique et design des sourcils adaptés à vos traits. Comprend l'épilation (à la cire ou à la pince) et la définition par coloration des sourcils."
+      },
+      "lifting": {
+        "name": "Rehaussement de Cils",
+        "desc": "Soin de rehaussement et de courbure des cils naturels dès la racine. Comprend la teinture des cils pour intensifier leur couleur ou la prestation de coloration seule."
+      },
+      "extensiones": {
+        "name": "Extensions",
+        "desc": "Application minutieuse de cils individuels. Son but est d'augmenter le nombre et la densité des cils pour intensifier le regard et agrandir les yeux."
+      },
+      "micropigmentacion": {
+        "name": "Micropigmentation",
+        "desc": "Technique de maquillage semi-permanent poil à poil pour les sourcils. Comble les manques, définit la forme et apporte de la symétrie pour un cadre naturel et parfait."
+      }
+    }
+  },
+  "depilacion": {
+    "eyebrow": "Soin & Harmonie au Quotidien",
+    "title": "Épilation & Maquillage",
+    "desc": "Nous proposons des services essentiels d'épilation et de maquillage professionnel conçus pour choyer votre peau et rehausser l'harmonie de vos traits naturels.",
+    "depilacionTitle": "Épilation",
+    "depilacionDesc": "Épilation visage ou corps. Prestation adaptée aux femmes comme aux hommes.",
+    "maquillajeTitle": "Maquillage",
+    "maquillajeDesc": "Nous sublimons les traits du visage et estompons les imperfections pour obtenir une plus grande harmonie.",
+    "imgAlt": "Maquillage professionnel au Salón Pilar Palomares, Torre de Benagalbón"
+  },
+  "faciales": {
+    "title": "Rituels Visage",
+    "eyebrow": "Biotechnologie Cellulaire pour votre Visage",
+    "priceLabel": "Dès 65€",
+    "viewBtn": "Voir le soin",
+    "items": {
+      "sensitiva": {
+        "name": "Biothérapie Sensitive",
+        "desc": "Calme et restaure l'équilibre des peaux réactives."
+      },
+      "iluminante": {
+        "name": "Biothérapie Illuminante",
+        "desc": "Apporte de l'éclat et unifie le teint en ciblant les taches."
+      },
+      "antiaging": {
+        "name": "Biothérapie Anti-âge",
+        "desc": "Restructuration en profondeur pour lisser les ridules d'expression."
+      },
+      "detox": {
+        "name": "Biothérapie Detox",
+        "desc": "Purification intense pour peaux grasses ou congestionnées."
+      }
+    }
+  },
+  "manosPies": {
+    "eyebrow": "Les Détails qui Comptent",
+    "title": "Mains, Pieds & Massages",
+    "desc": "Vos extrémités sont les points de libération de vos canaux d'énergie et votre corps y accumule les tensions quotidiennes. Les traiter avec les biothérapies des mains et des pieds ou des massages de bien-être corporel draine, oxygène et détend votre organisme, vous apportant une légèreté absolue et un calme profond.",
+    "manos": {
+      "label": "Mise en beauté & Nutrition",
+      "title": "Biothérapie des Mains",
+      "desc": "Manucure complète : ce soin de mise en beauté vous aidera à soigner vos mains et vos ongles, en exfoliant et en nourrissant la peau pour restaurer sa douceur naturelle.",
+      "imgAlt": "Biothérapie des Mains au Salón Pilar Palomares"
+    },
+    "pies": {
+      "label": "Légèreté & Soin Global",
+      "title": "Biothérapie des Pieds",
+      "desc": "Pédicure complète : ce soin complet vous aidera à exfolier les pieds et à soigner les ongles, en éliminant les callosités et en gardant votre peau lisse.",
+      "imgAlt": "Biothérapie des Pieds au Salón Pilar Palomares"
+    },
+    "masajes": {
+      "label": "Déconnexion & Calme Profond",
+      "title": "Massages",
+      "desc": "Bien-être corporel : ce soin vous aidera à soulager les tensions musculaires, améliorer la circulation et réduire le stress, libérant les tensions accumulées dans le corps et l'esprit.",
+      "imgAlt": "Massage corporel relaxant au Salón Pilar Palomares"
+    }
+  },
+  "madero": {
+    "eyebrow": "Modelage Ancestral",
+    "title": "Madérothérapie",
+    "quote": "\"Le pouvoir de la matière noble du bois appliqué avec savoir-faire pour canaliser l'énergie et remodeler votre silhouette.\"",
+    "desc": "La madérothérapie consiste en l'application d'un massage à l'aide de divers ustensiles en bois, de différentes tailles et formes, spécialement conçus pour s'adapter à l'anatomie du corps. Elle aide à raffermir, tonifier et combattre la cellulite de manière non invasive.",
+    "corporalTitle": "Madérothérapie Corporelle",
+    "corporalDesc": "Modelage profond par des outils en bois qui stimulent l'élimination des toxines et réduisent les volumes. Peut être combiné avec la biothérapie Sculptor.",
+    "imgAlt": "Séance professionnelle de Madérothérapie dans l'Axarquía"
+  },
+  "cta": {
+    "eyebrow": "Commencez Votre Rituel",
+    "title": "Offrez-vous un Moment de Beauté Réelle",
+    "desc": "N'hésitez pas à nous poser toutes vos questions. Nous sommes là pour vous guider vers votre meilleure version avec des soins respectueux de votre essence.",
+    "btnReserva": "Réserver Mon Rendez-vous",
+    "btnContacto": "Contacter Pilar"
+  }
+}

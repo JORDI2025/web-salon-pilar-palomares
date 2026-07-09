@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "title": "Organic Hair Biotherapy",
+    "description": "Organic hair treatments and cellular health biotherapies with Secretos del Agua Biopolar Water in Torre de Benagalbón (Málaga)."
+  },
+  "hero": {
+    "backBtn": "All Treatments",
+    "title1": "Hair",
+    "title2": "Treatments",
+    "text": "Biological Treatments for Your Hair. In our salon, we transform hair care through treatments that respect the natural balance of your scalp.",
+    "btn": "Request a Diagnosis",
+    "imgAlt": "Organic hair treatments and biotherapies by Secretos del Agua at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "lavado": {
+    "eyebrow": "Care Philosophy",
+    "desc": "Thanks to Biopolar Water™ and high-quality botanical actives, we restore health, strength and real shine to your hair without using synthetic substances.",
+    "card1Title": "What does it consist of?",
+    "card1Desc": "It is a deep purification process that cleanses and balances the scalp without altering its structure.",
+    "card2Title": "The benefit",
+    "card2Desc": "It removes impurities and accumulated residue, preparing the hair fiber to absorb the maximum benefits of the subsequent treatment.",
+    "quote": "Dermocapillary washing is the opening ritual that frees the scalp and prepares it to receive cellular botany.",
+    "imgAlt": "Dermocapillary wash ritual prior to hair biotherapy at organic hairdressing Pilar Palomares, Torre de Benagalbón",
+    "title1": "The first step:",
+    "title2": "Dermocapillary Washing"
+  },
+  "listHeader": {
+    "eyebrow": "Hair Biotherapy",
+    "title": "Our Treatments"
+  },
+  "tabs": {
+    "description": "Description",
+    "benefits": "Benefits",
+    "ideal": "Ideal for you",
+    "actives": "Botanical Actives"
+  },
+  "items": {
+    "restauradora": {
+      "title": "Biolaminar Restorer",
+      "subtitle": "Damaged hair treatment and hair repairer",
+      "summary": "Treatment for damaged hair that nourishes, repairs the fiber and improves hair resistance and elasticity.",
+      "description": "Treatment for damaged hair that biologically coats the cuticles and protects it from external aggressions. In this ritual we use Nourishing Shampoo 100 ml (615) and Biolaminar Restorer 100 ml (621), two products that repair hair, decrease fiber permeability, and increase hair nutrition, strength, and elasticity.",
+      "benefits": "• Protects and recovers damaged hair fibers.\n• Nourishes and hydrates in depth.\n• Provides an antioxidant effect.\n• Reduces frizz.\n• Protects hair from heat.\n• Protects hair from external aggressions.\n• Antioxidant, healing and anti-inflammatory effect.\n• Contains no sulfates or silicones.\n• Ideal treatment to use during a 28-day cycle.",
+      "ideal": "• Your hair is very damaged or dehydrated.\n• You feel your hair has lost mobility, shine, and elasticity.\n• Your hair frizzes easily.\n• Your hair breaks very easily.\n• You have subjected your hair to stressful chemical processes like dyeing, bleaching, or perming.\n• You use heat tools like a hair dryer or flat iron.\n• You need a deep repair.",
+      "actives": "NOURISHING SHAMPOO: Tepezcohuite, Red Vine, Artichoke, Soy plant proteins, Flaxseed.\n\nBIOLAMINAR RESTORER: Burdock, Ginkgo Biloba, Soy plant proteins, Wheat Amino Acids."
+    },
+    "sensitiva": {
+      "title": "Sensitive",
+      "subtitle": "Calm and Relaxation · Reactive scalp",
+      "summary": "Ritual designed to instantly soothe irritated, itchy, or flaking scalps, restoring their natural balance.",
+      "description": "Decongestant treatment formulated to normalize the biological functions of the reactive scalp. In this ritual we use Sensitive Shampoo (618) and Moss Water (603), two products that act as a comforting balm that reduces inflammation and strengthens the skin's protective barrier, protecting it from external aggressions.",
+      "benefits": "• Anti-inflammatory action.\n• Repairs and acts without generating scars.\n• Stimulates collagen production.\n• Improves the skin's immune system.\n• Antioxidant and protective action for hyper-reactive skin.\n• Regulates sebum production.\n• Contributes to the regeneration of the skin barrier.\n• Adds volume to the hair.\n• Reduces static electricity.\n• Facilitates brushing, increases softness and flexibility of the hair.",
+      "ideal": "• Irritated or inflamed scalp.\n• Hyper-reactive skin or flaking easily.\n• Psoriasis, dermatitis, or redness episodes.\n• Sunburned scalp.\n• Frequently apply coloring products to your hair."
+    },
+    "fuerza": {
+      "title": "Strength Restorer",
+      "subtitle": "Vigor, Body and Growth · Follicle health",
+      "summary": "Revitalizing treatment that stimulates the hair follicle and provides extraordinary volume to weakened or fine hair.",
+      "description": "Biological shock protocol that acts directly on the hair bulb. In this treatment we work with Strength Shampoo 100 ml (620) and Strength Restorer 100 ml (616), made with organic botanical actives, without silicones, sulfates, or parabens. Its action immediately stops hair weakness, strengthening it to achieve spectacular volume and sublime density.",
+      "benefits": "• Increases hair volume, increases fiber strength and reduces breakage.\n• Improves hair density.\n• Protects and repairs the cuticle.\n• Regulates sebum production.\n• Increases hair strength and elasticity.\n• Adds shine and facilitates brushing.\n• Reduces static electricity.\n• Has antioxidant action.",
+      "ideal": "• Your hair falls out more than usual.\n• You are going through a period of anxiety or stress.\n• Hair loss increases with seasonal changes.\n• Post-pregnancy or illness hair loss.\n• Androgenetic alopecia.\n• Fine hair.\n• Weakened or brittle hair.",
+      "actives": "STRENGTH SHAMPOO (620): Calendula, Tepezcohuite, Soy plant proteins, Flaxseed and Psyllium.\n\nSTRENGTH RESTORER (616): Horse Chestnut, Ginkgo Biloba, Wheat Amino Acids, Sesame Oil and Coconut Oil."
+    },
+    "volumen": {
+      "title": "Volume with Strength Restorer",
+      "subtitle": "Body and Movement · Fine hair",
+      "summary": "Revitalizes and increases hair volume, providing strength and density from the root.",
+      "description": "Biological shock protocol that acts directly on the hair bulb to activate and promote hair regeneration from its birth. In this treatment we use Infoactivo Strength Hair 50 ml (602), an anti-hair loss serum that revitalizes hair from the root, and Strength Shampoo 100 ml (620), which strengthens hair, providing body and volume. Together they stop hair weakness, providing more resistance and strength from its origin. All formulated with organic botanical ingredients, without sulfates, parabens, or other synthetic compounds.",
+      "benefits": "• Stops hair weakness.\n• Increases hair volume.\n• Nourishes hair from root to tip.\n• Increases hair strength and elasticity.\n• Activates scalp metabolism.\n• Rejuvenates the hair fiber.\n• Regulates sebum production.\n• Contributes to hydration and regeneration of the hair barrier.\n• Strengthens hair.",
+      "ideal": "• Fine hair.\n• Weakened or brittle hair.\n• Falling out more hair than usual.\n• Going through a period of anxiety or stress.\n• Seasonal changes increase hair loss.\n• Post-pregnancy hair loss.\n• Androgenetic alopecia.\n• Oily root tendency.",
+      "actives": "STRENGTH SHAMPOO: Calendula, Tepezcohuite, Soy plant proteins, Flaxseed, Psyllium.\n\nINFOACTIVO™ STRENGTH: Cayenne pepper, Horsetail, Juniper, Ginkgo Biloba, White Nettle, Fenugreek."
+    },
+    "lluvia": {
+      "title": "Rain Water",
+      "subtitle": "Absolute Hydration · Silky Shine",
+      "summary": "An injection of deep moisture inspired by the purity of water, ideal for recovering the elasticity and softness of the driest hair.",
+      "description": "Deep hydration ritual in which we use Rain Water, a conditioning balm made with botanical actives like burdock, ginkgo biloba and soy proteins that penetrate the heart of the hair fiber to replenish lost water levels. This ritual seals moisture inside, preventing frizz and roughness. Thanks to the combination with Biopolar Water, it restructures and protects hair against external aggressions, achieving flexible, shiny, and healthy hair. Furthermore, its light texture and woody aroma with notes of caramel and cocoa make the session a sensory experience of absolute relaxation.",
+      "benefits": "• Hydrates in depth.\n• Conditions hair.\n• Reduces frizz.\n• Increases hair strength and elasticity.\n• Antioxidant properties.\n• Adds shine.\n• Improves the structure and cohesion of the hair fiber.\n• Acts as a thermal protector and protects against external aggressions.",
+      "ideal": "• You need a deep hydration dose.\n• Your hair tangles easily.\n• You feel your hair loses mobility and elasticity.\n• Hair tends to frizz.\n• Split or dry ends due to flat irons and/or dryers.\n• Exposed to UV rays, harmful to hair.",
+      "actives": "Burdock, Ginkgo Biloba, Soy plant proteins and Tung Oil."
+    },
+    "purificante": {
+      "title": "Purifying",
+      "subtitle": "Grease Balance · Deep Detox",
+      "summary": "Exhaustive purification that regulates the scalp's sebum production, leaving hair loose, fresh and with total purity.",
+      "description": "Deep purification treatment in which we use Purifying Pre-Wash Gel, a pre-shampoo that purifies, stimulates, and balances the scalp, favoring its perspiration and freeing it from silicones, resins, and pollution. Next, we apply Purifying Shampoo, whose purifying action deep cleanses, stops hair loss, and allows the scalp to breathe. In addition to regulating excess oil without drying out the ends, its regenerating properties help achieve stronger, more elastic, and hydrated hair.",
+      "benefits": "• Regulates sebum production and purifies the scalp.\n• Reduces dandruff, flaking, and skin irritation.\n• Deep cleanses, removing synthetic and environmental residues.\n• Increases hair volume.\n• Helps repair hair.\n• Strengthens and tones the hair fiber, decreasing its breakage.\n• Acts as a conditioner and adds shine.\n• Antioxidant action.\n• Helps retain color.\n• Contributes to hydration, healing, and regeneration of the skin barrier.\n• By promoting blood circulation in the scalp, it prevents hair loss.",
+      "ideal": "• Oily hair.\n• Hair gets dirty easily.\n• Feel your scalp doesn't breathe.\n• Dandruff, flaking, or irritated scalp.\n• Hair has lost volume and shine.\n• Hair breaks very easily.",
+      "actives": "Fenugreek, Burdock, Ivy, Wheat Amino Acids, Black Oat and Cypress."
+    },
+    "tierra": {
+      "title": "Earth Water",
+      "subtitle": "Structural Reconstruction · Limit Repair",
+      "summary": "The most intensive repairing treatment in our boutique, designed to rebuild hair structurally damaged by extreme chemical processes.",
+      "description": "Repairing and restoring treatment in which we apply Earth Water, a light balm for fine hair formulated with Biopolar Water and nourishing actives like red clay, psyllium seeds, and soy proteins. In this ritual we rebuild the hair fibers from within, providing shine, vitality, and body. Thanks to the protective action of tung and rapeseed oils, we reduce frizz and protect hair from heat. Its aromatic freshness of grapefruit, magnolia, rose, and violet transforms damaged hair, returning all its strength and flexibility in a unique sensory experience.",
+      "benefits": "• Hydrates in depth.\n• Adds volume to fine hair.\n• Repairs hair stressed by heat tools.\n• Strengthens, structures, and cohesions the hair fiber, reducing its breakage.\n• Conditions hair.\n• Increases hair strength and elasticity.\n• Great antioxidant action.\n• Adds shine.\n• Reduces static electricity.\n• Facilitates brushing, increases softness and flexibility of the hair.\n• Reduces frizz.\n• Protects hair from heat.",
+      "ideal": "• Fine hair.\n• Lack of hydration.\n• Weakened, damaged, or brittle hair.\n• Subjected hair to extreme environmental factors or heat tools.\n• Give more body and volume to your hair.",
+      "actives": "Burdock, Ginkgo Biloba, Flaxseed, Psyllium, Wheat Amino Acids, Red Clay, Tung Oil and Soy."
+    },
+    "alisado": {
+      "title": "Straightening & Amino-Protein Repair",
+      "subtitle": "Form Design · Discipline & Health",
+      "summary": "Advanced organic technology that disciplines hair and removes frizz without damaging its internal structure.",
+      "description": "Amino-Protein Straightening is a hair discipline system that uses amino acids and vegetable proteins to straighten hair naturally. Unlike traditional chemical straighteners, it does not break internal bonds, but reorganizes and protects them, allowing a healthy straight, with mirror shine and movement.",
+      "benefits": "Frizz elimination, unwanted volume reduction, extraordinary shine, silky softness, and prolonged durability respecting hair health.",
+      "ideal": "Rebellious, frizzy, very voluminous hair or people looking for a perfect, disciplined straight without compromising the integrity of their hair.",
+      "actives": "Biopolar Water™ · Vegetable Amino-Protein Complex · Natural Bioactivators that restructure the fiber during the straightening process.",
+      "btn": "View Design & Style"
+    }
+  },
+  "cta": {
+    "desc": "Don't worry. Every hair is a world and our Free Hair Diagnosis is the key to discovering what your hair really needs to shine again.",
+    "btn": "Book your Hair Diagnosis",
+    "note": "No obligation",
+    "imgAlt": "Personalized and free hair diagnosis at Salón Pilar Palomares, Axarquía (Málaga)",
+    "title1": "Not sure which",
+    "title2": "Treatment to choose?"
+  }
+}

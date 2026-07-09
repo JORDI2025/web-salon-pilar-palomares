@@ -1,0 +1,122 @@
+{
+  "seo": {
+    "title": "Organische Körper-Biotherapie",
+    "description": "Biologische Körperbehandlungen und Maderotherapie in Torre de Benagalbón (Málaga). Organische Rituale für Gesundheit, Wohlbefinden und Entspannung."
+  },
+  "hero": {
+    "back": "Alle Biotherapien",
+    "title1": "Biotherapie",
+    "title2": "für den Körper",
+    "text": "Ein Erlebnis der Erneuerung und des Gleichgewichts, das manuelle Massagetechniken mit biologischen Produkten hoher Zellschwingung verbindet.",
+    "cta": "Diagnose Anfragen",
+    "imgAlt": "Körper-Biotherapie im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, nahe Añoreta, Chilches und Málaga"
+  },
+  "intro": {
+    "bgImgAlt": "Organische Hauttextur",
+    "eyebrow": "Pflegephilosophie",
+    "title": "Vitales Gleichgewicht",
+    "quote": "\"Unsere Körper-Biotherapien verschönern nicht nur die Haut; sie wirken auf das Kreislauf-, Lymph- und Energiesystem.\"",
+    "text1": "Durch den Einsatz von ",
+    "strong": "Biopolarem Wasser™",
+    "text2": " und hochwertigen botanischen Wirkstoffen ermöglichen wir Ihrem Körper, seine eigene natürliche biologische Architektur zurückzugewinnen, Spannungen zu lösen und die Harmonie von innen heraus wiederherzustellen."
+  },
+  "protocols": {
+    "eyebrow": "Luxury Experience",
+    "quote": "\"Die Haut ist der Spiegel unserer inneren Gesundheit; sie zu pflegen ist ein Akt der Selbstliebe.\"",
+    "discoverTitle": "Entdecken Sie unsere Körper-Biotherapien",
+    "discoverText": "Jede Biotherapie ist ein personalisiertes Ritual, das auf die spezifischen Bedürfnisse Ihres Körpers eingeht. Durch die Kombination aus fachkundigen manuellen Techniken und botanischen Wirkstoffen höchster Reinheit erzielen wir tiefgreifende und langanhaltende Ergebnisse. Entdecken Sie im Folgenden unsere spezialisierten Behandlungen:",
+    "card": "\"Wir ergänzen unsere manuellen Techniken mit Quarzen und Hämatit, um die Energie zu harmonisieren und die Tiefenentgiftung während jeder Sitzung zu verstärken.\"",
+    "imgAlt": "Körper-Biotherapie-Massage mit Quarzen und botanischen Ölen",
+    "title1": "Riten der",
+    "title2": "Erneuerung"
+  },
+  "list": {
+    "title1": "Unsere Körper-",
+    "title2": "Biotherapien"
+  },
+  "tabs": {
+    "description": "Beschreibung",
+    "benefits": "Vorteile",
+    "ideal": "Für Sie",
+    "actives": "Wirkstoffe"
+  },
+  "slideshow": {
+    "prev": "Vorheriges Bild ansehen",
+    "next": "Nächstes Bild ansehen"
+  },
+  "treatments": {
+    "sculptor": {
+      "title": "Sculptor-Biotherapie",
+      "subtitle": "Remodellierung · Drainage und Silhouette",
+      "summary": "Von der Quantenphysik inspirierte, reduzierende Behandlung, die eingelagerte Fette mobilisiert und die zelluläre Ordnung wiederherstellt.",
+      "tabs": {
+        "description": "Die Körper-Biotherapie Sculptor von Secretos del Agua, inspiriert von der Quantenphysik, reduziert sichtbar die Fettknötchen der Cellulite. Dank der Wirkung des Biopolaren Wassers™ – einer flüssigen Nanostruktur, die das Zellsystem dazu anregt, seine ursprüngliche Ordnung wiederzufinden – kombiniert diese Intensivbehandlung drainierende Massagen mit biologischen fettverbrennenden Wirkstoffen, um die Silhouette zu formen und der Haut ihre natürliche Festigkeit zurückzugeben.",
+        "benefits": "• Reduziert lokalisiertes Volumen.\n• Leitet Flüssigkeiten und Toxine aus.\n• Verbessert das Erscheinungsbild von Cellulite.\n• Glättet und strafft die Haut.",
+        "ideal": "• Sie möchten Volumen an bestimmten Zonen reduzieren.\n• Sie bemerken Wassereinlagerungen.\n• Sie haben Cellulite oder Orangenhaut.\n• Sie möchten Ihre Silhouette formen.",
+        "actives": "Natürliches Koffein, Efeu, Rosskastanie, Blasentang."
+      }
+    },
+    "colorluz": {
+      "title": "Farb-Licht-Biotherapie",
+      "subtitle": "Vitalität · Leuchtkraft und Antioxidans",
+      "summary": "Verjüngendes Ritual, das die Haut vor oxidativen Schäden schützt und ihr einen strahlenden Glanz verleiht.",
+      "tabs": {
+        "description": "Nährende Biotherapie mit hoher antioxidativer Kraft, die den Hautton des Körpers ausgleicht und die Haut samtweich und voller Licht zurücklässt. Schützt vor vorzeitiger Hautalterung.",
+        "benefits": "• Hydratisiert und glättet intensiv.\n• Tiefgehende antioxidative Wirkung.\n• Verleiht seidige Leuchtkraft.\n• Gleicht den Hautton aus.",
+        "ideal": "• Ihre Körperhaut ist trocken oder fahl.\n• Sie bemerken fehlenden Glanz und Geschmeidigkeit.\n• Sie möchten der Hautalterung des Körpers vorbeugen.\n• Sie suchen ein entspannendes Sinnesritual.",
+        "actives": "Natürliches Vitamin E, Mandelöl, Ringelblume, Sesam."
+      }
+    },
+    "piernas": {
+      "title": "Biotherapie Perfekte Beine",
+      "subtitle": "Leichtigkeit · Linderung und Durchblutung",
+      "summary": "Sofortige Linderung für müde, schwere Beine und Förderung des venösen Rückflusses.",
+      "tabs": {
+        "description": "Biologisches Kälteritual, das die Beine entstaut und strafft und das Gefühl von Schwere und angesammelter Müdigkeit durch die Reaktivierung der Durchblutung beseitigt.",
+        "benefits": "• Sofortige Linderung der Müdigkeit.\n• Wirkt abschwellend und entstauend.\n• Aktiviert die Mikrozirkulation.\n• Gefühl extremer Leichtigkeit.",
+        "ideal": "• Ihre Beine fühlen sich schwer oder geschwollen an.\n• Sie stehen oder sitzen viele Stunden.\n• Sie haben leichte Durchblutungsprobleme.\n• Sie suchen tiefe Erholung.",
+        "actives": "Pfefferminze, Kampfer, Mäusedorn, Hamamelis."
+      }
+    }
+  },
+  "madero": {
+    "eyebrow": "Uralte Technik",
+    "title": "Maderotherapie",
+    "text": "Anatomisch geformte Holzwerkzeuge, die die Figur modellieren, Verspannungen lösen und lokalisierte Fettdepots durch tiefe, biologische mechanische Stimulation beseitigen.",
+    "imgAlt": "Professionelle Maderotherapie-Technik zur Formung der Figur im Salón Pilar Palomares",
+    "protocolLabel": "Empfohlenes Protokoll",
+    "protocolText": "Intensivphase mit 2 Sitzungen pro Woche als Anfangsimpuls, gefolgt von Erhaltungssitzungen in größeren Abständen. Ideal in Kombination mit der Sculptor-Biotherapie.",
+    "toolsTitle": "Therapeutische Werkzeuge",
+    "tools": {
+      "tabla": {
+        "name": "Modellierbrett",
+        "desc": "Leitet das mobilisierte Fett aus und formt die empfindlichsten Körperzonen."
+      },
+      "cubos": {
+        "name": "Würfelroller",
+        "desc": "Fragmentiert die Adipozyten in den tiefen Schichten und mildert das Erscheinungsbild der Cellulite."
+      },
+      "copa": {
+        "name": "Schwedische Saugglocke",
+        "desc": "Saugeffekt, der das Gewebe an Gesäß, Bauch und Oberschenkeln anhebt und strafft."
+      },
+      "cepillo": {
+        "name": "Peeling-Bürste",
+        "desc": "Entfernt abgestorbene Hautzellen und regt die oberflächliche Mikrozirkulation an."
+      },
+      "rodillo": {
+        "name": "Glatter Roller",
+        "desc": "Aktiviert das Kreislauf- und Lymphsystem im gesamten Körper."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Ihr Moment ist jetzt",
+    "title1": "Im Einklang",
+    "title2": "mit Ihrem Körper",
+    "text": "Gönnen Sie sich ein maßgeschneidertes Körper-Biotherapie-Erlebnis, um die Leichtigkeit, das Gleichgewicht und das Wohlbefinden zurückzugewinnen, die Ihr Körper verdient.",
+    "imgAlt": "Ritual der Körper-Biotherapie und des bewussten Wohlbefindens im organischen Friseursalon Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "btnPrimary": "Meine Diagnose Reservieren",
+    "btnWhatsapp": "Per WhatsApp Anfragen"
+  }
+}

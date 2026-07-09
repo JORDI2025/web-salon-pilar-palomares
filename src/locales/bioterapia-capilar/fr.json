@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "title": "Biothérapie Capillaire Biologique",
+    "description": "Soins capillaires biologiques et biothérapies de santé cellulaire à l'Eau Biopolaire de Secretos del Agua à Torre de Benagalbón (Málaga)."
+  },
+  "hero": {
+    "backBtn": "Tous les Soins",
+    "title1": "Soins",
+    "title2": "Capillaires",
+    "text": "Soins Biologiques pour Vos Cheveux. Dans notre salon, nous transformons le soin des cheveux à travers des traitements qui respectent l'équilibre naturel de votre cuir chevelu.",
+    "btn": "Demander un Diagnostic",
+    "imgAlt": "Soins capillaires biologiques et biothérapies Secretos del Agua au Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "lavado": {
+    "eyebrow": "Philosophie de Soin",
+    "desc": "Grâce à l'Eau Biopolaire™ et à des actifs botaniques de haute qualité, nous redonnons santé, force et brillance réelle à votre chevelure sans utiliser de substances synthétiques.",
+    "card1Title": "En quoi consiste-t-il ?",
+    "card1Desc": "C'est un processus de purification profonde qui nettoie et équilibre le cuir chevelu sans altérer sa structure.",
+    "card2Title": "Le bénéfice",
+    "card2Desc": "Il élimine les impuretés et les résidus accumulés, préparant la fibre capillaire à absorber au maximum les bienfaits du soin ultérieur.",
+    "quote": "Le lavage dermocapillaire est le rituel d'ouverture qui libère le cuir chevelu et le prépare à recevoir la botanique cellulaire.",
+    "imgAlt": "Rituel de shampoing dermocapillaire avant la biothérapie capillaire au salon de coiffure bio Pilar Palomares, Torre de Benagalbón",
+    "title1": "La première étape :",
+    "title2": "Lavage Dermocapillaire"
+  },
+  "listHeader": {
+    "eyebrow": "Biothérapie Capillaire",
+    "title": "Nos Soins"
+  },
+  "tabs": {
+    "description": "Description",
+    "benefits": "Bénéfices",
+    "ideal": "Idéal pour vous",
+    "actives": "Actifs Botaniques"
+  },
+  "items": {
+    "restauradora": {
+      "title": "Restaurateur Biolaminaire",
+      "subtitle": "Soin cheveux abîmés et réparateur capillaire",
+      "summary": "Soin pour cheveux abîmés qui nourrit, répare la fibre capillaire et améliore la résistance et l'élasticité du cheveu.",
+      "description": "Soin pour cheveux abîmés qui enrobe biologiquement les cuticules du cheveu et le protège des agressions extérieures. Dans ce rituel, nous utilisons le Shampoing Nutritif 100 ml (615) et le Restaurateur Biolaminaire 100 ml (621), deux produits qui réparent le cheveu, diminuent la perméabilité de la fibre capillaire tout en augmentant la nutrition, la résistance et l'élasticité.",
+      "benefits": "• Protège et restaure les fibres capillaires endommagées.\n• Nourrit et hydrate en profondeur.\n• Apporte un effet antioxydant.\n• Réduit les frisottis.\n• Protège les cheveux de la chaleur.\n• Protège les cheveux des agressions extérieures.\n• Effet antioxydant, cicatrisant et anti-inflammatoire.\n• Sans sulfates ni silicones.\n• Soin idéal pour un cycle de 28 jours.",
+      "ideal": "• Vos cheveux sont très abîmés ou déshydratés.\n• Vos cheveux ont perdu de leur ressort, brillance et élasticité.\n• Vos cheveux frisottent facilement.\n• Vos cheveux se cassent très facilement.\n• Vous avez soumis vos cheveux à des traitements chimiques agressifs (colorations, décolorations, permanentes).\n• Vous utilisez des appareils chauffants (sèche-cheveux, lisseur).\n• Vous avez besoin d'une réparation intense.",
+      "actives": "SHAMPOING NUTRITIF : Tepezcohuite, Vigne Rouge, Artichaut, Protéines de Soja, Graines de Lin.\n\nRESTAURATEUR BIOLAMINAIRE : Bardane, Ginkgo Biloba, Protéines de Soja, Acides aminés de Blé."
+    },
+    "sensitiva": {
+      "title": "Sensitif",
+      "subtitle": "Calme & Relaxation · Cuir chevelu réactif",
+      "summary": "Rituel conçu pour apaiser instantanément les cuirs chevelus irrités, sujets aux démangeaisons ou aux desquamations, en rétablissant leur équilibre naturel.",
+      "description": "Soin décongestionnant formulé pour normaliser les fonctions biologiques du cuir chevelu réactif. Dans ce rituel, nous utilisons le Shampoing Sensitif (618) et l'Eau de Mousse (603), deux produits agissant comme un baume réconfortant qui réduit l'inflammation et renforce la barrière protectrice de la peau.",
+      "benefits": "• Action anti-inflammatoire.\n• Répare et agit sans laisser de cicatrice.\n• Stimule la production de collagène.\n• Améliore le système immunitaire de la peau.\n• Action antioxydante et protectrice pour les peaux hyper-réactives.\n• Régule la production de sébum.\n• Contribue à la régénération de la barrière cutanée.\n• Apporte du volume aux cheveux.\n• Réduit l'électricité statique.\n• Facilite le brossage, augmente la douceur et la souplesse du cheveu.",
+      "ideal": "• Cuir chevelu irrité ou enflammé.\n• Peau hyper-réactive ou desquamation facile.\n• Épisodes de psoriasis, de dermatite ou de rougeurs.\n• Coup de soleil sur le cuir chevelu.\n• Application fréquente de colorations."
+    },
+    "fuerza": {
+      "title": "Restaurateur Fuerza",
+      "subtitle": "Vigueur, Matière et Pousse · Santé du follicule",
+      "summary": "Soin revitalisant qui stimule le follicule pileux et apporte un volume extraordinaire aux cheveux affaiblis ou fins.",
+      "description": "Protocole de choc biologique agissant directement sur le bulbe pileux. Dans ce soin, nous utilisons le Shampoing Fuerza 100 ml (620) et le Restaurateur Fuerza 100 ml (616), formulés avec des actifs botaniques biologiques, sans silicones, sulfates ni parabènes. Son action stoppe immédiatement la perte de vigueur.",
+      "benefits": "• Augmente le volume, renforce la fibre capillaire et réduit la casse.\n• Améliore la densité des cheveux.\n• Protège et répare la cuticule.\n• Régule la production de sébum.\n• Augmente la force et l'élasticité.\n• Apporte de la brillance et facilite le coiffage.\n• Réduit la statique.\n• Action antioxydante.",
+      "ideal": "• Vos cheveux tombent plus que d'habitude.\n• Vous traversez une période d'anxiété ou de stress.\n• Chute saisonnière accrue.\n• Perte de cheveux post-grossesse ou post-maladie.\n• Alopécie androgénique.\n• Cheveux fins.\n• Cheveux affaiblis ou cassants.",
+      "actives": "SHAMPOING FUERZA (620) : Calendula, Tepezcohuite, Protéines de Soja, Graines de Lin et Plantain.\n\nRESTAURATEUR FUERZA (616) : Marron d'Inde, Ginkgo Biloba, Acides aminés de Blé, Huile de Sésame et Huile de Coco."
+    },
+    "volumen": {
+      "title": "Volume avec Restaurateur Fuerza",
+      "subtitle": "Matière et Mouvement · Cheveux fins",
+      "summary": "Revitalise et augmente le volume des cheveux, leur procurant force et densité dès la racine.",
+      "description": "Protocole de choc biologique agissant directement sur le bulbe pileux pour activer et stimuler la régénération capillaire dès sa naissance. Dans ce traitement, nous utilisons l'Infoactif Fuerza Capillaire 50 ml (602), un sérum antichute qui revitalise les cheveux à la racine, et le Shampoing Fuerza 100 ml (620), qui renforce les cheveux en apportant corps et volume.",
+      "benefits": "• Stoppe la fragilité capillaire.\n• Augmente le volume des cheveux.\n• Nourrit de la racine aux pointes.\n• Augmente la force et l'élasticité.\n• Active le métabolisme du cuir chevelu.\n• Rajeunit la fibre capillaire.\n• Régule le sébum.\n• Hydrate et régénère la barrière capillaire.\n• Renforce les cheveux.",
+      "ideal": "• Cheveux fins.\n• Cheveux affaiblis ou cassants.\n• Chute plus importante que d'habitude.\n• Période d'anxiété ou de stress.\n• Chute de cheveux saisonnière.\n• Chute de cheveux post-grossesse.\n• Alopécie androgénique.\n• Tendance aux racines grasses.",
+      "actives": "SHAMPOING FUERZA : Calendula, Tepezcohuite, Protéines de Soja, Graines de Lin, Plantain.\n\nINFOACTIF™ FUERZA : Piment de Cayenne, Prêle des champs, Genévrier, Ginkgo Biloba, Ortie Blanche, Fenugrec."
+    },
+    "lluvia": {
+      "title": "Eau de Pluie",
+      "subtitle": "Hydratation Absolue · Brillance Soyeuse",
+      "summary": "Un boost d'hydratation profonde inspiré par la pureté de l'eau, idéal pour redonner élasticité et douceur aux cheveux les plus secs.",
+      "description": "Rituel d'hydratation profonde utilisant l'Eau de Pluie, un baume conditionneur formulé avec des actifs botaniques comme la bardane, le ginkgo biloba et des protéines de soja qui pénètrent au cœur de la fibre pour restaurer l'eau perdue. Ce rituel retient l'humidité à l'intérieur, empêchant les frisottis. Associé à l'Eau Biopolaire, il protège et restructure la fibre face aux agressions extérieures pour des cheveux souples, brillants et sains. Son parfum boisé aux notes de caramel et de cacao offre une déconnexion sensorielle absolue.",
+      "benefits": "• Hydrate en profondeur.\n• Démêle et revitalise.\n• Réduit les frisottis.\n• Augmente la force et l'élasticité.\n• Propriétés antioxydantes.\n• Apporte de la brillance.\n• Améliore la structure et la cohésion de la fibre.\n• Protecteur thermique et barrière contre les agressions extérieures.",
+      "ideal": "• Besoin d'hydratation intense.\n• Cheveux qui s'emmêlent facilement.\n• Perte de souplesse et de mouvement.\n• Cheveux sujets aux frisottis.\n• Pointes sèches/fourchues dues aux lisseurs/sèche-cheveux.\n• Exposition aux UV nocifs.",
+      "actives": "Bardane, Ginkgo Biloba, Protéines de Soja et Huile de Tung."
+    },
+    "purificante": {
+      "title": "Purifiant",
+      "subtitle": "Équilibre Gras · Détox Profonde",
+      "summary": "Purification complète qui régule la production de sébum du cuir chevelu, laissant les cheveux légers, frais et parfaitement propres.",
+      "description": "Soin détoxifiant profond utilisant le Gel Pré-Lavage Purifiant, un soin pré-shampoing qui purifie, stimule et équilibre le cuir chevelu tout en le libérant des silicones, des résines et de la pollution. Nous appliquons ensuite le Shampoing Purifiant, dont l'action assainissante nettoie en profondeur, freine la chute et laisse respirer la peau. Il régule l'excès de sébum sans dessécher les pointes.",
+      "benefits": "• Régule le sébum et purifie le cuir chevelu.\n• Réduit les pellicules, la desquamation et les irritations.\n• Nettoie en profondeur les résidus synthétiques et environnementaux.\n• Augmente le volume.\n• Favorise la réparation des cheveux.\n• Renforce et tonifie la fibre contre la casse.\n• Démêle et apporte de la brillance.\n• Action antioxydante.\n• Aide à préserver la coloration.\n• Stimule la microcirculation pour prévenir la chute.",
+      "ideal": "• Cheveux gras.\n• Cheveux qui regraissent vite.\n• Sensation de cuir chevelu étouffé.\n• Pellicules, desquamations ou irritations.\n• Perte de volume et de brillance.\n• Cheveux très cassants.",
+      "actives": "Fenugrec, Bardane, Lierre rampant, Acides aminés de Blé, Avoine noire et Cyprès."
+    },
+    "tierra": {
+      "title": "Eau de Terre",
+      "subtitle": "Reconstruction Structurelle · Réparation Extrême",
+      "summary": "Le soin réparateur le plus intense de notre boutique, conçu pour reconstruire les cheveux structurellement endommagés par des procédés chimiques extrêmes.",
+      "description": "Soin réparateur et restructurant profond à l'Eau de Terre, un baume léger pour cheveux fins formulé à l'Eau Biopolaire et d'actifs nutritifs comme l'argile rouge, le plantain et les protéines de soja. Nous reconstruisons les fibres de l'intérieur, apportant brillance et matière. Les huiles de tung et de colza réduisent les frisottis et protègent de la chaleur. Son parfum frais de pamplemousse, magnolia, rose et violette offre une renaissance capillaire sensorielle unique.",
+      "benefits": "• Hydrate intensément.\n• Apporte du corps aux cheveux fins.\n• Répare les cheveux agressés par la chaleur.\n• Renforce et structure la fibre contre la casse.\n• Démêle et adoucit.\n• Améliore la force et la souplesse.\n• Forte action antioxydante.\n• Apporte de la brillance.\n• Réduit l'électricité statique.\n• Facilite le coiffage et réduit les frisottis.\n• Protecteur thermique.",
+      "ideal": "• Cheveux fins.\n• Manque d'hydratation.\n• Cheveux fragilisés, abîmés ou cassants.\n• Cheveux soumis au climat extrême ou à la chaleur.\n• Envie d'apporter du corps et du volume.",
+      "actives": "Bardane, Ginkgo Biloba, Graines de Lin, Plantain, Acides aminés de Blé, Argile Rouge, Huile de Tung et Soja."
+    },
+    "alisado": {
+      "title": "Lissage & Réparation Amino-Protéique",
+      "subtitle": "Design de la Forme · Discipline & Santé",
+      "summary": "Technologie biologique avancée qui discipline la chevelure et élimine les frisottis sans altérer sa structure interne.",
+      "description": "Le Lissage Amino-Protéique est un système de coiffage lissant utilisant des acides aminés et des protéines végétales pour lisser le cheveu naturellement. Contrairement aux lissages chimiques classiques, il ne rompt pas les ponts internes mais les réorganise et les protège, assurant un lissé sain, brillant et souple.",
+      "benefits": "Élimination des frisottis, réduction du volume excessif, brillance miroir, toucher soyeux et tenue prolongée tout en préservant la santé capillaire.",
+      "ideal": "Cheveux rebelles, crépus, très volumineux ou personnes recherchant un lissé parfait et discipliné sans compromettre la santé de leur chevelure.",
+      "actives": "Eau Biopolaire™ · Complexe Amino-Protéique Végétal · Bio-activateurs Naturels restructurant la fibre durant le lissage.",
+      "btn": "Voir Design & Style"
+    }
+  },
+  "cta": {
+    "desc": "Ne vous inquiétez pas. Chaque chevelure est unique et notre Diagnostic Capillaire Gratuit est la clé pour découvrir ce dont vos cheveux ont réellement besoin pour rayonner à nouveau.",
+    "btn": "Réserver mon Diagnostic Capillaire",
+    "note": "Sans engagement",
+    "imgAlt": "Diagnostic capillaire personnalisé et gratuit au Salón Pilar Palomares, Axarquía (Málaga)",
+    "title1": "Vous ne savez pas quel",
+    "title2": "Traitement choisir ?"
+  }
+}

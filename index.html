@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#85B7B2" />
+
+
+
+    <!-- Preload Critical Assets -->
+    <link rel="preload" href="/fonts/Wensley-Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/JUST Sans Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <!-- Imagen LCP del hero (sustituye al preload de vídeo de 2,9 MB que no se usaba) -->
+    <link rel="preload" href="/images/home/hero-masaje-relajante-pilar-palomares.webp" as="image" fetchpriority="high" media="(min-width: 768px)" />
+    <link rel="preload" href="/images/home/hero-mobile-masaje-relajante-pilar-palomares.webp" as="image" fetchpriority="high" media="(max-width: 767px)" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

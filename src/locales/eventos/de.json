@@ -1,0 +1,53 @@
+{
+  "seo": {
+    "title": "Braut- & Event-Styling",
+    "description": "Natürliches Friseurhandwerk und Make-up für Bräute und Eventgäste in Torre de Benagalbón. Elegantes Styling für Ihre besonderen Momente."
+  },
+  "hero": {
+    "eyebrow": "Bräute & besondere Anlässe",
+    "title": "Events & Bräute",
+    "text": "Ihre schönste Version in Ihren besondersten Momenten.",
+    "imgAlt": "Spezialisierte Friseur- und Make-up-Services für Bräute und Gäste im Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, nahe Añoreta, Chilches und Málaga"
+  },
+  "vision": {
+    "eyebrow": "Unsere Vision",
+    "text": "Im Salón Pilar Palomares wissen wir, dass ein Event nicht nur der große Tag selbst ist, sondern der gesamte Weg der Vorbereitung. Wir konzentrieren uns darauf, Ihre natürliche Schönheit hervorzuheben, ohne zu verändern, wer Sie sind – mit organischen Produkten, die Ihr Haar und Ihre Haut von Anfang bis Ende pflegen.",
+    "title1": "Jedes Event ist einzigartig,",
+    "title2": "und Ihr Styling sollte es auch sein."
+  },
+  "maquillaje": {
+    "eyebrow": "Luxury Experience",
+    "title": "PROFESSIONELLES MAKE-UP",
+    "text": "Wir verwenden hochwertige professionelle Make-up-Produkte für ein makelloses, strahlendes und langanhaltendes Finish an Ihrem großen Tag. Unser Ziel ist, dass Sie sich wie Sie selbst fühlen – wir betonen Ihre Züge mit Eleganz, Technik und Natürlichkeit.",
+    "tagline": "Seidige Texturen und natürliche Pigmentierung",
+    "imgAlt": "Professioneller Make-up-Service für Bräute und Events im Salón Pilar Palomares"
+  },
+  "services": {
+    "eyebrow": "Spezialitäten",
+    "novias": {
+      "title": "Premium-Bräute",
+      "desc": "Ein Rundum-Service mit vorheriger Beratung, Frisur- und Make-up-Proben sowie exklusiver Betreuung am Tag des Events. Wir kreieren einen natürlichen, eleganten Look, der Ihr Wesen in jedem Detail unterstreicht.",
+      "imgAlt": "Premium-Braut-Paket: persönliche Frisur und Make-up für den großen Tag"
+    },
+    "madrinas": {
+      "title": "Trauzeuginnen & Gäste",
+      "desc": "Elegante, langanhaltende Stylings, damit Sie jeden Moment mit vollem Komfort und Selbstvertrauen genießen können. Wir passen uns Ihrem persönlichen Stil an – für ein makelloses Finish, das das ganze Event hält.",
+      "imgAlt": "Styling- und Frisurenservice für Trauzeuginnen und Eventgäste"
+    },
+    "comuniones": {
+      "title": "Kommunionen",
+      "desc": "Zarte, natürliche Frisuren für die Kleinsten, die ihre Frische und natürliche Freude stets respektieren. Ein herzlicher, liebevoller Service, damit sie sich an einem unvergesslichen Tag für sie und ihre Familie besonders fühlen.",
+      "imgAlt": "Natürliche, zarte Frisuren für Mädchen am Tag ihrer Erstkommunion"
+    },
+    "title1": "Friseurhandwerk",
+    "title2": "& Styling"
+  },
+  "info": {
+    "text": "Um beste Ergebnisse zu garantieren, erfordern alle unsere Braut-Services eine vorherige Beratung. Bei diesem Termin analysieren wir Ihr Haar und Ihre Haut, Ihre Vorlieben und den Stil des Events, um das perfekte Konzept für Sie zu entwerfen.",
+    "cardEyebrow": "Verfügbarkeit anfragen",
+    "cardTitle": "Vereinbaren Sie Ihren Beratungstermin",
+    "cta": "Beratungstermin anfragen",
+    "title1": "Ablauf",
+    "title2": "und Beratung"
+  }
+}

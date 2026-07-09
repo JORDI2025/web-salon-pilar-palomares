@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "Notre Essence & Philosophie Consciente",
+    "description": "Notre essence, notre philosophie de beauté consciente et la cosmétique biodynamique Secretos del Agua au Salón Pilar Palomares à Málaga."
+  },
+  "hero": {
+    "eyebrow": "Notre Essence",
+    "title1": "Une Raison",
+    "title2": "d'Être",
+    "text": "Un nouveau paradigme de beauté qui place la santé, le bien-être et le respect des rythmes de la nature au premier plan.",
+    "imgAlt": "Notre essence : philosophie de beauté biodynamique et consciente au Salón Pilar Palomares, Torre de Benagalbón, Axarquía (Málaga)"
+  },
+  "historia": {
+    "eyebrow": "Notre Histoire",
+    "imgAlt": "Pilar Palomares avec son équipe de coiffure biologique à Torre de Benagalbón",
+    "quote": "« Pilar Palomares est coiffeuse et esthéticienne par vocation. Un parcours de plus de 30 ans défini par la constance, l'excellence et un engagement inébranlable envers le bien-être. »",
+    "p1": "Forte de l'expérience de six salons fondés et de la confiance de milliers de client·es, Pilar a fait évoluer sa maîtrise vers un concept supérieur : la beauté consciente. Sa quête de perfection l'a menée à abandonner le conventionnel pour embrasser le biologique.",
+    "p2": "Le Salón Pilar Palomares est le fruit de cette évolution. Un espace de conscience globale où les produits sont organiques et d'origine biologique. Ici, le soin des cheveux et de la peau est conçu comme un véritable système de santé, sans agression et en parfaite harmonie avec la nature.",
+    "title1": "Trajectoire",
+    "title2": "et Vocation"
+  },
+  "despertar": {
+    "eyebrow": "Un Rituel Sacré",
+    "title1": "La Beauté de",
+    "title2": "l'Éveil",
+    "imgAlt": "La beauté de l'éveil - Connexion consciente au Salón Pilar Palomares",
+    "quote": "« La vraie beauté commence au moment où tu décides d'être toi-même. »",
+    "text": "À travers les argiles et les soins biologiques, cette philosophie prend vie. Aujourd'hui, avec la même passion et le même sourire qu'au premier jour, Pilar vous ouvre les portes de son rêve accompli : un refuge où la beauté est, avant tout, respect et santé.",
+    "item1Title": "Conscience Collective",
+    "item1Text": "Nous voulons impulser un changement vers un monde plus sain et plus conscient à travers chaque rituel.",
+    "item2Title": "Équilibre Émotionnel",
+    "item2Text": "Nous privilégions la détente et le soin global avec des biothérapies visage et corps personnalisées.",
+    "img2Alt": "Application d'argile et de traitements organiques sur les cheveux avec des ingrédients naturels et botaniques"
+  },
+  "refugio": {
+    "eyebrow": "Notre Refuge",
+    "title1": "Transformation",
+    "title2": "depuis la racine",
+    "card1Title": "Stylisme Écologique",
+    "card1Text": "Référence de la beauté durable pour Rincón de la Victoria, Añoreta et toute l'Axarquía.",
+    "card1Alt": "Expérience de beauté durable à Torre de Benagalbón",
+    "card2Title": "Lumière Intérieure",
+    "card2Text": "« Cultiver ta lumière intérieure est une façon d'illuminer ceux qui t'entourent. En regardant vers l'intérieur, nous nous connectons à la flamme intérieure. »",
+    "card2Alt": "Expérience de santé émotionnelle et de lumière intérieure",
+    "card3Title": "Bien-être Conscient",
+    "card3Text": "Une fusion profonde où le soin des cheveux et de la peau devient un rituel de conscience supérieure pour votre santé globale.",
+    "card3Alt": "Bien-être conscient : rituels de santé capillaire et cutanée dans l'Axarquía, Málaga"
+  },
+  "metodo": {
+    "eyebrow": "La Méthode Biodynamique",
+    "title1": "Plantes",
+    "title2": "& Sagesse",
+    "imgAlt": "Agriculture Biodynamique - Méthode biodynamique et actifs botaniques",
+    "textBefore": "Aux côtés de ",
+    "textAfter": ", nous suivons l'agriculture biodynamique pour vous offrir des formules efficaces, saines et biodégradables qui respectent les cycles naturels de la terre et du cosmos.",
+    "item1Title": "Actifs Botaniques",
+    "item1Text": "Des ingrédients de haute qualité, sans pesticides, qui respectent les cycles du calendrier astronomique pour une efficacité supérieure.",
+    "item2Title": "Eau Biopolaire™",
+    "item2Text": "Nous utilisons une eau pure de sources des Pyrénées, riche en énergie et en information, comme véhicule parfait de nos actifs botaniques."
+  },
+  "rituales": {
+    "eyebrow": "Expérience Sensorielle",
+    "text": "Nos rituels de soin de soi sont une pratique libératrice pour vous reconnecter à vous-même en pleine conscience. Un temps dédié à agir sur le spirituel à travers le corps.",
+    "imgAlt": "Rituel aux pindas - Expérience sensorielle au Salón Pilar Palomares",
+    "card1Title": "Santé Capillaire",
+    "card1Text": "Hydratation biodynamique et soins détox en profondeur qui respectent votre santé.",
+    "card2Title": "Coloration Naturelle",
+    "card2Text": "Des techniques ancestrales aux argiles et huiles exclusives, conçues pour rayonner de santé.",
+    "card3Title": "Biothérapies Corporelles",
+    "card3Text": "Des rituels de bien-être qui restaurent l'harmonie de votre corps et élèvent votre esprit.",
+    "cta": "Réserver votre Rituel",
+    "title1": "Rituels pour le",
+    "title2": "corps et l'âme"
+  },
+  "cosmos": {
+    "eyebrow": "En Synchronie avec le Cosmos",
+    "title1": "Rythmes de la",
+    "title2": "Lune et de la Terre",
+    "imgAlt": "Rythmes de la Lune et de la Terre - Synchronie avec le cosmos",
+    "card1Title": "Harmonie Lunaire",
+    "card1Text": "Nous suivons le Calendrier Biodynamique pour choisir le moment le plus favorable à votre coupe de cheveux ou pour amplifier les résultats de votre coloration.",
+    "card2Title": "Cycles Saisonniers",
+    "card2Text": "Nos rituels s'adaptent aux saisons de l'année, en respectant ce dont votre peau et vos cheveux ont besoin à chaque moment de transition naturelle.",
+    "text": "Découvrez notre méthode pour sublimer votre beauté au rythme des astres et planifiez votre prochaine visite au moment optimal.",
+    "cta": "Consulter le Calendrier Biodynamique"
+  }
+}

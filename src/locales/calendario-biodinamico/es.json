@@ -1,0 +1,84 @@
+{
+  "seo": {
+    "title": "Calendario Lunar y Biodinámico",
+    "description": "Calendario biodinámico lunar para el cuidado del cabello en Salón Pilar Palomares. Descubre los mejores días para tu corte y tratamiento."
+  },
+  "hero": {
+    "eyebrow": "Sintonía con el Universo",
+    "title1": "Calendario",
+    "title2": "del Cosmos",
+    "desc": "Cuando la belleza sigue el ritmo de la naturaleza",
+    "imgAlt": "Calendario biodinámico del cosmos: ritmos lunares para la belleza consciente"
+  },
+  "agua": {
+    "eyebrow": "Sincronía Natural",
+    "desc": "Al igual que la luna gobierna las mareas, influye también en el agua que compone el 70% de nuestro organismo. En Pilar Palomares, utilizamos este conocimiento ancestral para potenciar la eficacia de cada bioterapia.",
+    "stat1": "Vitalidad",
+    "stat2": "Energía",
+    "stat3": "Ciclos",
+    "imgAlt": "El ritmo del agua y el influjo lunar: ninfas de agua bajo la luna llena, representando la conexión cosmobiológica",
+    "title1": "El Ritmo",
+    "title2": "del Agua"
+  },
+  "julio": {
+    "eyebrow": "Ciclos y Ventanas Favorables",
+    "introText1": "La naturaleza se abre completamente en julio, mostrando todo su potential. Es un momento para cuidar desde la consciencia: proteger y equilibrar frente a la intensidad del sol, el calor y la exposición.",
+    "introText2": "La Biodinámica nos recuerda la importancia de sostener este ritmo desde el respeto, acompañando la piel y el cabello para que mantengan su equilibrio, su hidratación y su capacidad de adaptación.",
+    "downloadBtn": "Bájate el calendario de julio",
+    "imgAlt1": "Calendario del Cosmos Julio 2026",
+    "title1": "Calendario",
+    "title2": "de Julio 2026",
+    "introTitle1": "El mes de la madurez",
+    "introTitle2": "y la expresión"
+  },
+  "corte": {
+    "desc": "El cabello responde a los ciclos lunares. Julio ofrece ventanas muy precisas para el corte según el resultado que busques: estimular el crecimiento, fortalecer la fibra o simplemente sellar las puntas con cuidado.",
+    "label4_6": "Del 4 al 6",
+    "d4_6": "Momento especialmente favorable para potenciar la forma natural del rizo y acompañar su movimiento con armonía y definición.",
+    "label6_8": "Del 6 al 8",
+    "d6_8": "Corte para quienes desean estimular el crecimiento y dar un impulso a su melena. Luna ascendente: la savia sube.",
+    "label12_26": "Del 12 al 26",
+    "d12_26": "Periodos recomendados para cuidar la longitud del cabello, favoreciendo con el corte unas puntas más saludables y una melena con aspecto renovado.",
+    "label18_22": "Del 18 al 22",
+    "d18_22": "Fase ideal del corte para fortalecer la fibra y favorecer una mayor resistencia frente a la caída. Perfecta para quien busca densidad y estructura.",
+    "imgAlt": "Corte de cabello biodinámico en Julio 2026",
+    "title1": "El momento",
+    "title2": "del corte"
+  },
+  "color": {
+    "desc": "La luna influye en cómo el cabello absorbe y retiene el color. Escoger el día adecuado marca la diferencia entre un tono que dura y uno que se desvanece. Julio ofrece ventanas muy concretas para trabajar la coloración con resultados óptimos.",
+    "label13_14": "Del 13 al 14",
+    "d13_14": "Momento especialmente favorable para el color: potencia su luminosidad y permite que el cabello refleje toda su belleza y naturalidad.",
+    "label16_18": "Del 16 al 18",
+    "d16_18": "Periodo idóneo para trabajar el color favoreciendo una mayor fijación y ayudando a prolongar su intensidad y duración.",
+    "label18_22": "Del 18 al 22",
+    "d18_22": "Días propicios para aplicar el color si se busca realzar la profundidad y riqueza de los matices, consiguiendo tonos más vibrantes y expresivos.",
+    "label22_23": "Del 22 al 23",
+    "d22_23": "Segunda ventana de alta luminosidad. Ideal para técnicas de balayage o mechas que buscan luminosidad y reflejo natural.",
+    "imgAlt": "Coloración capilar biodinámica en Julio 2026",
+    "title1": "Color con",
+    "title2": "más vida"
+  },
+  "depil": {
+    "desc": "Durante la fase de luna descendente, la depilación encuentra un momento especialmente propicio para retardar el crecimiento del vello, asegurando resultados más duraderos y una piel cuidada en sintonía con el cosmos.",
+    "label13_14": "Del 13 al 14",
+    "d13_14": "Fase especialmente favorable para la depilación biodinámica corporal.",
+    "label22_23": "Del 22 al 23",
+    "d22_23": "Segunda ventana ideal para mantener la suavidad de la piel por más tiempo.",
+    "imgAlt": "Cuidado de la piel y depilación biodinámica en Julio 2026",
+    "title1": "Depilación",
+    "title2": "consciente"
+  },
+  "treat": {
+    "desc": "La piel y el cuerpo se benefician enormemente al sincronizar los cuidados con los ciclos del cosmos. Sintoniza tus rituales de cabina para potenciar la asimilación de activos y la firmeza de los tejidos.",
+    "label6_8": "Del 6 al 8",
+    "d6_8": "Luna ascendente, mejor por la mañana. Tratamientos Brightening y Detox aprovechan la mayor circulación superficial.",
+    "label13_22": "Del 13 al 22",
+    "d13_22": "Luna descendente, mejor por la tarde-noche. Óptimo para tratamientos Anti-Aging, Sensitive, Straffung y Dekolleté. La piel absorbe mejor los activos.",
+    "label22_26": "Del 22 al 26",
+    "d22_26": "Continuación de la fase descendente. Ideal para tratamientos de drenaje, piernas cansadas y cualquier protocolo de reafirmación corporal.",
+    "imgAlt": "Tratamientos faciales y corporales biodinámicos",
+    "title1": "Tratamientos",
+    "title2": "faciales y corporales"
+  }
+}

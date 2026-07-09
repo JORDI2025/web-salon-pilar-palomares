@@ -1,0 +1,53 @@
+{
+  "seo": {
+    "title": "Peinados para Novias y Eventos",
+    "description": "Peluquería y maquillaje natural para novias e invitadas a eventos en Torre de Benagalbón. Estilismo elegante para momentos especiales."
+  },
+  "hero": {
+    "eyebrow": "Novias & Eventos Especiales",
+    "title": "Eventos & Novias",
+    "text": "Tu mejor versión en tus momentos más especiales.",
+    "imgAlt": "Servicios especializados de peluquería y maquillaje para novias e invitadas en Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Málaga"
+  },
+  "vision": {
+    "eyebrow": "Nuestra Visión",
+    "text": "En Salón Pilar Palomares entendemos que un evento no es solo el día señalado, sino todo el proceso de preparación. Nos enfocamos en resaltar tu belleza natural sin transformar quien eres, utilizando productos orgánicos que cuidan tu cabello y tu piel de principio a fin.",
+    "title1": "Cada evento es único,",
+    "title2": "y tu estilismo también debe serlo."
+  },
+  "maquillaje": {
+    "eyebrow": "Luxury Experience",
+    "title": "MAQUILLAJE PROFESIONAL",
+    "text": "Utilizamos productos de maquillaje profesional de alta gama para lograr un acabado impecable, luminoso y de larga duración en tu gran día. Nuestro objetivo es que te sientas tú misma, realzando tus rasgos con elegancia, técnica y naturalidad.",
+    "tagline": "Texturas sedosas y pigmentación natural",
+    "imgAlt": "Servicio de maquillaje profesional para novias y eventos en Salón Pilar Palomares"
+  },
+  "services": {
+    "eyebrow": "Especialidades",
+    "novias": {
+      "title": "Novias Premium",
+      "desc": "Servicio integral que incluye diagnóstico previo, pruebas de peinado y maquillaje, y atención exclusiva el día del evento. Creamos un look natural y sofisticado que resalte tu esencia en cada detalle.",
+      "imgAlt": "Pack Novia Premium: peinado y maquillaje personalizado para el gran día"
+    },
+    "madrinas": {
+      "title": "Madrinas e Invitadas",
+      "desc": "Estilismos elegantes y duraderos diseñados para que disfrutes de cada momento con total comodidad y confianza. Nos adaptamos a tu estilo personal para lograr un acabado impecable que dure todo el evento.",
+      "imgAlt": "Servicio de estilismo y peinado para madrinas e invitadas de eventos"
+    },
+    "comuniones": {
+      "title": "Comuniones",
+      "desc": "Peinados delicados y naturales para las más pequeñas, respetando siempre su frescura y alegría natural. Un servicio cercano y dulce para que se sientan especiales en un día inolvidable para ellas y su familia.",
+      "imgAlt": "Peinados naturales y delicados para niñas el día de su primera comunión"
+    },
+    "title1": "Peluquería",
+    "title2": "y Estilismo"
+  },
+  "info": {
+    "text": "Para garantizar los mejores resultados, todos nuestros servicios de novias requieren una valoración previa. En esta cita, analizamos tu cabello y tu piel, tus gustos y el estilo del evento para diseñar la propuesta perfecta.",
+    "cardEyebrow": "Consultar disponibilidad",
+    "cardTitle": "Pide tu cita de valoración",
+    "cta": "Pedir cita de valoración",
+    "title1": "Proceso",
+    "title2": "y Valoración"
+  }
+}

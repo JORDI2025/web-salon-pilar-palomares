@@ -1,0 +1,84 @@
+{
+  "seo": {
+    "title": "Calendrier Lunaire et Biodynamique",
+    "description": "Calendrier biodynamique lunaire pour le soin des cheveux chez Salón Pilar Palomares. Découvrez les meilleurs jours pour votre coupe et soin."
+  },
+  "hero": {
+    "eyebrow": "Harmonie avec l'Univers",
+    "title1": "Calendrier",
+    "title2": "du Cosmos",
+    "desc": "Quand la beauté suit le rythme de la nature",
+    "imgAlt": "Calendrier biodynamique du cosmos : rythmes lunaires pour la beauté consciente"
+  },
+  "agua": {
+    "eyebrow": "Synchronisation Naturelle",
+    "desc": "Tout comme la lune régit les marées, elle influence également l'eau qui compose 70 % de notre corps. Chez Pilar Palomares, nous utilisons ce savoir ancestral pour décupler l'efficacité de chaque biothérapie.",
+    "stat1": "Vitalité",
+    "stat2": "Énergie",
+    "stat3": "Cycles",
+    "imgAlt": "Le rythme de l'eau et l'influence lunaire : nymphes d'eau sous la pleine lune, représentant la connexion cosmobiologique",
+    "title1": "Le Rythme",
+    "title2": "de l'Eau"
+  },
+  "julio": {
+    "eyebrow": "Cycles et Créneaux Favorables",
+    "introText1": "La nature s'ouvre pleinement en juillet, révélant tout son potentiel. C'est un moment pour prendre soin en conscience : protéger et équilibrer face à l'intensité du soleil, de la chaleur et des expositions.",
+    "introText2": "La Biodynamique nous rappelle l'importance de soutenir ce rythme avec respect, en accompagnant la peau et le cheveu pour qu'ils conservent leur équilibre, leur hydratation et leur capacité d'adaptation.",
+    "downloadBtn": "Télécharger le calendrier de juillet",
+    "imgAlt1": "Calendrier du Cosmos Juillet 2026",
+    "title1": "Calendrier",
+    "title2": "de Juillet 2026",
+    "introTitle1": "Le mois de la maturité",
+    "introTitle2": "et de l'expression"
+  },
+  "corte": {
+    "desc": "Le cheveu répond aux cycles lunaires. Juillet offre des fenêtres très précises pour la coupe selon le résultat recherché : stimuler la pousse, fortifier la fibre ou simplement sceller les pointes avec soin.",
+    "label4_6": "Du 4 au 6 juillet",
+    "d4_6": "Moment particulièrement propice pour sublimer la forme naturelle de la boucle et accompagner son mouvement avec harmonie et définition.",
+    "label6_8": "Du 6 au 8 juillet",
+    "d6_8": "Coupe idéale pour stimuler la pousse et redonner du tonus à la chevelure. Lune montante : la sève monte.",
+    "label12_26": "Du 12 au 26 juillet",
+    "d12_26": "Périodes recommandées pour soigner la longueur, favorisant avec la coupe des pointes plus saines et une chevelure d'aspect renouvelé.",
+    "label18_22": "Du 18 au 22 juillet",
+    "d18_22": "Phase idéale pour couper si l'on souhaite fortifier la fibre et limiter la chute. Parfait pour qui recherche densité et matière.",
+    "imgAlt": "Coupe de cheveux biodynamique en Juillet 2026",
+    "title1": "Le moment",
+    "title2": "de la coupe"
+  },
+  "color": {
+    "desc": "La lune influe sur la façon dont le cheveu absorbe et retient la couleur. Choisir le bon jour fait la différence entre un reflet durable et un ton qui s'affadit. Juillet offre des créneaux très précis pour optimiser votre coloration.",
+    "label13_14": "Du 13 au 14 juillet",
+    "d13_14": "Moment particulièrement favorable pour la couleur : exalte sa luminosité et permet au cheveu de refléter toute sa beauté et son naturel.",
+    "label16_18": "Du 16 au 18 juillet",
+    "d16_18": "Période idéale pour appliquer la couleur, favorisant une meilleure fixation et aidant à prolonger son intensité et sa durée.",
+    "label18_22": "Du 18 au 22 juillet",
+    "d18_22": "Jours propices pour la coloration si l'on cherche à approfondir la richesse des nuances, obtenant des tons vibrants et expressifs.",
+    "label22_23": "Du 22 au 23 juillet",
+    "d22_23": "Seconde fenêtre de haute luminosité. Idéale pour des balayages ou mèches recherchant éclats et reflets naturels.",
+    "imgAlt": "Coloration capillaire biodynamique en Juillet 2026",
+    "title1": "Couleur avec",
+    "title2": "plus de vie"
+  },
+  "depil": {
+    "desc": "Durant la phase de lune descendante, l'épilation trouve un moment particulièrement propice pour ralentir la repousse du poil, garantissant des résultats plus durables et une peau douce en harmonie avec le cosmos.",
+    "label13_14": "Du 13 au 14 juillet",
+    "d13_14": "Phase particulièrement favorable pour l'épilation corporelle biodynamique.",
+    "label22_23": "Du 22 au 23 juillet",
+    "d22_23": "Seconde fenêtre idéale pour maintenir la douceur de la peau plus longtemps.",
+    "imgAlt": "Soin de la peau et épilation biodynamique en Juillet 2026",
+    "title1": "Épilation",
+    "title2": "consciente"
+  },
+  "treat": {
+    "desc": "La peau et le corps profitent grandement de la synchronisation des rituels avec les cycles du cosmos. Accordez vos soins en cabine pour stimuler l'assimilation des actifs et la fermeté cutanée.",
+    "label6_8": "Du 6 au 8 juillet",
+    "d6_8": "Lune montante, de préférence le matin. Les soins Brightening et Détox profitent d'une meilleure circulation superficielle.",
+    "label13_22": "Du 13 au 22 juillet",
+    "d13_22": "Lune descendante, de préférence en fin d'après-midi/soirée. Optimal pour les soins Anti-Âge, Sensitive, Straffung et Décolleté. La peau absorbe mieux les actifs.",
+    "label22_26": "Du 22 au 26 juillet",
+    "d22_26": "Prolongation de la phase descendante. Idéal pour les soins de drainage, jambes lourdes et tout protocole de raffermissement corpuelle.",
+    "imgAlt": "Soins visage et corps biodynamiques",
+    "title1": "Soins Faciaux",
+    "title2": "et Corporels"
+  }
+}

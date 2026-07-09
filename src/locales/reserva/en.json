@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "Book Your Appointment Online",
+    "description": "Book your appointment or free hair and facial diagnosis online at Salón Pilar Palomares in Torre de Benagalbón (Málaga)."
+  },
+  "success": {
+    "title": "Thank You!",
+    "text": "We have received your request, {{name}}. Pilar or a member of the team will contact you very soon to confirm your appointment.",
+    "back": "Back to home"
+  },
+  "header": {
+    "eyebrow": "Reserve your space",
+    "title1": "CONSCIOUS",
+    "title2": "BEAUTY"
+  },
+  "contact": {
+    "callLabel": "Call",
+    "whatsappLabel": "WhatsApp",
+    "whatsappHref": "https://wa.me/34642275906?text=Hello,%20I%20would%20like%20to%20request%20a%20diagnosis%20or%20an%20appointment%20at%20the%20salon.",
+    "imgAlt": "Pilar Palomares answering the phone at the salon reception",
+    "imgAltFull": "Pilar Palomares answering the phone at the salon reception, ready to welcome you to your conscious beauty appointment"
+  },
+  "form": {
+    "title": "Request your appointment",
+    "subtitle": "Fill in the form and we will design the perfect space for your treatment.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name...",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "Your number...",
+    "serviceLabel": "Service of Interest",
+    "serviceDefault": "Select an option...",
+    "servicePeluqueria": "Hairdressing",
+    "serviceColor": "Colour Culture (Clays / Oils)",
+    "serviceBioterapia": "Biotherapy (Hair / Facial / Wood Therapy)",
+    "serviceEstetica": "Aesthetics",
+    "serviceNovias": "Brides",
+    "serviceOtros": "Other",
+    "detailsLabel": "Additional Details",
+    "detailsPlaceholder": "Let us know your preferred time (e.g. mornings, afternoons...)",
+    "privacyPre": "I have read and accept the",
+    "privacyLink": "Privacy Policy",
+    "privacyPost": ". *",
+    "sending": "Sending...",
+    "submit": "Request Appointment",
+    "footer": "Pilar Palomares • Conscious Beauty • 2026"
+  },
+  "legal": {
+    "title": "Basic information on data protection:",
+    "responsableLabel": "Data controller:",
+    "responsable": "Pilar Palomares (Salón Pilar Palomares).",
+    "finalidadLabel": "Purpose:",
+    "finalidad": "To manage your appointment request and respond to your enquiries about our services.",
+    "legitimacionLabel": "Legal basis:",
+    "legitimacion": "Consent of the data subject by ticking the box and submitting the form.",
+    "destinatariosLabel": "Recipients:",
+    "destinatarios": "Your data will not be shared with third parties except where legally required or with technical service providers.",
+    "derechosLabel": "Rights:",
+    "derechos": "You may access, rectify and erase your data, as well as exercise other rights detailed in our",
+    "derechosLink": "Privacy Policy",
+    "derechosPost": "."
+  }
+}

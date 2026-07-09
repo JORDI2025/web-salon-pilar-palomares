@@ -1,0 +1,72 @@
+{
+  "seo": {
+    "title": "Unser Stylisten-Team",
+    "description": "Lernen Sie das Team aus Stylisten und Therapeutinnen des Salón Pilar Palomares kennen – Experten für Biotherapien und Bio-Friseurhandwerk in Málaga."
+  },
+  "hero": {
+    "title1": "Unser",
+    "title2": "Team",
+    "text": "Sieben Geschichten, eine gemeinsame Leidenschaft. Profis, die natürliche Pflege zu ihrer Lebensweise gemacht haben.",
+    "imgAlt": "Das Team des Salón Pilar Palomares in Torre de Benagalbón, Axarquía (Málaga)"
+  },
+  "intro": {
+    "eyebrow": "Die Menschen",
+    "title": "Professionelles Team",
+    "subtitle": "bestens ausgebildet",
+    "tagline": "Für uns ist die Arbeit pure Freude",
+    "lead": "Wir bieten ein gesünderes und nachhaltigeres Schönheitserlebnis.",
+    "text": "Wir kümmern uns nicht nur um die Schönheit unserer Kundinnen und Kunden, sondern setzen uns auch aktiv für den Schutz des Planeten und einen umweltbewussteren Lebensstil ein. Sie kennen uns noch nicht? Worauf warten Sie?"
+  },
+  "carousel": {
+    "prevLabel": "Vorheriges Bild ansehen",
+    "nextLabel": "Nächstes Bild ansehen",
+    "placeholder": "Foto {{num}}",
+    "workAlt": "{{name}} vom Team des Salón Pilar Palomares bei der Arbeit — Foto {{num}}"
+  },
+  "team": {
+    "pilar": {
+      "role": "Direktorin & Gründerin",
+      "bio": "Pilar spürte schon als Kind ihre Berufung zum Friseurhandwerk und wusste immer genau, wofür sie leben wollte. Im Laufe ihrer Karriere hat sie erfolgreich 6 Schönheitssalons gegründet. Nach mehr als 30 Jahren Berufserfahrung prägen ihr herzlicher, familiärer Charakter und ihre Sicht auf die Welt die einladende Seele unseres Salons, der sich auf natürliche Weise zu einem organischen Friseur- und Kosmetiksalon entwickelt hat, in dem sie auf natürliche, bewusste und gesunde Schönheit setzt. Ihre Ausbildung in der biodynamischen Methode von Secretos del Agua machte sie zur Pionierin in der Axarquía – stets treu ihrer Überzeugung, dass jeder Mensch eine Behandlung verdient, die sein einzigartiges Wesen respektiert.",
+      "photoAlt": "Pilar Palomares, Direktorin des Salón Pilar Palomares"
+    },
+    "bea": {
+      "role": "Friseurin & Kosmetikerin",
+      "bio": "Mit 30 Jahren Erfahrung und Hingabe in unserem Salon ist Bea die Vielseitigkeit in Person und eine äußerst perfektionistische Fachkraft in jedem Detail ihrer Arbeit. Sie beherrscht sowohl das Friseurhandwerk als auch die Kosmetik meisterhaft, was ihr eine ganzheitliche Sicht auf Schönheit ermöglicht. Ihr besonderes Gespür dafür, was jede Kundin braucht, macht sie zu einer Schlüsselfigur des Teams – Technik und Herzlichkeit vereint in jedem Service.",
+      "photoAlt": "Bea, Friseurin und Kosmetikerin im Team des Salón Pilar Palomares"
+    },
+    "rosi": {
+      "role": "Friseurin · Expertin für Tonerde-Colorationen",
+      "bio": "Mit 18 Jahren Erfahrung in unserem Salon besticht Rosi durch ihre ansteckende Herzlichkeit und hat die Coloration mit organischen Tonerden zu einer wahren Kunst gemacht. Ihr tiefes Wissen über natürliche Pigmente und ihre Fähigkeit, die Nuancen jedes Haares zu deuten, machen ihre Ergebnisse einzigartig, gesund und immer authentisch.",
+      "photoAlt": "Rosi, Expertin für Tonerde-Colorationen im Team des Salón Pilar Palomares"
+    },
+    "sonia": {
+      "role": "Friseurin · Expertin für Strähnentechniken und Hochsteckfrisuren",
+      "bio": "Sonia bringt Frische und Energie ins Team und glänzt als Expertin für Strähnentechniken und Hochsteckfrisuren. Ihre Leidenschaft für das Friseurhandwerk zeigt sich in der Hingabe, die sie in jeden Schnitt, jede Frisur und jede Haarbehandlung legt. Stets in Weiterbildung, verbindet sie aktuelle Trends mit den Prinzipien der organischen Schönheit, die den Salon ausmachen.",
+      "photoAlt": "Sonia, Friseurin im Team des Salón Pilar Palomares"
+    },
+    "paqui": {
+      "role": "Kosmetikerin",
+      "bio": "Mit einem Werdegang, der Stationen bei renommierten Firmen der Branche umfasst, und mehr als 10 Jahren Hingabe in unserem Salon ist Paqui die Hüterin der Haut in unserem Team. Spezialisiert auf Gesichts- und Körper-Biotherapien gestaltet sie jedes Protokoll als sinnliche Reise, die das Gleichgewicht der Haut aus der Tiefe der Zellen wiederherstellt und jede Sitzung in ein transformierendes Erlebnis verwandelt.",
+      "photoAlt": "Paqui, Kosmetikerin im Salón Pilar Palomares"
+    },
+    "alba": {
+      "role": "Maniküre-Expertin",
+      "bio": "Alba ist das jüngste Mitglied des Salons und sorgt für Frische und Vitalität im Team. Sie pflegt Ihre Hände mit einer handwerklichen Präzision, die den Unterschied macht, und verbindet ihre Beherrschung der Maniküretechniken (vom klassischen Lack bis zum Semipermanent-Lack) mit einer exquisiten Betreuung. Detailverliebt von Natur aus, verwandelt Alba jeden Termin in einen entspannenden Verwöhnmoment und überlässt nichts dem Zufall.",
+      "photoAlt": "Alba, Maniküre-Expertin im Team des Salón Pilar Palomares"
+    },
+    "david": {
+      "role": "Herren-Stylist",
+      "bio": "David ist die männliche Referenz des Salons. Sympathisch, gesprächig und ein wenig verschmitzt, ist er immer zu Scherzen aufgelegt – mit einem Lächeln, das seine Freude ansteckend macht. Seine Ausbildung in modernem Barbering und Styling erlaubt ihm Schnitte mit Persönlichkeit und makellosem Finish. Er weiß, dass Körperpflege kein Geschlecht kennt und jeder Mann einen Service auf höchstem Niveau verdient: präzise, elegant und mit Produkten, die Haut und Haar respektieren.",
+      "photoAlt": "David, Herren-Stylist im Salón Pilar Palomares"
+    }
+  },
+  "cta": {
+    "eyebrow": "Kommen Sie zu uns",
+    "title1": "Möchten Sie das Erlebnis",
+    "title2": "mit uns teilen?",
+    "text": "Jeder Besuch im Salon ist eine Gelegenheit, wieder zu sich selbst zu finden. Unser Team ist bereit, Sie so zu verwöhnen, wie Sie es verdienen.",
+    "reservar": "Termin buchen",
+    "contactar": "Kontakt",
+    "imgAlt": "Innenansicht des Salón Pilar Palomares, Bio-Friseursalon"
+  }
+}

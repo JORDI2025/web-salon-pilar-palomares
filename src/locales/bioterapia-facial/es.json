@@ -1,0 +1,104 @@
+{
+  "seo": {
+    "title": "Bioterapia Facial Orgánica",
+    "description": "Tratamientos y bioterapias faciales orgánicas con Agua Biopolar de Secretos del Agua en Torre de Benagalbón. Cuidado natural de la piel."
+  },
+  "hero": {
+    "back": "Todas las Bioterapias",
+    "title1": "Bioterapia",
+    "title2": "Facial",
+    "text": "Un enfoque integrador de belleza donde la salud de tu piel se recupera a través de la ciencia botánica de Secretos del Agua.",
+    "cta": "Solicitar Diagnóstico",
+    "imgAlt": "Tratamientos integradores de bioterapia facial avanzada en Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Málaga"
+  },
+  "intro": {
+    "eyebrow": "Ciencia Botánica",
+    "text1": "Nuestra bioterapia facial no es una limpieza convencional. Es un sistema terapéutico que utiliza el ",
+    "strong": "Agua Biopolar™",
+    "text2": " para transmitir información celular y botánica, permitiendo que la piel recupere su equilibrio, hidratación y luminosidad desde el interior.",
+    "title1": "Salud",
+    "title2": "y Belleza"
+  },
+  "protocols": {
+    "eyebrow": "Protocolos de Rostro",
+    "title1": "Bioterapia",
+    "title2": "Facial",
+    "imgAltMobile": "Sesión de bioterapia facial avanzada con activos botánicos en Salón Pilar Palomares",
+    "imgAltDesktop": "Sesión de bioterapia facial con activos botánicos en peluquería orgánica Pilar Palomares, Torre de Benagalbón (Málaga)",
+    "quote": "\"Restauramos la arquitectura de tu piel respetando sus ritmos biológicos.\"",
+    "card": "\"Potenciamos cada tratamiento con maderoterapia facial y cuarzos, reactivando la circulación y el colágeno natural para un efecto lifting biológico inmediato.\""
+  },
+  "list": {
+    "eyebrow": "Tratamientos Personalizados",
+    "text": "Aquí te mostramos nuestras bioterapias faciales, una selección de rituales diseñados para recuperar el equilibrio y vitalidad de tu piel:",
+    "title1": "Bioterapias",
+    "title2": "Faciales"
+  },
+  "tabs": {
+    "description": "Descripción",
+    "benefits": "Beneficios",
+    "ideal": "Para ti",
+    "actives": "Activos"
+  },
+  "slideshow": {
+    "prev": "Ver imagen anterior",
+    "next": "Ver imagen siguiente"
+  },
+  "treatments": {
+    "sensitiva": {
+      "title": "Bioterapia Sensitiva",
+      "subtitle": "Pieles Reactivas · Calma y Protección",
+      "summary": "Terapia biológica diseñada para restaurar el equilibrio de las pieles más delicadas y reactivas.",
+      "tabs": {
+        "description": "Ritual calmante que refuerza la barrera protectora de la dermis, eliminando rojeces y tirantez mediante el uso de Agua Biopolar™ y activos botánicos como la caléndula y el aciano.",
+        "benefits": "• Calma la irritación inmediata.\n• Refuerza la hidratación natural.\n• Reduce la reactividad cutánea.\n• Aporta suavidad y confort.",
+        "ideal": "• Tienes la piel sensible o reactiva.\n• Sufres de rojeces o descamación.\n• Notas tirantez tras el lavado.\n• Buscas un ritual suave y respetuoso.",
+        "actives": "Caléndula, Aciano, Manzanilla, Aloe Vera, Agua Biopolar™."
+      }
+    },
+    "iluminante": {
+      "title": "Bioterapia Iluminante",
+      "subtitle": "Uniformidad · Luz y Despigmentación",
+      "summary": "Actúa sobre la hiperpigmentación para devolver la luminosidad y el tono uniforme al rostro.",
+      "tabs": {
+        "description": "Tratamiento avanzado que regula la producción de melanina y unifica el relieve cutáneo. Ideal para pieles apagadas o con manchas solares y hormonales.",
+        "benefits": "• Difumina manchas y marcas.\n• Unifica el tono del rostro.\n• Aporta luminosidad instantánea.\n• Regenera el tejido dañado.",
+        "ideal": "• Notas el tono de tu piel apagado o desigual.\n• Tienes manchas solares o por la edad.\n• Quieres recuperar el brillo natural.\n• Tienes marcas de acné.",
+        "actives": "Gayuba, Regaliz, Vitamina C natural, Ginkgo Biloba."
+      }
+    },
+    "detox": {
+      "title": "Bioterapia Detox",
+      "subtitle": "Pureza · Equilibrio y Limpieza Profunda",
+      "summary": "Limpieza biológica profunda que drena toxinas y regula el exceso de secreción sebácea.",
+      "tabs": {
+        "description": "Ritual purificante que limpia los poros sin agredir, equilibrando el pH y devolviendo la vitalidad a pieles con tendencia a impurezas.",
+        "benefits": "• Elimina toxinas y puntos negros.\n• Regula el exceso de grasa.\n• Cierra el poro y afina la textura.\n• Previene brotes de acné.",
+        "ideal": "• Tienes la piel con tendencia grasa o mixta.\n• Notas poros dilatados e impurezas.\n• Vives en ambientes con polución.\n• Sientes la piel pesada o sucia.",
+        "actives": "Bardana, Ortiga, Arcilla Blanca, Limón, Tomillo."
+      }
+    },
+    "antiaging": {
+      "title": "Bioterapia Antiaging",
+      "subtitle": "Reestructuración · Firmeza y Juventud",
+      "summary": "Terapia reestructurante que combate el envejecimiento celular y recupera la densidad de la piel.",
+      "tabs": {
+        "description": "Ritual diseñado para pieles que necesitan un extra de nutrición y firmeza. Estimula la producción de colágeno y elastina de forma biológica, rellenando arrugas desde el interior.",
+        "benefits": "• Efecto lifting biológico.\n• Rellena líneas de expresión.\n• Mejora la elasticidad y firmeza.\n• Nutre en profundidad.",
+        "ideal": "• Notas pérdida de firmeza en el óvalo facial.\n• Tienes arrugas o líneas marcadas.\n• Buscas un rejuvenecimiento natural.\n• Notas la piel delgada o frágil.",
+        "actives": "Resveratrol, Aceite de Argán, Soja, Rosa Mosqueta, Karité."
+      }
+    },
+    "regeneradora": {
+      "title": "Bioterapia Regeneradora",
+      "subtitle": "Renovación · Hidratación y Energía",
+      "summary": "Bioterapia de choque para pieles desvitalizadas, secas o con falta de energía celular.",
+      "tabs": {
+        "description": "Ritual de nutrición intensa que devuelve la jugosidad y el volumen al rostro, reparando los daños causados por factores externos.",
+        "benefits": "• Hidratación de larga duración.\n• Regenera el tejido de forma exprés.\n• Suaviza el relieve cutáneo.\n• Aporta flexibilidad y jugosidad.",
+        "ideal": "• Tu piel está muy seca o deshidratada.\n• Notas falta de vitalidad y frescura.\n• Has estado expuesta al sol o frío extremo.\n• Buscas una piel elástica y jugosa.",
+        "actives": "Ácido Hialurónico vegetal, Aguacate, Manteca de Murumuru, Algas."
+      }
+    }
+  }
+}

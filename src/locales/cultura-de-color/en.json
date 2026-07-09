@@ -1,0 +1,119 @@
+{
+  "seo": {
+    "title": "Organic Clay & Oil Hair Colouring in Malaga",
+    "description": "Organic hair colouring with Secretos del Agua clays and oils in Malaga. Natural, healthy botanical colour in Torre de Benagalbón."
+  },
+  "hero": {
+    "eyebrow": "Healthy Beauty",
+    "title1": "Colour",
+    "title2": "Culture",
+    "text": "Colour that breathes, shines and heals. Rediscover the true nature of your hair through the power of plants.",
+    "imgAlt": "Result of organic colouring with botanical clays at Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria, serving Añoreta, Chilches and Torre del Mar"
+  },
+  "philosophy": {
+    "eyebrow": "Our Philosophy",
+    "title1": "More than a colour,",
+    "title2": "a treatment",
+    "p1": "We use botanical products that respect the hair structure while delivering a unique luminosity. We believe healthy hair is the foundation of all beauty.",
+    "p2": "At Pilar Palomares, we leave behind the aggression of synthetic dyes to embrace the power of micronised plants and vegetable oils. The result is hair that not only looks better, but is stronger, more hydrated and more flexible.",
+    "quote": "\"Nature offers us the purest pigments to care for your essence without compromising your wellbeing.\"",
+    "card1": {
+      "title": "Structural Respect",
+      "desc": "We preserve the integrity of the fibre from within, avoiding chemical damage and maintaining its natural vitality.",
+      "imgAlt": "Application of organic clays respecting the hair structure at Salón Pilar Palomares"
+    },
+    "card2": {
+      "title": "Luminosity",
+      "desc": "Organic reflections that vibrate with natural light, creating deep dimension and avoiding any flat, block-colour effect."
+    },
+    "card3": {
+      "title": "Consciousness",
+      "desc": "Sustainability and ethics in every pigment. We respect your health with treatments free from toxins and full of life."
+    }
+  },
+  "products": {
+    "title": "Our Tools",
+    "subtitle": "Pure Botanicals & Essential Oils",
+    "barros": {
+      "title": "Gold & Original Clays",
+      "desc": "Pure botanical blends that act as hair phytotherapy. They cover grey hair naturally, adding multi-tonal reflections and strengthening the cuticle from within for visibly thicker, healthier hair that is full of life.",
+      "tag": "Affinity Pigmentation",
+      "imgAlt": "Gold and Original botanical clay blends for healthy hair phytotherapy"
+    },
+    "oleos": {
+      "title": "Organic Pigment (Oils)",
+      "desc": "A fusion of vegetable oils and pure pigments offering permanent, ammonia-free colour. A unique sensory experience that deeply hydrates and nourishes.",
+      "tag": "Three-Dimensional Shine",
+      "imgAlt": "Colouring with natural oils and ammonia-free pigments for a three-dimensional shine"
+    }
+  },
+  "ritual": {
+    "eyebrow": "Our Steps",
+    "quote": "\"A moment to disconnect and reconnect with your own natural beauty.\"",
+    "imgAlt": "Sensory massage and wellness ritual during organic colouring at Pilar Palomares",
+    "step1": {
+      "title": "Hair Diagnosis",
+      "desc": "A detailed analysis of your hair fibre for a truly unique treatment."
+    },
+    "step2": {
+      "title": "Conscious Cleansing",
+      "desc": "Deep cleansing with botanicals free from sulphates and silicones."
+    },
+    "step3": {
+      "title": "Porosity Regulation",
+      "desc": "We prepare the hair so the pigment settles in for lasting results."
+    },
+    "step4": {
+      "title": "Colour Ritual",
+      "desc": "An unhurried, aromatic application that turns your hair into art."
+    },
+    "step5": {
+      "title": "pH Balancer",
+      "desc": "We seal the cuticle to keep your colour vibrant for much longer."
+    },
+    "step6": {
+      "title": "Sensory Massage",
+      "desc": "We finish by relaxing the mind while deeply nourishing the hair."
+    },
+    "title1": "Our Colour",
+    "title2": "Ritual"
+  },
+  "benefits": {
+    "eyebrow": "Real Results",
+    "item1": {
+      "title": "Healthy scalp",
+      "desc": "Free from irritation, itching or chemical flaking."
+    },
+    "item2": {
+      "title": "No harsh chemicals",
+      "desc": "No ammonia, resorcinol or harmful parabens."
+    },
+    "item3": {
+      "title": "Exceptional durability",
+      "desc": "Pigments that age gracefully without a harsh root line."
+    },
+    "item4": {
+      "title": "Deep hydration",
+      "desc": "Botanical oils seal in the hair's natural moisture."
+    },
+    "item5": {
+      "title": "Body and volume",
+      "desc": "Plants thicken the hair from the very first application."
+    },
+    "item6": {
+      "title": "Botanical fragrance",
+      "desc": "We replace chemical odours with essences of flowers and earth."
+    },
+    "title1": "Benefits for",
+    "title2": "your Well-being"
+  },
+  "cta": {
+    "eyebrow": "Begin Your Transformation",
+    "title1": "The Colour Your",
+    "title2": "Hair Desires",
+    "text": "Let us carry out a personalised diagnosis and discover the perfect shade that harmonises with your essence and respects your health.",
+    "reservar": "Book a Diagnosis",
+    "contactar": "Questions? Contact Us",
+    "imgAlt": "Colouring with botanical clays at Salón Pilar Palomares"
+  }
+}

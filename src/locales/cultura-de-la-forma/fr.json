@@ -1,0 +1,78 @@
+{
+  "seo": {
+    "title": "Coupes de Créateur & Coiffage",
+    "description": "Coupes de créateur, méthode curly et coiffures botaniques à Torre de Benagalbón. Stylisme et design capillaire personnalisé et organique."
+  },
+  "hero": {
+    "eyebrow": "Architecture Capillaire · Design de Créateur",
+    "title1": "Culture de",
+    "title2": "la Forme",
+    "text": "L'équilibre parfait entre technique, identité et santé cellulaire. Nous concevons des formes qui respectent le tombant naturel de vos cheveux.",
+    "imgAlt": "Culture de la Forme : coupes de créateur, curly et coiffures au Salón Pilar Palomares à Torre de Benagalbón, Rincón de la Victoria"
+  },
+  "styling": {
+    "eyebrow": "Coupe & Style",
+    "title": "Notre Styling",
+    "desc": "C'est l'équilibre parfait entre nutrition et tenue. Nous utilisons des produits botaniques qui créent un bouclier protecteur sur la cuticule, apportant force, brillance et contrôle des frisottis pour un style élégant, sain et naturel.",
+    "antifrizz": "Anti-frisottis",
+    "shine": "Brillance",
+    "nutrition": "Nutrition",
+    "imgAlt": "Coiffage botanique et finition naturelle des cheveux au Salón Pilar Palomares"
+  },
+  "design": {
+    "eyebrow": "Style & Identité",
+    "subtitle": "Coupes et coiffures qui respectent le tombant naturel et magnifient votre identité unique.",
+    "woman": {
+      "title": "Coiffure Femme",
+      "desc": "Comprend le Shampoing Dermocapillaire, la Biothérapie Faciale et la finition avec des produits de coiffage botaniques.",
+      "imgAlt": "Coiffure femme saine avec des produits biologiques chez Pilar Palomares"
+    },
+    "signature": {
+      "title": "Coupe de Créateur",
+      "desc": "Rituel de Shampoing Dermocapillaire, Biothérapie Faciale Express et Styling personnalisé adapté à votre tombant naturel.",
+      "imgAlt": "Coupe de créateur personnalisée respectant le tombant naturel du cheveu"
+    },
+    "man": {
+      "title": "Soin Homme",
+      "desc": "Coupes essentielles et de bien-être comprenant un moment de relaxation absolue et une biothérapie faciale.",
+      "imgAlt": "Coupe et soins capillaires pour hommes avec biothérapie faciale chez Pilar Palomares"
+    },
+    "title1": "L'Art du",
+    "title2": "Design et de la Finition"
+  },
+  "specialties": {
+    "eyebrow": "Actifs Biologiques & Minéraux",
+    "desc": "Soins avancés agissant en synergie avec vos cheveux pour restaurer leur forme idéale.",
+    "curly": {
+      "eyebrow": "Définition & Santé",
+      "title": "Méthode Curly",
+      "desc": "Il ne s'agit pas seulement de coiffer, mais de soigner la boucle à sa source. Nous redonnons élasticité et mémoire naturelle à vos cheveux grâce à des minéraux purs et des plantes micronisées qui nourrissent la fibre sans l'alourdir.",
+      "badge1": "Sans Silicone",
+      "badge2": "Botanique Pure",
+      "badge3": "Élasticité",
+      "imgAlt": "Méthode Curly : Restauration de la boucle naturelle"
+    },
+    "alisado": {
+      "eyebrow": "Contrôle & Brillance",
+      "title": "Lissage Amino-Protéique",
+      "desc": "Une révolution dans le lissage biologique qui discipline les cheveux tout en les protégeant. Notre formule riche en acides aminés reconstruit la structure interne, laissant une chevelure lisse, en mouvement et d'une brillance tridimensionnelle incomparable.",
+      "badge1": "Anti-frisottis",
+      "badge2": "Biologique",
+      "badge3": "Protection",
+      "recHeader": "Recommandations : Lissage Naturel Durable",
+      "rec1": "Le soin post-traitement est inclus. Il est essentiel de poursuivre une routine Secretos del Agua à domicile pour garantir les résultats.",
+      "rec2": "Pendant les premiers jours, gardez les cheveux lâchés, sans attaches serrées ni tresses.",
+      "rec3": "Séchez complètement aux doigts et au sèche-cheveux en orientant le lissage. La chaleur active la kératine comme une cire protectrice.",
+      "rec4": "Si vous laissez sécher à l'air libre, vous obtiendrez un résultat plus ondulé et naturel.",
+      "btn": "Voir les détails du lissage"
+    },
+    "title1": "Spécialités",
+    "title2": "en Textures"
+  },
+  "cta": {
+    "btn": "Réserver un RDV",
+    "imgAlt": "Coupes et coiffures de créateur avec esthétique naturelle au Salón Pilar Palomares",
+    "title1": "Vous cherchez votre",
+    "title2": "forme idéale ?"
+  }
+}
