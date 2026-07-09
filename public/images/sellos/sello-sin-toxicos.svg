@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#FFFFFF" role="img">
+  <title>Toxin-Free Formulas — Pure Botanics</title>
+  <defs>
+    <path id="sello-toxicos-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-toxicos-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-toxicos-top" startOffset="50%" text-anchor="middle">TOXIN-FREE FORMULAS</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-toxicos-bot" startOffset="50%" text-anchor="middle">PURE BOTANICS</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 100,62 C 110,68 120,71 129,71 C 129,99 118,121 100,132 C 82,121 71,99 71,71 C 80,71 90,68 100,62 Z"/>
+    <path d="M 100,118 C 100,108 100,100 100,86"/>
+    <path d="M 100,104 Q 89,102 86,89 Q 98,91 100,104 Z"/>
+    <path d="M 100,96 Q 111,94 114,81 Q 102,83 100,96 Z"/>
+  </g>
+</svg>

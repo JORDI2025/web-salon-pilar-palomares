@@ -8,6 +8,7 @@ import { useLang } from '../langContext';
 import { registerNS } from '../i18n';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
+import Sello from '../components/Sello';
 import nsEs from '../locales/bioterapia-facial/es.json';
 import nsEn from '../locales/bioterapia-facial/en.json';
 import nsDe from '../locales/bioterapia-facial/de.json';
@@ -399,6 +400,10 @@ const BioterapiaFacial = () => {
                                         className="block w-full h-full object-cover transition-transform duration-[2s] ease-[cubic-bezier(0.32,0.72,0,1)] group-hover:scale-[1.05] object-center"
                                     />
                                     <div className="absolute inset-0 bg-chocolate/10 group-hover:bg-transparent transition-colors duration-1000"></div>
+                                    {/* Sello Botánica Celular - Mobile */}
+                                    <div className="absolute bottom-4 left-4 w-16 h-16 z-20 drop-shadow-[0_4px_8px_rgba(60,47,47,0.08)]">
+                                        <Sello name="botanica-celular" className="text-chocolate" />
+                                    </div>
                                 </div>
                             </div>
 
@@ -424,6 +429,10 @@ const BioterapiaFacial = () => {
                                     className="block w-full h-full object-cover transition-transform duration-[2s] ease-[cubic-bezier(0.32,0.72,0,1)] group-hover:scale-[1.05] object-center"
                                 />
                                 <div className="absolute inset-0 bg-chocolate/10 group-hover:bg-transparent transition-colors duration-1000"></div>
+                                {/* Sello Botánica Celular - Desktop */}
+                                <div className="absolute bottom-6 left-6 w-20 h-20 lg:w-24 lg:h-24 z-20 hover:scale-110 hover:rotate-12 transition-all duration-700 ease-[cubic-bezier(0.34,1.56,0.64,1)] drop-shadow-[0_4px_12px_rgba(60,47,47,0.08)]">
+                                    <Sello name="botanica-celular" className="text-chocolate" />
+                                </div>
                             </div>
                         </div>
                     </div>

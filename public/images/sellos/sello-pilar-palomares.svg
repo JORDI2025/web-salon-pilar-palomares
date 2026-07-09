@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#FFFFFF" role="img">
+  <title>Pilar Palomares — Torre de Benagalbón</title>
+  <defs>
+    <path id="sello-salon-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-salon-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-salon-top" startOffset="50%" text-anchor="middle">PILAR PALOMARES</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-salon-bot" startOffset="50%" text-anchor="middle">TORRE DE BENAGALBÓN</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="88" r="16"/>
+    <path d="M 100,64 L 100,56"/>
+    <path d="M 83,71 L 77,65"/>
+    <path d="M 117,71 L 123,65"/>
+    <path d="M 76,88 L 68,88"/>
+    <path d="M 124,88 L 132,88"/>
+    <path d="M 68,116 Q 76,111 84,116 T 100,116 T 116,116 T 132,116"/>
+    <path d="M 82,128 Q 88,123 94,128 T 106,128 T 118,128"/>
+  </g>
+</svg>

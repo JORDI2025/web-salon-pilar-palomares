@@ -10,6 +10,7 @@ import { useLang } from '../langContext';
 import TestimonialCarousel from '../components/TestimonialCarousel';
 import HeroCarousel from '../components/HeroCarousel';
 import SEO from '../components/SEO';
+import Sello from '../components/Sello';
 import homeEs from '../locales/home/es.json';
 import homeEn from '../locales/home/en.json';
 import homeDe from '../locales/home/de.json';
@@ -411,7 +412,7 @@ const Home = () => {
                                 <source media="(min-width: 768px)" srcSet="/images/home/diagnostico-capilar-tablet.webp" />
                                 <img 
                                     src="/images/home/diagnostico-capilar-pilar-palomares.webp" 
-                                    alt="Diagnóstico capilar y facial personalizado en Salón Pilar Palomares" 
+                                    alt={t('diagnosis.imgAlt')} 
                                     loading="lazy"
                                     className="parallax-img w-full h-[120%] object-cover object-center group-hover:scale-[1.03] transition-transform duration-1000 ease-[cubic-bezier(0.32,0.72,0,1)] scale-[1.05] -translate-y-[10%]"
                                 />
@@ -429,7 +430,7 @@ const Home = () => {
                             <div className="w-full aspect-[4/3] overflow-hidden double-bezel-inner">
                                 <img 
                                     src="/images/home/diagnostico-capilar-pilar-palomares.webp" 
-                                    alt="Diagnóstico capilar y facial personalizado en Salón Pilar Palomares" 
+                                    alt={t('diagnosis.imgAlt')} 
                                     loading="lazy"
                                     className="w-full h-full object-cover object-center"
                                 />
@@ -457,13 +458,17 @@ const Home = () => {
                 <div className="max-w-6xl mx-auto flex flex-col md:grid md:grid-cols-2 gap-10 md:gap-x-16 items-center">
                     {/* Image Part - Desktop Only */}
                     <div className="reveal-image hidden md:block w-full md:self-center double-bezel-wrapper">
-                        <div className="w-full aspect-[4/5] overflow-hidden double-bezel-inner group">
+                        <div className="w-full aspect-[4/5] overflow-hidden double-bezel-inner group relative">
                             <img 
                                 src="/images/home/bienestar-integral-agua-biopolar-pilar-palomares.webp" 
-                                alt="Cuidado holístico con Agua Biopolar y botánica celular en Salón Pilar Palomares" 
+                                alt={t('bienestar.imgAlt')} 
                                 loading="lazy"
                                 className="parallax-img w-full h-[120%] object-cover object-top group-hover:scale-[1.03] transition-transform duration-1000 ease-[cubic-bezier(0.32,0.72,0,1)] scale-[1.05] -translate-y-[10%]"
                             />
+                            {/* Sello Agua y Tierra - Desktop (Inside image, bottom-left over water) */}
+                            <div className="absolute bottom-6 left-6 w-20 h-20 lg:w-24 lg:h-24 z-20 hover:scale-110 hover:rotate-12 transition-all duration-700 ease-[cubic-bezier(0.34,1.56,0.64,1)] drop-shadow-[0_4px_12px_rgba(60,47,47,0.08)]">
+                                <Sello name="agua-tierra" className="text-white" />
+                            </div>
                         </div>
                     </div>
 
@@ -476,13 +481,17 @@ const Home = () => {
 
                         {/* Mobile-only Image (rendered immediately after Title on mobile) */}
                         <div className="reveal-image block md:hidden w-full mb-8 double-bezel-wrapper">
-                            <div className="w-full aspect-[4/3] overflow-hidden double-bezel-inner">
+                            <div className="w-full aspect-[4/3] overflow-hidden double-bezel-inner relative">
                                 <img 
                                     src="/images/home/bienestar-integral-agua-biopolar-pilar-palomares.webp" 
-                                    alt="Cuidado holístico con Agua Biopolar y botánica celular en Salón Pilar Palomares" 
+                                    alt={t('bienestar.imgAlt')} 
                                     loading="lazy"
                                     className="w-full h-full object-cover object-center"
                                 />
+                                {/* Sello Agua y Tierra - Mobile (Inside image, bottom-left over water) */}
+                                <div className="absolute bottom-4 left-4 w-16 h-16 z-20 drop-shadow-[0_4px_8px_rgba(60,47,47,0.08)]">
+                                    <Sello name="agua-tierra" className="text-white" />
+                                </div>
                             </div>
                         </div>
 
@@ -603,7 +612,7 @@ const Home = () => {
                             <div className="w-full h-full overflow-hidden double-bezel-inner">
                                 <img 
                                     src="/images/home/novia-sombrero-pilar-palomares.webp" 
-                                    alt="Peluquería para novias y eventos especiales en la Axarquía - Salón Pilar Palomares" 
+                                    alt={t('eventos.imgAlt')} 
                                     loading="lazy"
                                     className="w-full h-full object-cover object-top"
                                 />
@@ -641,7 +650,7 @@ const Home = () => {
                         <div className="w-full h-full overflow-hidden relative z-10 group double-bezel-inner">
                             <img 
                                 src="/images/home/novia-sombrero-pilar-palomares.webp" 
-                                alt="Peluquería para novias y eventos especiales en la Axarquía - Salón Pilar Palomares" 
+                                alt={t('eventos.imgAlt')} 
                                 loading="lazy"
                                 className="parallax-img w-full h-[120%] object-cover object-top group-hover:scale-[1.03] transition-transform duration-1000 ease-[cubic-bezier(0.32,0.72,0,1)] scale-[1.05] -translate-y-[10%]"
                             />
@@ -739,7 +748,7 @@ const Home = () => {
                             <div className="w-full h-full double-bezel-inner group">
                                 <img 
                                     src="/images/chica-luz-pilar-palomares.webp" 
-                                    alt="Diagnóstico personalizado - Salón Pilar Palomares" 
+                                    alt={t('cta.imgAlt')} 
                                     className="w-full h-full object-cover object-center group-hover:scale-[1.05] transition-transform duration-[1500ms]"
                                 />
                             </div>
@@ -774,7 +783,7 @@ const Home = () => {
                             <div className="w-full aspect-[4/5] overflow-hidden double-bezel-inner group">
                                 <img 
                                     src="/images/chica-luz-pilar-palomares.webp" 
-                                    alt="Diagnóstico personalizado - Salón Pilar Palomares" 
+                                    alt={t('cta.imgAlt')} 
                                     className="w-full h-full object-cover object-[center_30%] group-hover:scale-[1.05] transition-transform duration-[1500ms] ease-[cubic-bezier(0.19,1,0.22,1)]"
                                 />
                             </div>

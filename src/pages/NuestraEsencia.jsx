@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next';
 import { registerNS } from '../i18n';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
+import Sello from '../components/Sello';
 import nsEs from '../locales/nuestra-esencia/es.json';
 import nsEn from '../locales/nuestra-esencia/en.json';
 import nsDe from '../locales/nuestra-esencia/de.json';
@@ -143,6 +144,10 @@ const NuestraEsencia = () => {
                                 className="w-full h-full object-cover object-[center_15%] group-hover:scale-105 transition-all duration-[1.5s] ease-[cubic-bezier(0.32,0.72,0,1)]"
                             />
                             <div className="absolute inset-0 bg-chocolate/5 group-hover:bg-transparent transition-colors"></div>
+                            {/* Sello Firma Pilar Palomares - Mobile */}
+                            <div className="absolute bottom-4 right-4 w-16 h-16 z-20 drop-shadow-[0_4px_8px_rgba(60,47,47,0.08)]">
+                                <Sello name="pilar-palomares" className="text-chocolate" />
+                            </div>
                         </div>
                     </div>
 
@@ -157,6 +162,10 @@ const NuestraEsencia = () => {
                                     className="w-full h-full object-cover object-[center_15%] group-hover:scale-105 transition-all duration-[1.5s] ease-[cubic-bezier(0.32,0.72,0,1)]"
                                 />
                                 <div className="absolute inset-0 bg-chocolate/5 group-hover:bg-transparent transition-colors"></div>
+                                {/* Sello Firma Pilar Palomares - Desktop */}
+                                <div className="absolute bottom-6 right-6 w-20 h-20 lg:w-24 lg:h-24 z-20 hover:scale-110 hover:rotate-12 transition-all duration-700 ease-[cubic-bezier(0.34,1.56,0.64,1)] drop-shadow-[0_4px_12px_rgba(60,47,47,0.08)]">
+                                    <Sello name="pilar-palomares" className="text-chocolate" />
+                                </div>
                             </div>
                         </div>
 

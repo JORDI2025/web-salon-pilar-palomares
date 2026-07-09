@@ -9,6 +9,7 @@ import { useLang } from '../langContext';
 import { registerNS } from '../i18n';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
+import Sello from '../components/Sello';
 import nsEs from '../locales/bioterapia-capilar/es.json';
 import nsEn from '../locales/bioterapia-capilar/en.json';
 import nsDe from '../locales/bioterapia-capilar/de.json';
@@ -490,6 +491,10 @@ const BioterapiaCapilar = () => {
                                         alt={t('lavado.imgAlt')}
                                         className="w-full h-full object-cover object-center"
                                     />
+                                    {/* Sello Sin Tóxicos - Mobile */}
+                                    <div className="absolute bottom-4 left-4 w-16 h-16 z-20 drop-shadow-[0_4px_8px_rgba(60,47,47,0.08)]">
+                                        <Sello name="sin-toxicos" className="text-accent-aqua" />
+                                    </div>
                                 </div>
                             </div>
 
@@ -522,6 +527,10 @@ const BioterapiaCapilar = () => {
                                 className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105"
                             />
                             <div className="absolute inset-0 bg-chocolate/5 group-hover:bg-transparent transition-colors"></div>
+                            {/* Sello Sin Tóxicos - Desktop */}
+                            <div className="absolute bottom-6 left-6 w-20 h-20 lg:w-24 lg:h-24 z-20 hover:scale-110 hover:rotate-12 transition-all duration-700 ease-[cubic-bezier(0.34,1.56,0.64,1)] drop-shadow-[0_4px_12px_rgba(60,47,47,0.08)]">
+                                <Sello name="sin-toxicos" className="text-accent-aqua" />
+                            </div>
                         </div>
                         <div className="absolute -top-6 -right-6 lg:-top-10 lg:-right-10 bg-accent-aqua/80 backdrop-blur-md p-6 lg:p-8 rounded-3xl shadow-2xl z-20 hidden lg:block max-w-[280px] border border-white/20 transform hover:scale-105 transition-transform duration-500 group">
                             <div className="absolute -top-4 -right-4 w-12 h-12 bg-white shadow-lg rounded-xl flex items-center justify-center border border-accent-aqua/20">

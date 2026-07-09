@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#FFFFFF" role="img">
+  <title>Water &amp; Earth — Conscious Beauty</title>
+  <defs>
+    <path id="sello-agua-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-agua-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-agua-top" startOffset="50%" text-anchor="middle">WATER &amp; EARTH</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-agua-bot" startOffset="50%" text-anchor="middle">CONSCIOUS BEAUTY</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 100,58 C 100,58 84,78 84,90 A 16,16 0 0 0 116,90 C 116,78 100,58 100,58 Z"/>
+    <path d="M 68,120 Q 76,114 84,120 T 100,120 T 116,120 T 132,120"/>
+    <path d="M 72,140 A 40,40 0 0 1 128,140"/>
+  </g>
+</svg>

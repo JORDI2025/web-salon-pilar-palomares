@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#FFFFFF" role="img">
+  <title>Handcrafted Cut — Form Culture</title>
+  <defs>
+    <path id="sello-forma-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-forma-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-forma-top" startOffset="50%" text-anchor="middle">HANDCRAFTED CUT</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-forma-bot" startOffset="50%" text-anchor="middle">FORM CULTURE</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 89,60 L 110,115"/>
+    <path d="M 111,60 L 90,115"/>
+    <circle cx="86" cy="123" r="9"/>
+    <circle cx="114" cy="123" r="9"/>
+  </g>
+  <circle cx="100" cy="88.8" r="2.5" fill="currentColor"/>
+</svg>

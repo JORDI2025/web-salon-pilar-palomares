@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#FFFFFF" role="img">
+  <title>Biotherapies — Integrative Health</title>
+  <defs>
+    <path id="sello-bioterapias-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-bioterapias-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-bioterapias-top" startOffset="50%" text-anchor="middle">BIOTHERAPIES</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-bioterapias-bot" startOffset="50%" text-anchor="middle">INTEGRATIVE HEALTH</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 100,66 Q 90,84 100,106 Q 110,84 100,66 Z"/>
+    <path d="M 100,106 Q 81,102 73,82 Q 91,86 100,106 Z"/>
+    <path d="M 100,106 Q 119,102 127,82 Q 109,86 100,106 Z"/>
+    <path d="M 76,118 A 32,32 0 0 0 124,118"/>
+    <path d="M 86,128 A 22,22 0 0 0 114,128"/>
+  </g>
+</svg>

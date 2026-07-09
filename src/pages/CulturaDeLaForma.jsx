@@ -8,6 +8,7 @@ import { useLang } from '../langContext';
 import { registerNS } from '../i18n';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
+import Sello from '../components/Sello';
 import nsEs from '../locales/cultura-de-la-forma/es.json';
 import nsEn from '../locales/cultura-de-la-forma/en.json';
 import nsDe from '../locales/cultura-de-la-forma/de.json';
@@ -210,6 +211,10 @@ const CulturaDeLaForma = () => {
                                         alt={t('design.woman.imgAlt')}
                                         className="w-full h-full object-cover group-hover:scale-110 transition-all duration-[1.5s] ease-[cubic-bezier(0.32,0.72,0,1)]" 
                                     />
+                                    {/* Sello Cultura de la Forma */}
+                                    <div className="absolute bottom-4 left-4 w-16 h-16 md:bottom-6 md:left-6 md:w-20 md:h-20 lg:w-24 lg:h-24 z-20 hover:scale-110 hover:rotate-12 transition-all duration-700 ease-[cubic-bezier(0.34,1.56,0.64,1)] drop-shadow-[0_4px_12px_rgba(60,47,47,0.08)]">
+                                        <Sello name="cultura-forma" className="text-chocolate" />
+                                    </div>
                                 </div>
                             </div>
                             <p className="text-base text-chocolate/80 leading-relaxed">

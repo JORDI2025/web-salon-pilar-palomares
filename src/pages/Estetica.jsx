@@ -9,6 +9,7 @@ import { useLang } from '../langContext';
 import { registerNS } from '../i18n';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
+import Sello from '../components/Sello';
 import nsEs from '../locales/estetica/es.json';
 import nsEn from '../locales/estetica/en.json';
 import nsDe from '../locales/estetica/de.json';
@@ -167,12 +168,16 @@ const Estetica = () => {
                             
                             {/* Mobile Image: Shown only on small screens below the title */}
                             <div className="lg:hidden mb-8 double-bezel-wrapper">
-                                <div className="aspect-square overflow-hidden double-bezel-inner group shadow-[0_20px_40px_-15px_rgba(60,47,47,0.12)]">
+                                <div className="aspect-square overflow-hidden double-bezel-inner group shadow-[0_20px_40px_-15px_rgba(60,47,47,0.12)] relative">
                                     <img 
                                         src="/images/bioterapias/bioterapia-facial-tratamiento-bioterapia-secretos-del-agua-pilar-palomares.webp" 
                                         alt={t('intro.imgAlt')}
                                         className="w-full h-full object-cover group-hover:scale-110 transition-all duration-[4s] ease-[cubic-bezier(0.32,0.72,0,1)]"
                                     />
+                                    {/* Sello Bioterapias - Mobile */}
+                                    <div className="absolute bottom-4 left-4 w-16 h-16 z-20 drop-shadow-[0_4px_8px_rgba(60,47,47,0.08)]">
+                                        <Sello name="bioterapias" className="text-chocolate" />
+                                    </div>
                                 </div>
                             </div>
 
@@ -216,6 +221,10 @@ const Estetica = () => {
                                         alt={t('intro.imgAlt')}
                                         className="w-full h-full object-cover group-hover:scale-110 transition-all duration-[4s] ease-[cubic-bezier(0.32,0.72,0,1)]"
                                     />
+                                    {/* Sello Bioterapias - Desktop */}
+                                    <div className="absolute bottom-6 left-6 w-20 h-20 lg:w-24 lg:h-24 z-20 hover:scale-110 hover:rotate-12 transition-all duration-700 ease-[cubic-bezier(0.34,1.56,0.64,1)] drop-shadow-[0_4px_12px_rgba(60,47,47,0.08)]">
+                                        <Sello name="bioterapias" className="text-chocolate" />
+                                    </div>
                                 </div>
                             </div>
                             <div className="absolute -bottom-6 -right-6 w-full h-full bg-peach/30 rounded-[2rem] -z-10 translate-x-4 translate-y-4 border border-peach/40"></div>
