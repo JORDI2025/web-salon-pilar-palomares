@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#9C6249" role="img">
+  <title>Holistic Care — Balance</title>
+  <defs>
+    <path id="sello-holistico-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-holistico-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-holistico-top" startOffset="50%" text-anchor="middle">HOLISTIC CARE</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-holistico-bot" startOffset="50%" text-anchor="middle">BALANCE</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 100,128 C 90,119 70,106 70,90 A 16,16 0 0 1 100,86 A 16,16 0 0 1 130,90 C 130,106 110,119 100,128 Z"/>
+    <path d="M 84,104 Q 92,98 100,104 T 116,104"/>
+  </g>
+</svg>

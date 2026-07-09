@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#9C6249" role="img">
+  <title>Biopolar Water — Vital Energy</title>
+  <defs>
+    <path id="sello-biopolar-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-biopolar-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-biopolar-top" startOffset="50%" text-anchor="middle">BIOPOLAR WATER</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-biopolar-bot" startOffset="50%" text-anchor="middle">VITAL ENERGY</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <path d="M 100,58 Q 102,68 112,70 Q 102,72 100,82 Q 98,72 88,70 Q 98,68 100,58 Z" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 68,100 Q 76,94 84,100 T 100,100 T 116,100 T 132,100"/>
+    <path d="M 68,114 Q 76,108 84,114 T 100,114 T 116,114 T 132,114"/>
+    <path d="M 68,128 Q 76,122 84,128 T 100,128 T 116,128 T 132,128"/>
+  </g>
+</svg>

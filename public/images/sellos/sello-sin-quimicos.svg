@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="220" height="220" fill="none" color="#9C6249" role="img">
+  <title>Chemical Free — Maximum Purity</title>
+  <defs>
+    <path id="sello-quimicos-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+    <path id="sello-quimicos-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+  </defs>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+    <textPath href="#sello-quimicos-top" startOffset="50%" text-anchor="middle">CHEMICAL FREE</textPath>
+  </text>
+  <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+    <textPath href="#sello-quimicos-bot" startOffset="50%" text-anchor="middle">MAXIMUM PURITY</textPath>
+  </text>
+  <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+  <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 89,62 H 111"/>
+    <path d="M 93,62 L 93,78"/>
+    <path d="M 107,62 L 107,78"/>
+    <path d="M 93,78 L 76,116 C 73,123 77,128 84,128 L 116,128 C 123,128 127,123 124,116 L 107,78"/>
+    <path d="M 82,114 H 118"/>
+    <path d="M 70,64 L 130,132"/>
+  </g>
+</svg>

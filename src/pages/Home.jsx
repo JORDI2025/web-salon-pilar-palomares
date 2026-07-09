@@ -501,41 +501,33 @@ const Home = () => {
                         
                         {/* INTEGRATED ICONS */}
                         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 text-center pt-6 w-full">
-                            <div className="reveal-item flex flex-col items-center group">
-                                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full bg-peach/30 backdrop-blur-sm flex items-center justify-center text-accent-aqua shadow-sm mb-5 border border-peach/40 group-hover:bg-accent-aqua group-hover:text-white spring-bounce">
-                                    <FlaskConicalOff size={26} strokeWidth={1.5} />
+                            <div className="reveal-item flex flex-col items-center group text-center">
+                                <div className="w-16 h-16 md:w-20 md:h-20 mb-3 transition-all duration-500 transform group-hover:scale-105">
+                                    <Sello name="sin-quimicos" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-2">
-                                    <h3 className="font-serif text-lg md:text-xl text-chocolate/90 leading-tight">{t('bienestar.icon1Title')}</h3>
-                                </div>
-                                <p className="text-[10px] tracking-[0.2em] text-accent-aqua font-bold uppercase">{t('bienestar.icon1Tag')}</p>
+                                <h3 className="font-serif text-base md:text-lg text-chocolate/90 leading-tight mb-1">{t('bienestar.icon1Title')}</h3>
+                                <p className="text-[9px] md:text-[10px] tracking-[0.15em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon1Tag')}</p>
                             </div>
-                            <div className="reveal-item flex flex-col items-center group">
-                                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full bg-peach/30 backdrop-blur-sm flex items-center justify-center text-accent-aqua shadow-sm mb-5 border border-peach/40 group-hover:bg-accent-aqua group-hover:text-white spring-bounce" style={{transitionDelay: "50ms"}}>
-                                    <Leaf size={26} strokeWidth={1.5} />
+                            <div className="reveal-item flex flex-col items-center group text-center">
+                                <div className="w-16 h-16 md:w-20 md:h-20 mb-3 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "50ms"}}>
+                                    <Sello name="botanica" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-2">
-                                    <h3 className="font-serif text-lg md:text-xl text-chocolate/90 leading-tight">{t('bienestar.icon2Title')}</h3>
-                                </div>
-                                <p className="text-[10px] tracking-[0.2em] text-accent-aqua font-bold uppercase">{t('bienestar.icon2Tag')}</p>
+                                <h3 className="font-serif text-base md:text-lg text-chocolate/90 leading-tight mb-1">{t('bienestar.icon2Title')}</h3>
+                                <p className="text-[9px] md:text-[10px] tracking-[0.15em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon2Tag')}</p>
                             </div>
-                            <div className="reveal-item flex flex-col items-center group">
-                                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full bg-peach/30 backdrop-blur-sm flex items-center justify-center text-accent-aqua shadow-sm mb-5 border border-peach/40 group-hover:bg-accent-aqua group-hover:text-white spring-bounce" style={{transitionDelay: "100ms"}}>
-                                    <Waves size={26} strokeWidth={1.5} />
+                            <div className="reveal-item flex flex-col items-center group text-center">
+                                <div className="w-16 h-16 md:w-20 md:h-20 mb-3 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "100ms"}}>
+                                    <Sello name="agua-biopolar" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-2">
-                                    <h3 className="font-serif text-lg md:text-xl text-chocolate/90 leading-tight">{t('bienestar.icon3Title')}</h3>
-                                </div>
-                                <p className="text-[10px] tracking-[0.2em] text-accent-aqua font-bold uppercase">{t('bienestar.icon3Tag')}</p>
+                                <h3 className="font-serif text-base md:text-lg text-chocolate/90 leading-tight mb-1">{t('bienestar.icon3Title')}</h3>
+                                <p className="text-[9px] md:text-[10px] tracking-[0.15em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon3Tag')}</p>
                             </div>
-                            <div className="reveal-item flex flex-col items-center group">
-                                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full bg-peach/30 backdrop-blur-sm flex items-center justify-center text-accent-aqua shadow-sm mb-5 border border-peach/40 group-hover:bg-accent-aqua group-hover:text-white spring-bounce" style={{transitionDelay: "150ms"}}>
-                                    <Heart size={26} strokeWidth={1.5} />
+                            <div className="reveal-item flex flex-col items-center group text-center">
+                                <div className="w-16 h-16 md:w-20 md:h-20 mb-3 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "150ms"}}>
+                                    <Sello name="holistico" className="text-chocolate/70 group-hover:text-accent-aqua transition-colors duration-500" />
                                 </div>
-                                <div className="h-12 flex items-center justify-center w-full mb-2">
-                                    <h3 className="font-serif text-lg md:text-xl text-chocolate/90 leading-tight">{t('bienestar.icon4Title')}</h3>
-                                </div>
-                                <p className="text-[10px] tracking-[0.2em] text-accent-aqua font-bold uppercase">{t('bienestar.icon4Tag')}</p>
+                                <h3 className="font-serif text-base md:text-lg text-chocolate/90 leading-tight mb-1">{t('bienestar.icon4Title')}</h3>
+                                <p className="text-[9px] md:text-[10px] tracking-[0.15em] text-accent-aqua font-bold uppercase leading-none">{t('bienestar.icon4Tag')}</p>
                             </div>
                         </div>
                     </div>

@@ -208,6 +208,109 @@ const Sello = ({ name, className = "" }) => {
         </svg>
       );
 
+    case 'agua-biopolar':
+      return (
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" color="currentColor" className={svgClass} role="img">
+          <title>Biopolar Water — Vital Energy</title>
+          <defs>
+            <path id="sello-biopolar-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+            <path id="sello-biopolar-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+          </defs>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+            <textPath href="#sello-biopolar-top" startOffset="50%" text-anchor="middle">BIOPOLAR WATER</textPath>
+          </text>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+            <textPath href="#sello-biopolar-bot" startOffset="50%" text-anchor="middle">VITAL ENERGY</textPath>
+          </text>
+          <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+          <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+          <path d="M 100,58 Q 102,68 112,70 Q 102,72 100,82 Q 98,72 88,70 Q 98,68 100,58 Z" fill="currentColor"/>
+          <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 68,100 Q 76,94 84,100 T 100,100 T 116,100 T 132,100"/>
+            <path d="M 68,114 Q 76,108 84,114 T 100,114 T 116,114 T 132,114"/>
+            <path d="M 68,128 Q 76,122 84,128 T 100,128 T 116,128 T 132,128"/>
+          </g>
+        </svg>
+      );
+
+    case 'botanica':
+      return (
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" color="currentColor" className={svgClass} role="img">
+          <title>Botanics — Living Earth</title>
+          <defs>
+            <path id="sello-botanica-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+            <path id="sello-botanica-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+          </defs>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+            <textPath href="#sello-botanica-top" startOffset="50%" text-anchor="middle">BOTANICS</textPath>
+          </text>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+            <textPath href="#sello-botanica-bot" startOffset="50%" text-anchor="middle">LIVING EARTH</textPath>
+          </text>
+          <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+          <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+          <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 68,122 Q 100,112 132,122"/>
+            <path d="M 100,117 C 100,106 100,98 100,84"/>
+            <path d="M 100,102 Q 86,100 82,84 Q 95,86 100,102 Z"/>
+            <path d="M 100,92 Q 114,90 118,74 Q 105,76 100,92 Z"/>
+          </g>
+          <circle cx="80" cy="132" r="2" fill="currentColor"/>
+          <circle cx="100" cy="134" r="2" fill="currentColor"/>
+          <circle cx="120" cy="132" r="2" fill="currentColor"/>
+        </svg>
+      );
+
+    case 'holistico':
+      return (
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" color="currentColor" className={svgClass} role="img">
+          <title>Holistic Care — Balance</title>
+          <defs>
+            <path id="sello-holistico-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+            <path id="sello-holistico-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+          </defs>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+            <textPath href="#sello-holistico-top" startOffset="50%" text-anchor="middle">HOLISTIC CARE</textPath>
+          </text>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+            <textPath href="#sello-holistico-bot" startOffset="50%" text-anchor="middle">BALANCE</textPath>
+          </text>
+          <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+          <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+          <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 100,128 C 90,119 70,106 70,90 A 16,16 0 0 1 100,86 A 16,16 0 0 1 130,90 C 130,106 110,119 100,128 Z"/>
+            <path d="M 84,104 Q 92,98 100,104 T 116,104"/>
+          </g>
+        </svg>
+      );
+
+    case 'sin-quimicos':
+      return (
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" color="currentColor" className={svgClass} role="img">
+          <title>Chemical Free — Maximum Purity</title>
+          <defs>
+            <path id="sello-quimicos-top" d="M 30,100 A 70,70 0 0 1 170,100"/>
+            <path id="sello-quimicos-bot" d="M 19,100 A 81,81 0 0 0 181,100"/>
+          </defs>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="currentColor">
+            <textPath href="#sello-quimicos-top" startOffset="50%" text-anchor="middle">CHEMICAL FREE</textPath>
+          </text>
+          <text font-family="Wensley, Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4" fill="currentColor">
+            <textPath href="#sello-quimicos-bot" startOffset="50%" text-anchor="middle">MAXIMUM PURITY</textPath>
+          </text>
+          <circle cx="24.5" cy="100" r="2" fill="currentColor"/>
+          <circle cx="175.5" cy="100" r="2" fill="currentColor"/>
+          <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 89,62 H 111"/>
+            <path d="M 93,62 L 93,78"/>
+            <path d="M 107,62 L 107,78"/>
+            <path d="M 93,78 L 76,116 C 73,123 77,128 84,128 L 116,128 C 123,128 127,123 124,116 L 107,78"/>
+            <path d="M 82,114 H 118"/>
+            <path d="M 70,64 L 130,132"/>
+          </g>
+        </svg>
+      );
+
     default:
       return null;
   }
