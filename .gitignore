@@ -45,3 +45,5 @@ skills-lock.json
 *.txt
 *.md
 !README.md
+
+.vercel

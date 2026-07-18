@@ -112,11 +112,11 @@ const Contacto = () => {
                     "@type": "ContactPage",
                     "name": "Contacto y Cita Previa - Salón Pilar Palomares",
                     "description": "Contacto y cita previa en Salón Pilar Palomares, peluquería orgánica y bioterapias de Secretos del Agua en Torre de Benagalbón, Rincón de la Victoria. Área de influencia: Añoreta, Chilches, Vélez Málaga, Torre del Mar y Nerja.",
-                    "url": "https://salonpilarpalomares.es/contacto",
+                    "url": "https://salonpilarpalomares.com/contacto",
                     "mainEntity": {
                         "@type": "BeautySalon",
                         "name": "Salón Pilar Palomares",
-                        "image": "https://salonpilarpalomares.es/images/fachada-salon-pilar-palomares-peluqueria-organica-malaga.webp",
+                        "image": "https://salonpilarpalomares.com/images/fachada-salon-pilar-palomares-peluqueria-organica-malaga.webp",
                         "telephone": "+34952972134",
                         "email": "salonestilistapilar@gmail.com",
                         "address": {

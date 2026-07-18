@@ -23,7 +23,7 @@ const SEO = ({
   // Robust default fallbacks
   const defaultTitle = "Peluquería Orgánica y Bioterapias";
   const defaultDescription = "Belleza, libertad y cambio consciente. Descubre nuestras bioterapias y peluquería orgánica en Torre de Benagalbón, Málaga.";
-  const baseUrl = "https://salonpilarpalomares.es";
+  const baseUrl = "https://salonpilarpalomares.com";
 
   const displayTitle = title || defaultTitle;
   const fullTitle = `${displayTitle} | ${siteTitle}`;

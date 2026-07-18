@@ -284,10 +284,10 @@ const Home = () => {
                 schemaData={{
                     "@context": "https://schema.org",
                     "@type": "HairSalon",
-                    "@id": "https://salonpilarpalomares.es/#salon",
+                    "@id": "https://salonpilarpalomares.com/#salon",
                     "name": "Salón Pilar Palomares",
-                    "image": "https://salonpilarpalomares.es/images/fachada-salon-pilar-palomares-peluqueria-organica-malaga.webp",
-                    "url": "https://salonpilarpalomares.es",
+                    "image": "https://salonpilarpalomares.com/images/fachada-salon-pilar-palomares-peluqueria-organica-malaga.webp",
+                    "url": "https://salonpilarpalomares.com",
                     "telephone": "+34952972134",
                     "priceRange": "$$",
                     "address": {

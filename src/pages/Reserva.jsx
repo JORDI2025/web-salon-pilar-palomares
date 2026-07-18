@@ -97,9 +97,9 @@ const Reserva = () => {
                     "@context": "https://schema.org",
                     "@type": "BeautySalon",
                     "name": "Salón Pilar Palomares",
-                    "image": "https://salonpilarpalomares.es/images/fachada-salon-pilar-palomares-peluqueria-organica-malaga.webp",
+                    "image": "https://salonpilarpalomares.com/images/fachada-salon-pilar-palomares-peluqueria-organica-malaga.webp",
                     "telephone": "+34952972134",
-                    "url": "https://salonpilarpalomares.es",
+                    "url": "https://salonpilarpalomares.com",
                     "address": {
                         "@type": "PostalAddress",
                         "streetAddress": "C/ Axarquía 21, Local 3",
@@ -110,7 +110,7 @@ const Reserva = () => {
                     },
                     "potentialAction": {
                         "@type": "ReserveAction",
-                        "target": "https://salonpilarpalomares.es/reserva",
+                        "target": "https://salonpilarpalomares.com/reserva",
                         "result": {
                             "@type": "Reservation",
                             "name": "Reserva de cita o diagnóstico de belleza consciente"

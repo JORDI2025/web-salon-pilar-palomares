@@ -251,7 +251,7 @@ const Equipo = () => {
                     "@type": "AboutPage",
                     "name": "Equipo Técnico y Estilistas - Salón Pilar Palomares",
                     "description": "Presentación del equipo técnico, estilistas y terapeutas del Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria (Málaga).",
-                    "url": "https://salonpilarpalomares.es/equipo",
+                    "url": "https://salonpilarpalomares.com/equipo",
                     "mainEntity": [
                         {
                             "@type": "Person",

@@ -89,7 +89,7 @@ const Eventos = () => {
                     "provider": {
                         "@type": "BeautySalon",
                         "name": "Salón Pilar Palomares",
-                        "url": "https://salonpilarpalomares.es"
+                        "url": "https://salonpilarpalomares.com"
                     },
                     "areaServed": [
                         { "@type": "AdministrativeArea", "name": "Torre de Benagalbón" },

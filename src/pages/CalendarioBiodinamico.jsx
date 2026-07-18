@@ -93,7 +93,7 @@ const CalendarioBiodinamico = () => {
                     "@type": "WebPage",
                     "name": "Calendario Biodinámico Lunar y Capilar - Salón Pilar Palomares",
                     "description": "Aprende a cuidar y cortar tu cabello siguiendo los ciclos lunares y ritmos biodinámicos naturales de la tierra con el Salón Pilar Palomares en Torre de Benagalbón, Málaga.",
-                    "url": "https://salonpilarpalomares.es/calendario-biodinamico"
+                    "url": "https://salonpilarpalomares.com/calendario-biodinamico"
                 }}
             />
             <section className="relative h-[100dvh] flex items-center justify-center bg-offwhite overflow-hidden">

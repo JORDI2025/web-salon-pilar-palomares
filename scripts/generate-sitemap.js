@@ -5,7 +5,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const BASE = 'https://salonpilarpalomares.es';
+const BASE = 'https://salonpilarpalomares.com';
 const LANGS = ['es', 'en', 'de', 'fr'];
 const TODAY = new Date().toISOString().slice(0, 10);
 

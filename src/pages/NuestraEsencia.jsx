@@ -90,12 +90,12 @@ const NuestraEsencia = () => {
                     "@type": "AboutPage",
                     "name": "Nuestra Esencia - Salón Pilar Palomares",
                     "description": "Descubre la filosofía de belleza consciente, sostenibilidad y cosmética biodinámica de Secretos del Agua en el Salón Pilar Palomares en Torre de Benagalbón, Málaga.",
-                    "url": "https://salonpilarpalomares.es/nuestra-esencia",
+                    "url": "https://salonpilarpalomares.com/nuestra-esencia",
                     "mainEntity": {
                         "@type": "Organization",
                         "name": "Salón Pilar Palomares",
-                        "url": "https://salonpilarpalomares.es",
-                        "logo": "https://salonpilarpalomares.es/assets_logos/logo-pilar-palomares.png"
+                        "url": "https://salonpilarpalomares.com",
+                        "logo": "https://salonpilarpalomares.com/assets_logos/logo-pilar-palomares.png"
                     }
                 }}
             />
