@@ -26,7 +26,8 @@
   },
   "map": {
     "btn": "Open in Google Maps",
-    "imgAlt": "Location map of Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria"
+    "imgAlt": "Location map of Salón Pilar Palomares in Torre de Benagalbón, Rincón de la Victoria",
+    "activate": "Load Interactive Map"
   },
   "boutique": {
     "desc": "Located in a quiet and welcoming environment in Torre de Benagalbón, our salon is the organic beauty haven of reference for clients from Rincón de la Victoria, Añoreta, Chilches, La Cala del Moral, Vélez-Málaga, Torre del Mar and Benajarafe. We look forward to offering you a unique wellness experience in the Axarquía region.",

@@ -29,7 +29,8 @@ dist-ssr
 /FUENTES WEB/
 /SERVICIOS/
 /assets_logos/
-/backups/
+**/backups/
+**/redesign/
 /projects/
 /reel/
 /scratch/
@@ -37,6 +38,8 @@ dist-ssr
 /video/
 /videos/
 /images/
+/style.css
+skills-lock.json
 
 # Temporary / Note Files in Root
 *.txt

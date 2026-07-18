@@ -5,7 +5,6 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Link } from 'react-router-dom';
 import { Moon, Sun, Star, Sparkles, ArrowRight, Calendar, Droplets } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-import { useLang } from '../langContext';
 import { registerNS } from '../i18n';
 import Button from '../components/Button';
 import SEO from '../components/SEO';
@@ -28,7 +27,6 @@ const STATIC_STARS = [...Array(30)].map((_, i) => ({
 
 const CalendarioBiodinamico = () => {
     const { t } = useTranslation('calendario-biodinamico');
-    const { lp } = useLang();
     const mainRef = useRef(null);
     const detailsRef = useRef(null);
 

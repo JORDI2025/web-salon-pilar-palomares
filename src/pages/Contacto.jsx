@@ -47,6 +47,7 @@ const Contacto = () => {
     const { t } = useTranslation('contacto');
     const { lp } = useLang();
     const mainRef = useRef(null);
+    const [showInteractiveMap, setShowInteractiveMap] = React.useState(false);
 
     useEffect(() => {
         window.scrollTo(0, 0);
@@ -256,29 +257,45 @@ const Contacto = () => {
 
                         {/* Map Column */}
                         <div className="lg:col-span-5 w-full aspect-video lg:aspect-[4/3] rounded-[40px] overflow-hidden shadow-2xl relative bg-sand/10 border border-chocolate/5 reveal-item group/map">
-                            <a 
-                                href="https://www.google.com/maps/place/Sal%C3%B3n+de+peluquer%C3%ADa+y+est%C3%A9tica+Pilar+Palomares+Secretos+del+agua/@36.7128115,-4.2426636,955m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd725aaf30267c79:0x97d6e467b1a945e3!8m2!3d36.7128115!4d-4.2426636!16s%2Fg%2F11c6q7hlbm?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D" 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                className="block w-full h-full relative cursor-pointer"
-                            >
-                                <img 
-                                    src="/images/mapa.webp" 
-                                    alt={t('map.imgAlt')}
-                                    className="w-full h-full object-cover object-center transition-transform duration-1000 ease-[cubic-bezier(0.32,0.72,0,1)] group-hover/map:scale-[1.02]"
-                                />
-                                <div className="absolute inset-0 bg-black/5 group-hover/map:bg-black/0 transition-colors duration-500"></div>
-                                <Button
-                                    variant="outline-aqua"
-                                    size="sm"
-                                    className="absolute bottom-6 right-6 z-10 shadow-lg pointer-events-none bg-accent-aqua/15 border border-accent-aqua/30 text-accent-aqua backdrop-blur-sm"
+                            {showInteractiveMap ? (
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3198.8174542284954!2d-4.245238523727931!3d36.712811472271816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd725aaf30267c79%3A0x97d6e467b1a945e3!2sSal%C3%B3n%20de%20peluquer%C3%ADa%20y%20est%C3%A9tica%20Pilar%20Palomares%20Secretos%20del%20agua!5e0!3m2!1ses!2ses!4v1720543600000!5m2!1ses!2ses"
+                                    width="100%"
+                                    height="100%"
+                                    style={{ border: 0 }}
+                                    allowFullScreen=""
+                                    loading="lazy"
+                                    referrerPolicy="no-referrer-when-downgrade"
+                                    title="Google Maps - Salón Pilar Palomares"
+                                    className="w-full h-full border-none"
+                                ></iframe>
+                            ) : (
+                                <div 
+                                    className="w-full h-full relative cursor-pointer"
+                                    onClick={() => setShowInteractiveMap(true)}
                                 >
-                                    <span className="inline-flex items-center gap-1.5">
-                                        <MapPin size={15} className="shrink-0" />
+                                    <img 
+                                        src="/images/mapa.webp" 
+                                        alt={t('map.imgAlt')}
+                                        className="w-full h-full object-cover object-center transition-transform duration-1000 ease-[cubic-bezier(0.32,0.72,0,1)] group-hover/map:scale-[1.02]"
+                                    />
+                                    <div className="absolute inset-0 bg-black/10 group-hover/map:bg-black/5 transition-colors duration-500 flex items-center justify-center">
+                                        <span className="bg-white/95 backdrop-blur-md px-6 py-3 rounded-full text-chocolate border border-sand/40 font-sans text-xs tracking-wider uppercase font-semibold shadow-lg hover:scale-105 transition-transform duration-300">
+                                            {t('map.activate')}
+                                        </span>
+                                    </div>
+                                    <a 
+                                        href="https://www.google.com/maps/place/Sal%C3%B3n+de+peluquer%C3%ADa+y+est%C3%A9tica+Pilar+Palomares+Secretos+del+agua/@36.7128115,-4.2426636,955m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd725aaf30267c79:0x97d6e467b1a945e3!8m2!3d36.7128115!4d-4.2426636!16s%2Fg%2F11c6q7hlbm?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D" 
+                                        target="_blank" 
+                                        rel="noopener noreferrer"
+                                        className="absolute bottom-6 right-6 z-10 shadow-lg bg-white/90 border border-sand/30 text-chocolate hover:text-accent-aqua backdrop-blur-sm rounded-full px-5 py-2.5 min-h-[40px] text-[10px] uppercase font-semibold tracking-wider transition-all duration-300 flex items-center gap-1.5"
+                                        onClick={(e) => e.stopPropagation()}
+                                    >
+                                        <MapPin size={14} className="shrink-0" />
                                         {t('map.btn')}
-                                    </span>
-                                </Button>
-                            </a>
+                                    </a>
+                                </div>
+                            )}
                         </div>
                     </div>
                 </div>

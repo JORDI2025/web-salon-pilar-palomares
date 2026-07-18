@@ -131,10 +131,10 @@ const Navbar = () => {
     return (
         <>
         <nav
-            className={`fixed top-0 left-0 w-full border-b px-6 lg:px-12 transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)] ${
+            className={`fixed top-0 left-0 w-full px-6 lg:px-12 transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)] ${
                 isSolid
-                    ? 'bg-white/95 backdrop-blur-md py-2.5 shadow-[0_8px_30px_rgba(60,47,47,0.08)] border-sand/30'
-                    : 'bg-transparent py-4 border-white/10 shadow-none'
+                    ? 'bg-white/95 backdrop-blur-md py-2.5 shadow-[0_8px_30px_rgba(60,47,47,0.08)]'
+                    : 'bg-transparent py-4 shadow-none'
             }`}
             style={{ zIndex: 9998 }}
         >

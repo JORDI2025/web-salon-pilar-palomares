@@ -18,18 +18,12 @@ const CookieBanner = () => {
   const { t } = useTranslation();
   const { lp } = useLang();
   const [storedConsent] = useState(readStoredConsent);
-  const [isVisible, setIsVisible] = useState(false);
+  const [isVisible, setIsVisible] = useState(!storedConsent);
   const [showPreferences, setShowPreferences] = useState(false);
 
   // Consent state (inicializado desde localStorage, sin setState en efecto)
   const [analyticsConsent, setAnalyticsConsent] = useState(storedConsent?.analytics || false);
   const [marketingConsent, setMarketingConsent] = useState(storedConsent?.marketing || false);
-
-  useEffect(() => {
-    if (!storedConsent) {
-      setIsVisible(true);
-    }
-  }, [storedConsent]);
 
   // Lock page scroll when banner is visible (bulletproof mobile scroll lock)
   useEffect(() => {

@@ -26,7 +26,8 @@
   },
   "map": {
     "btn": "Abrir en Google Maps",
-    "imgAlt": "Mapa de localización del Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Vélez Málaga"
+    "imgAlt": "Mapa de localización del Salón Pilar Palomares en Torre de Benagalbón, Rincón de la Victoria, cerca de Añoreta, Chilches y Vélez Málaga",
+    "activate": "Activar Mapa Interactivo"
   },
   "boutique": {
     "desc": "Situado en un entorno tranquilo y acogedor en Torre de Benagalbón, nuestro salón es el refugio de belleza orgánica de referencia para clientes de Rincón de la Victoria, Añoreta, Chilches, La Cala del Moral, Vélez-Málaga, Torre del Mar y Benajarafe. Te esperamos para ofrecerte una experiencia de bienestar única en toda la Axarquía.",
