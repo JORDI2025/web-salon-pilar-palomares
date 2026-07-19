@@ -219,26 +219,26 @@ const Eventos = () => {
             </section>
 
             {/* Important Info */}
-            <section className="py-24 px-6 lg:px-20 bg-offwhite bg-noise relative">
+            <section className="py-20 md:py-24 px-6 lg:px-20 bg-offwhite bg-noise relative">
                 <div className="absolute inset-0 bg-[url('/images/textures/paper-grain.webp')] opacity-10 pointer-events-none"></div>
-                <div className="liquid-glass max-w-7xl mx-auto bg-cream/60 p-12 md:p-24 text-chocolate relative overflow-hidden fade-in border border-peach/40 shadow-[0_30px_60px_-15px_rgba(60,47,47,0.25)] rounded-[3rem] z-10">
+                <div className="liquid-glass max-w-7xl mx-auto bg-cream/60 p-6 sm:p-12 md:p-24 text-chocolate relative overflow-hidden fade-in border border-peach/40 shadow-[0_30px_60px_-15px_rgba(60,47,47,0.25)] rounded-[2rem] sm:rounded-[3rem] z-10">
                     <div className="absolute top-0 right-0 w-96 h-96 bg-white/20 rounded-full -translate-y-1/2 translate-x-1/2 blur-3xl"></div>
-                    <div className="relative z-10 grid md:grid-cols-2 gap-16 items-center">
+                    <div className="relative z-10 grid md:grid-cols-2 gap-8 md:gap-16 items-center">
                         <div className="flex flex-col justify-center text-center md:text-left items-center md:items-start">
-                            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl font-serif text-chocolate mb-8 leading-[1.1] uppercase w-full">{t('info.title1')} <br /> <span className="text-accent-aqua">{t('info.title2')}</span></h2>
-                            <p className="text-lg text-chocolate/80 leading-relaxed normal-case max-w-xl">
+                            <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl font-serif text-chocolate mb-6 md:mb-8 leading-[1.1] uppercase w-full">{t('info.title1')} <br /> <span className="text-accent-aqua">{t('info.title2')}</span></h2>
+                            <p className="text-base sm:text-lg text-chocolate/80 leading-relaxed normal-case max-w-xl">
                                 {t('info.text')}
                             </p>
                         </div>
-                        <div className="flex flex-col justify-center items-center uppercase mt-8 md:mt-0 w-full">
-                            <div className="w-full text-center p-10 bg-white/70 backdrop-blur-md rounded-[40px] border border-peach/40 shadow-sm flex flex-col items-center justify-center">
-                                <h3 className="text-xs uppercase tracking-widest mb-2 opacity-60 font-bold text-chocolate text-center w-full">{t('info.cardEyebrow')}</h3>
-                                <p className="text-2xl md:text-3xl font-serif text-chocolate mb-6 text-center w-full">{t('info.cardTitle')}</p>
+                        <div className="flex flex-col justify-center items-center uppercase mt-6 md:mt-0 w-full">
+                            <div className="w-full text-center p-6 sm:p-10 bg-white/70 backdrop-blur-md rounded-[24px] sm:rounded-[40px] border border-peach/40 shadow-sm flex flex-col items-center justify-center">
+                                <h3 className="text-[10px] sm:text-xs uppercase tracking-widest mb-2 opacity-60 font-bold text-chocolate text-center w-full">{t('info.cardEyebrow')}</h3>
+                                <p className="text-xl sm:text-2xl md:text-3xl font-serif text-chocolate mb-6 text-center w-full leading-snug">{t('info.cardTitle')}</p>
                                 <Button
                                     to="/reserva"
                                     variant="coral"
                                     icon={ArrowRight}
-                                    className="spring-bounce mt-4 mx-auto"
+                                    className="spring-bounce mt-2 mx-auto"
                                 >
                                      {t('info.cta')}
                                 </Button>
