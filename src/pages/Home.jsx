@@ -367,13 +367,13 @@ const Home = () => {
                     </span>
                     <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif mb-8 leading-[1.2] uppercase tracking-tight text-white drop-shadow-lg">
                         {lang === 'en' ? (
-                            <>WHERE <span className="text-accent-aqua">WATER</span> <br /><span className="text-chocolate">AND EARTH</span> <br />MEET</>
+                            <>WHERE <span className="text-accent-aqua">WATER</span> <br />AND <span className="text-sand-tostado">EARTH</span> <br />MEET</>
                         ) : lang === 'de' ? (
-                            <>WO <span className="text-accent-aqua">WASSER</span> <br /><span className="text-chocolate">UND ERDE</span> <br />SICH BEGEGNEN</>
+                            <>WO <span className="text-accent-aqua">WASSER</span> <br />UND <span className="text-sand-tostado">ERDE</span> <br />SICH BEGEGNEN</>
                         ) : lang === 'fr' ? (
-                            <>OÙ <span className="text-accent-aqua">L'EAU</span> <br /><span className="text-chocolate">ET LA TERRE</span> <br />SE RENCONTRENT</>
+                            <>OÙ <span className="text-accent-aqua">L'EAU</span> <br />ET <span className="text-sand-tostado">LA TERRE</span> <br />SE RENCONTRENT</>
                         ) : (
-                            <>DONDE <span className="text-accent-aqua">EL AGUA</span> <br /><span className="text-chocolate">Y LA TIERRA</span> <br />SE ENCUENTRAN</>
+                            <>DONDE <span className="text-accent-aqua">EL AGUA</span> <br />Y <span className="text-sand-tostado">LA TIERRA</span> <br />SE ENCUENTRAN</>
                         )}
                     </h1>
                     <p className="text-base sm:text-lg lg:text-xl text-white/95 max-w-2xl mx-auto leading-relaxed normal-case mb-10">
