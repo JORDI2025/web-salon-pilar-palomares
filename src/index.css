@@ -118,7 +118,7 @@
            disabled:opacity-50 disabled:pointer-events-none;
   }
   /* Variante secundaria compacta (mismo estilo de letra, menor padding) */
-  .btn-sm { @apply px-5 py-2.5 min-h-[40px] text-[10px]; }
+  .btn-sm { @apply px-5 py-2.5 min-h-[40px] text-[11px]; }
 
   .btn-primary {
     @apply btn bg-accent-aqua text-white shadow-lg
@@ -368,3 +368,4 @@
 .group:hover .featured-service-tag h3 {
   color: #FFFFFF !important;
 }
+

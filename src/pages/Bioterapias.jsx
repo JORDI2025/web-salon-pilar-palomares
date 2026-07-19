@@ -443,7 +443,7 @@ const Bioterapias = () => {
                                                 </div>
                                                 <div className="w-full h-[1px] bg-chocolate/5"></div>
                                                 <div className="flex justify-start items-center">
-                                                    <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[8px] md:text-[9px] font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
+                                                    <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[11px] md:text-xs font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
                                                         {t('detalles')}
                                                         <ChevronRight size={10} className="ml-2 group-hover:translate-x-1 transition-transform" />
                                                     </div>
@@ -555,7 +555,7 @@ const Bioterapias = () => {
                                                 </div>
                                                 <div className="w-full h-[1px] bg-chocolate/5"></div>
                                                 <div className="flex justify-start items-center">
-                                                    <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[8px] md:text-[9px] font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
+                                                    <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[11px] md:text-xs font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
                                                         {t('detalles')}
                                                         <ChevronRight size={10} className="ml-2 group-hover:translate-x-1 transition-transform" />
                                                     </div>
@@ -656,7 +656,7 @@ const Bioterapias = () => {
                                             </div>
                                             <div className="w-full h-[1px] bg-chocolate/5"></div>
                                             <div className="flex justify-start items-center">
-                                                <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[8px] md:text-[9px] font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
+                                                <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[11px] md:text-xs font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
                                                     {t('detalles')}
                                                     <ChevronRight size={10} className="ml-2 group-hover:translate-x-1 transition-transform" />
                                                 </div>
@@ -703,7 +703,7 @@ const Bioterapias = () => {
                                             </div>
                                             <div className="w-full h-[1px] bg-chocolate/5"></div>
                                             <div className="flex justify-start items-center">
-                                                <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[8px] md:text-[9px] font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
+                                                <div className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[11px] md:text-xs font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]">
                                                     {t('detalles')}
                                                     <ChevronRight size={10} className="ml-2 group-hover:translate-x-1 transition-transform" />
                                                 </div>
@@ -744,7 +744,7 @@ const Bioterapias = () => {
                                             <div className="w-full h-[1px] bg-chocolate/5"></div>
                                             <div className="flex justify-start items-center">
                                                 <div 
-                                                    className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[8px] md:text-[9px] font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]"
+                                                    className="inline-flex items-center text-white transition-all uppercase tracking-[0.3em] text-[11px] md:text-xs font-bold bg-accent-aqua px-4 py-2 md:px-6 md:py-3 rounded-full border border-transparent shadow-md group-hover:bg-white group-hover:text-accent-aqua group-hover:border-accent-aqua/30 group-hover:scale-105 group-hover:shadow-[0_10px_20px_-5px_rgba(133,183,178,0.4)]"
                                                 >
                                                     {t('detalles')}
                                                     <ChevronRight size={10} className="ml-2 group-hover:translate-x-1 transition-transform" />

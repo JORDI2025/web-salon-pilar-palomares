@@ -152,14 +152,14 @@ const Navbar = () => {
                         />
                         {/* Branding text restored for more screen sizes */}
                         <div className={`hidden md:flex flex-col border-l pl-3 leading-none transition-colors duration-500 ${isSolid ? 'border-chocolate/20' : 'border-white/20'}`}>
-                            <span className={`text-[7px] uppercase tracking-[0.2em] font-medium mb-0.5 transition-colors duration-500 ${isSolid ? 'text-chocolate/40' : 'text-white/60'}`}>Boutique</span>
-                            <span className={`text-[9px] lg:text-[10px] uppercase tracking-[0.1em] font-bold whitespace-nowrap transition-colors duration-500 ${isSolid ? 'text-chocolate/80' : 'text-white'}`}>Secretos del Agua</span>
+                            <span className={`text-[9px] md:text-[10px] lg:text-xs uppercase tracking-[0.2em] font-medium mb-0.5 transition-colors duration-500 ${isSolid ? 'text-chocolate/40' : 'text-white/60'}`}>Boutique</span>
+                            <span className={`text-[11px] lg:text-xs xl:text-sm uppercase tracking-[0.1em] font-bold whitespace-nowrap transition-colors duration-500 ${isSolid ? 'text-chocolate/80' : 'text-white'}`}>Secretos del Agua</span>
                         </div>
                     </Link>
                 </div>
 
                 {/* Desktop Links - Adaptive Spacing */}
-                <ul className={`hidden lg:flex items-center space-x-4 xl:space-x-6 2xl:space-x-8 font-sans text-[10px] xl:text-[11px] tracking-[0.2em] uppercase transition-colors duration-500 ${isSolid ? 'text-chocolate/70' : 'text-white'}`}>
+                <ul className={`hidden lg:flex items-center space-x-4 xl:space-x-6 2xl:space-x-8 font-sans text-xs lg:text-[13px] xl:text-sm tracking-[0.2em] uppercase transition-colors duration-500 ${isSolid ? 'text-chocolate/70' : 'text-white'}`}>
                     {navLinks.map((link) => (
                         <li key={link.name} className={link.dropdown ? "relative group/nav" : ""}>
                             {link.dropdown ? (
@@ -234,7 +234,7 @@ const Navbar = () => {
                     {/* Selector de idioma (escritorio y tablet) */}
                     <div className="relative group/lang hidden sm:block">
                         <button
-                            className={`flex items-center gap-1.5 py-2 px-1 text-[10px] xl:text-[11px] tracking-[0.2em] uppercase hover:text-accent-aqua transition-colors duration-500 focus-visible:ring-2 focus-visible:ring-accent-aqua rounded-sm outline-none ${isSolid ? 'text-chocolate/70' : 'text-white'}`}
+                            className={`flex items-center gap-1.5 py-2 px-1 text-xs lg:text-[13px] xl:text-sm tracking-[0.2em] uppercase hover:text-accent-aqua transition-colors duration-500 focus-visible:ring-2 focus-visible:ring-accent-aqua rounded-sm outline-none ${isSolid ? 'text-chocolate/70' : 'text-white'}`}
                             aria-haspopup="true"
                             aria-label={t('nav.idioma')}
                         >
@@ -249,7 +249,7 @@ const Navbar = () => {
                                         key={l}
                                         to={localizePath(basePath, l)}
                                         aria-current={l === lang ? 'true' : undefined}
-                                        className={`px-3 py-2 rounded-xl text-[10px] font-bold tracking-[0.2em] uppercase transition-colors text-center ${
+                                        className={`px-3 py-2 rounded-xl text-[11px] lg:text-xs font-bold tracking-[0.2em] uppercase transition-colors text-center ${
                                             l === lang
                                                 ? 'bg-accent-aqua/10 text-accent-aqua'
                                                 : 'text-chocolate/60 hover:text-accent-aqua hover:bg-chocolate/[0.03]'

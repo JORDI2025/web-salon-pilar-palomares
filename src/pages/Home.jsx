@@ -346,13 +346,14 @@ const Home = () => {
             {/* HERO SECTION */}
             <section id="hero" ref={heroRef} className="relative min-h-[100dvh] flex items-center justify-center text-center px-6 py-24">
                 <HeroCarousel />
-                {/* Soft radial gradient to support text readability without darkening the overall images */}
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(60,47,47,0.35)_0%,rgba(60,47,47,0)_70%)] z-[1] pointer-events-none"></div>
+                {/* Base tint overlay + vertical gradient overlay for maximum readability of text and transparent navbar */}
+                <div className="absolute inset-0 bg-chocolate/20 z-[1] pointer-events-none"></div>
+                <div className="absolute inset-0 bg-gradient-to-b from-chocolate/50 via-transparent to-chocolate/40 z-[1] pointer-events-none"></div>
                 
                 {/* Floating location status - Bottom Right (opposite of top left) */}
                 <div className="absolute bottom-10 right-6 md:right-12 lg:right-20 z-10 flex items-center gap-2 select-none pointer-events-none">
                     <span className="w-1.5 h-1.5 rounded-full bg-accent-aqua animate-pulse shadow-[0_0_8px_rgba(133,183,178,0.8)]"></span>
-                    <span className="text-[10px] md:text-xs tracking-[0.2em] font-sans font-semibold uppercase text-white/50">
+                    <span className="text-xs md:text-sm tracking-[0.2em] font-sans font-semibold uppercase text-white/50">
                         {lang === 'en' ? 'LIVE SALON - TORRE DE BENAGALBÓN' :
                          lang === 'de' ? 'SALON LIVE - TORRE DE BENAGALBÓN' :
                          lang === 'fr' ? 'SALON EN DIRECT - TORRE DE BENAGALBÓN' :
@@ -361,21 +362,21 @@ const Home = () => {
                 </div>
 
                 <div className="relative z-10 hero-content max-w-7xl mx-auto text-white [text-shadow:0_4px_24px_rgba(0,0,0,0.7),_0_1px_3px_rgba(0,0,0,0.95)]">
-                    <span className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-accent-aqua/15 border border-accent-aqua/30 text-accent-aqua text-[10px] md:text-xs tracking-[0.25em] font-sans font-bold uppercase mb-8 backdrop-blur-sm shadow-sm select-none">
+                    <span className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full bg-accent-aqua/15 border border-accent-aqua/30 text-accent-aqua text-xs md:text-sm tracking-[0.25em] font-sans font-bold uppercase mb-8 backdrop-blur-sm shadow-sm select-none">
                         {t('hero.eyebrow')}
                     </span>
-                    <h1 className="text-5xl md:text-7xl font-serif mb-8 leading-[1.2] uppercase tracking-tight text-white drop-shadow-lg">
+                    <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif mb-8 leading-[1.2] uppercase tracking-tight text-white drop-shadow-lg">
                         {lang === 'en' ? (
-                            <>WHERE WATER <br /><span className="text-accent-aqua">AND EARTH</span> <br />MEET</>
+                            <>WHERE <span className="text-accent-aqua">WATER</span> <br /><span className="text-chocolate">AND EARTH</span> <br />MEET</>
                         ) : lang === 'de' ? (
-                            <>WO WASSER <br /><span className="text-accent-aqua">UND ERDE</span> <br />SICH BEGEGNEN</>
+                            <>WO <span className="text-accent-aqua">WASSER</span> <br /><span className="text-chocolate">UND ERDE</span> <br />SICH BEGEGNEN</>
                         ) : lang === 'fr' ? (
-                            <>OÙ L'EAU <br /><span className="text-accent-aqua">ET LA TERRE</span> <br />SE RENCONTRENT</>
+                            <>OÙ <span className="text-accent-aqua">L'EAU</span> <br /><span className="text-chocolate">ET LA TERRE</span> <br />SE RENCONTRENT</>
                         ) : (
-                            <>DONDE EL AGUA <br /><span className="text-accent-aqua">Y LA TIERRA</span> <br />SE ENCUENTRAN</>
+                            <>DONDE <span className="text-accent-aqua">EL AGUA</span> <br /><span className="text-chocolate">Y LA TIERRA</span> <br />SE ENCUENTRAN</>
                         )}
                     </h1>
-                    <p className="text-lg md:text-xl text-white/95 max-w-2xl mx-auto leading-relaxed normal-case mb-10">
+                    <p className="text-base sm:text-lg lg:text-xl text-white/95 max-w-2xl mx-auto leading-relaxed normal-case mb-10">
                         {t('hero.text')}
                     </p>
                     <Button
@@ -508,7 +509,7 @@ const Home = () => {
                                 <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
                                     <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon1Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon1Tag')}</p>
+                                <p className="text-xs lg:text-[13px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon1Tag')}</p>
                             </div>
                             <div className="reveal-item flex flex-col items-center group text-center">
                                 <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "50ms"}}>
@@ -517,7 +518,7 @@ const Home = () => {
                                 <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
                                     <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon2Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon2Tag')}</p>
+                                <p className="text-xs lg:text-[13px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon2Tag')}</p>
                             </div>
                             <div className="reveal-item flex flex-col items-center group text-center">
                                 <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "100ms"}}>
@@ -526,7 +527,7 @@ const Home = () => {
                                 <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
                                     <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon3Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon3Tag')}</p>
+                                <p className="text-xs lg:text-[13px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon3Tag')}</p>
                             </div>
                             <div className="reveal-item flex flex-col items-center group text-center">
                                 <div className="w-[72px] h-[72px] md:w-20 md:h-20 lg:w-[88px] lg:h-[88px] mb-4 md:mb-2.5 transition-all duration-500 transform group-hover:scale-105" style={{transitionDelay: "150ms"}}>
@@ -535,7 +536,7 @@ const Home = () => {
                                 <div className="h-8 md:h-6 lg:h-8 flex items-center justify-center w-full mb-1 -mt-3.5 md:mt-0">
                                     <h3 className="font-serif text-[15px] md:text-[13px] lg:text-[15px] xl:text-base text-chocolate/90 leading-[1.1] md:leading-none md:whitespace-nowrap">{t('bienestar.icon4Title')}</h3>
                                 </div>
-                                <p className="text-[9px] md:text-[10px] lg:text-[11px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon4Tag')}</p>
+                                <p className="text-xs lg:text-[13px] tracking-[0.18em] text-accent-aqua font-bold uppercase leading-none lg:leading-[2.0]">{t('bienestar.icon4Tag')}</p>
                             </div>
                         </div>
                     </div>
