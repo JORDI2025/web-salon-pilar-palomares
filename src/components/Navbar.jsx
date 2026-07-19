@@ -460,7 +460,7 @@ const Navbar = () => {
                             <div>
                                 <span style={{ fontSize: '9px', textTransform: 'uppercase', letterSpacing: '0.2em', color: 'rgba(60,47,47,0.4)', fontWeight: 'bold', display: 'block', marginBottom: '0.5rem' }}>{t('nav.siguenos')}</span>
                                 <div style={{ display: 'flex', gap: '1.25rem' }}>
-                                    <a href="https://www.instagram.com/salon_pilar_palomares/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Salón Pilar Palomares" className="text-chocolate/60 hover:text-accent-aqua transition-all duration-300 transform hover:-translate-y-1 block"><Instagram size={20} /></a>
+                                    <a href="https://www.instagram.com/salonpilarpalomares/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Salón Pilar Palomares" className="text-chocolate/60 hover:text-accent-aqua transition-all duration-300 transform hover:-translate-y-1 block"><Instagram size={20} /></a>
                                     <a href="https://www.facebook.com/Salonpilarpalomares" target="_blank" rel="noopener noreferrer" aria-label="Facebook de Salón Pilar Palomares" className="text-chocolate/60 hover:text-accent-aqua transition-all duration-300 transform hover:-translate-y-1 block"><Facebook size={20} /></a>
                                     <a href="https://www.tiktok.com/@salon.pilarpalomares" target="_blank" rel="noopener noreferrer" aria-label="TikTok de Salón Pilar Palomares" className="text-chocolate/60 hover:text-accent-aqua transition-all duration-300 transform hover:-translate-y-1 block"><TikTokIcon size={19} /></a>
                                 </div>

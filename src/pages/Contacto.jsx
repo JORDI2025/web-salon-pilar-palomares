@@ -330,7 +330,7 @@ const Contacto = () => {
                                 {t('boutique.btn')}
                             </Button>
                             <div className="flex items-center space-x-6 font-normal">
-                                <a href="https://www.instagram.com/salon_pilar_palomares/" target="_blank" rel="noopener noreferrer" className="text-chocolate/40 hover:text-accent-aqua transition-colors focus-visible:ring-2 focus-visible:ring-accent-aqua rounded-full p-1 outline-none"><Instagram size={24} /></a>
+                                <a href="https://www.instagram.com/salonpilarpalomares/" target="_blank" rel="noopener noreferrer" className="text-chocolate/40 hover:text-accent-aqua transition-colors focus-visible:ring-2 focus-visible:ring-accent-aqua rounded-full p-1 outline-none"><Instagram size={24} /></a>
                                 <a href="https://www.facebook.com/Salonpilarpalomares" target="_blank" rel="noopener noreferrer" className="text-chocolate/40 hover:text-accent-aqua transition-colors focus-visible:ring-2 focus-visible:ring-accent-aqua rounded-full p-1 outline-none"><Facebook size={24} /></a>
                                 <a href="https://www.tiktok.com/@salon.pilarpalomares" target="_blank" rel="noopener noreferrer" className="text-chocolate/40 hover:text-accent-aqua transition-colors focus-visible:ring-2 focus-visible:ring-accent-aqua rounded-full p-1 outline-none"><TikTokIcon size={24} /></a>
                             </div>

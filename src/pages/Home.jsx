@@ -337,7 +337,7 @@ const Home = () => {
                         "reviewCount": "300"
                     },
                     "sameAs": [
-                        "https://www.instagram.com/salon_pilar_palomares/",
+                        "https://www.instagram.com/salonpilarpalomares/",
                         "https://www.facebook.com/Salonpilarpalomares",
                         "https://www.tiktok.com/@salon.pilarpalomares"
                     ]

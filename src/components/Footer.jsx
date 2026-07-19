@@ -197,7 +197,7 @@ const Footer = () => {
                         <a href="https://www.facebook.com/Salonpilarpalomares" target="_blank" rel="noopener noreferrer" aria-label="Facebook de Salón Pilar Palomares" className="hover:text-accent-aqua transition-all duration-300 hover:scale-110">
                             <Facebook size={28} strokeWidth={1.5} />
                         </a>
-                        <a href="https://www.instagram.com/salon_pilar_palomares/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Salón Pilar Palomares" className="hover:text-accent-aqua transition-all duration-300 hover:scale-110">
+                        <a href="https://www.instagram.com/salonpilarpalomares/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Salón Pilar Palomares" className="hover:text-accent-aqua transition-all duration-300 hover:scale-110">
                             <Instagram size={28} strokeWidth={1.5} />
                         </a>
                         <a href="https://www.tiktok.com/@salon.pilarpalomares" target="_blank" rel="noopener noreferrer" aria-label="TikTok de Salón Pilar Palomares" className="hover:text-accent-aqua transition-all duration-300 hover:scale-110">
