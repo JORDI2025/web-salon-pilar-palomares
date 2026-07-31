@@ -39,12 +39,16 @@ function getChromePath() {
   const paths = [
     'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-    path.join(os.homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'Application', 'chrome.exe')
+    path.join(os.homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'Application', 'chrome.exe'),
+    '/usr/bin/google-chrome',
+    '/usr/bin/chromium-browser',
+    '/usr/bin/chromium',
+    '/usr/bin/chrome'
   ];
   for (const p of paths) {
     if (fs.existsSync(p)) return p;
   }
-  throw new Error('No se pudo encontrar Google Chrome en este equipo. Por favor, asegúrate de tenerlo instalado.');
+  return null;
 }
 
 function startServer(port = 9000) {
@@ -119,6 +123,10 @@ async function runPrerender() {
   let browser;
   try {
     const chromePath = getChromePath();
+    if (!chromePath) {
+      console.log('⚠️ No se encontró ejecutable de Chrome en este entorno (entorno de compilación cloud Vercel). Omitiendo pre-renderizado SSG y manteniendo fallback SPA de Vite.');
+      return;
+    }
     console.log(`🚀 Iniciando navegador Chrome desde: ${chromePath}`);
 
     browser = await puppeteer.launch({
