@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import CookieBanner from './components/CookieBanner';
 import ScrollToTop from './components/ScrollToTop';
+import AnalyticsTracker from './components/AnalyticsTracker';
 import LanguageProvider from './components/LanguageProvider';
 import Home from './pages/Home'; // eager: página de aterrizaje (LCP crítico)
 
@@ -89,6 +90,7 @@ function App() {
     <Router>
       <LanguageProvider>
       <ScrollToTop />
+      <AnalyticsTracker />
       <div className="min-h-screen selection:bg-accent-aqua/30 selection:text-chocolate flex flex-col">
         <header>
           <Navbar />
