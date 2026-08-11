@@ -336,6 +336,29 @@ const Home = () => {
                         "ratingValue": "4.6",
                         "reviewCount": "300"
                     },
+                    "review": [
+                        {
+                            "@type": "Review",
+                            "author": { "@type": "Person", "name": "María G." },
+                            "datePublished": "2024-01-15",
+                            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+                            "reviewBody": "Un salón con alma. Las bioterapias de Secretos del Agua me han transformado el cabello de forma natural."
+                        },
+                        {
+                            "@type": "Review",
+                            "author": { "@type": "Person", "name": "Emma W." },
+                            "datePublished": "2024-02-10",
+                            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+                            "reviewBody": "Organic hair care at its best. Salón Pilar Palomares is a peaceful sanctuary for body and hair in Málaga."
+                        },
+                        {
+                            "@type": "Review",
+                            "author": { "@type": "Person", "name": "Gloria M." },
+                            "datePublished": "2024-03-05",
+                            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+                            "reviewBody": "Atención exquisita y resultados espectaculares con la coloración de barro vegetal y tratamientos capilares."
+                        }
+                    ],
                     "sameAs": [
                         "https://www.instagram.com/salonpilarpalomares/",
                         "https://www.facebook.com/Salonpilarpalomares",
