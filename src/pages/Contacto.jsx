@@ -199,9 +199,18 @@ const Contacto = () => {
                                         <MapPin size={24} />
                                     </div>
                                     <h2 className="text-xs uppercase tracking-widest font-bold text-chocolate mb-2 opacity-50">{t('cards.addressTitle')}</h2>
-                                    <p className="text-base text-chocolate/80 leading-relaxed font-sans whitespace-pre-line">
+                                    <p className="text-base text-chocolate/80 leading-relaxed font-sans whitespace-pre-line mb-4">
                                         {t('cards.addressText')}
                                     </p>
+                                    <a
+                                        href="https://www.google.com/maps/dir/?api=1&destination=36.7128115,-4.2426636"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full bg-accent-aqua/10 hover:bg-accent-aqua hover:text-white text-chocolate text-[11px] font-bold tracking-wider uppercase transition-all duration-300 shadow-sm mt-auto"
+                                    >
+                                        <MapPin size={14} className="shrink-0" />
+                                        <span>Cómo llegar</span>
+                                    </a>
                                 </div>
 
                                 {/* Teléfono */}
