@@ -40,8 +40,8 @@ const CalendarioBiodinamico = () => {
                 { opacity: 1, scale: 1, y: 0, filter: 'blur(0px)', duration: 2, ease: 'expo.out', stagger: 0.3 }
             );
 
-            // September sections reveal
-            gsap.fromTo('.september-section-reveal',
+            // November sections reveal
+            gsap.fromTo('.november-section-reveal',
                 { opacity: 0, y: 40, filter: 'blur(6px)' },
                 { 
                     opacity: 1, 
@@ -51,7 +51,7 @@ const CalendarioBiodinamico = () => {
                     stagger: 0.3, 
                     ease: 'power3.out',
                     scrollTrigger: {
-                        trigger: '.september-container',
+                        trigger: '.november-container',
                         start: 'top 80%',
                     }
                 }
@@ -81,8 +81,8 @@ const CalendarioBiodinamico = () => {
                 canonical="/calendario-biodinamico"
                 description={t('seo.description')}
                 keywords={[
-                    "calendario biodinamico capilar septiembre 2026",
-                    "calendario lunar cortar pelo malaga septiembre",
+                    "calendario biodinamico capilar noviembre 2026",
+                    "calendario lunar cortar pelo malaga noviembre",
                     "fases lunares cabello secretos del agua",
                     "belleza biodinamica torre de benagalbon",
                     "estetica natural rincon de la victoria",
@@ -91,8 +91,8 @@ const CalendarioBiodinamico = () => {
                 schemaData={{
                     "@context": "https://schema.org",
                     "@type": "WebPage",
-                    "name": "Calendario Biodinámico Lunar y Capilar Septiembre 2026 - Salón Pilar Palomares",
-                    "description": "Aprende a cuidar y cortar tu cabello siguiendo los ciclos lunares y ritmos biodinámicos naturales en Septiembre 2026 con el Salón Pilar Palomares en Torre de Benagalbón, Málaga.",
+                    "name": "Calendario Biodinámico Lunar y Capilar Noviembre 2026 - Salón Pilar Palomares",
+                    "description": "Aprende a cuidar y cortar tu cabello siguiendo los ciclos lunares y ritmos biodinámicos naturales en Noviembre 2026 con el Salón Pilar Palomares en Torre de Benagalbón, Málaga.",
                     "url": "https://salonpilarpalomares.com/calendario-biodinamico"
                 }}
             />
@@ -137,9 +137,9 @@ const CalendarioBiodinamico = () => {
                 <div className="absolute top-0 right-0 w-96 h-96 bg-sand/20 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2"></div>
                 
                 <div className="max-w-7xl mx-auto">
-                    {/* ═══════════════ EL RITMO DEL AGUA (TAL CUAL) ═══════════════ */}
+                    {/* ═══════════════ EL RITMO DEL AGUA ═══════════════ */}
                     <div className="flex flex-col lg:grid lg:grid-cols-2 gap-10 lg:gap-20 items-center mb-24 md:mb-32">
-                        {/* TÍTULO EN MÓVIL/TABLET (Encima de la foto) */}
+                        {/* TÍTULO EN MÓVIL/TABLET */}
                         <div className="lg:hidden reveal-item text-center md:text-left w-full">
                             <span className="eyebrow-badge">{t('agua.eyebrow')}</span>
                             <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl font-serif leading-[1.1] uppercase text-chocolate mb-6">
@@ -147,7 +147,7 @@ const CalendarioBiodinamico = () => {
                             </h2>
                         </div>
 
-                        {/* FOTOGRAFÍA (Abajo del título en móvil, izquierda en PC) */}
+                        {/* FOTOGRAFÍA */}
                         <div className="reveal-item w-full relative group lg:order-1 mb-8 lg:mb-0 max-w-md mx-auto lg:max-w-none">
                             <div className="double-bezel-wrapper aspect-square md:aspect-[4/5] relative z-10">
                                 <div className="w-full h-full double-bezel-inner overflow-hidden relative">
@@ -162,9 +162,8 @@ const CalendarioBiodinamico = () => {
                             <div className="hidden lg:block absolute -bottom-8 -left-8 w-full h-full border border-accent-aqua/20 rounded-[2.5rem] -z-10 translate-x-4 translate-y-4"></div>
                         </div>
 
-                        {/* CONTENIDO (Orden 2 en PC) */}
+                        {/* CONTENIDO */}
                         <div className="reveal-item lg:order-2 w-full text-left">
-                            {/* TÍTULO EN ESCRITORIO (Al lado de la foto) */}
                             <div className="hidden lg:block mb-10">
                                 <span className="eyebrow-badge">{t('agua.eyebrow')}</span>
                                 <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl font-serif leading-[1.1] uppercase text-chocolate">
@@ -201,29 +200,29 @@ const CalendarioBiodinamico = () => {
                 </div>
             </section>
 
-            {/* ═══════════════ DETALLES DEL CALENDARIO DE SEPTIEMBRE ═══════════════ */}
-            <div ref={detailsRef} id="septiembre-details" className="september-container bg-offwhite bg-noise relative">
+            {/* ═══════════════ DETALLES DEL CALENDARIO DE NOVIEMBRE ═══════════════ */}
+            <div ref={detailsRef} id="noviembre-details" className="november-container bg-offwhite bg-noise relative">
                 <div className="absolute inset-0 bg-[url('/images/textures/paper-grain.webp')] opacity-10 pointer-events-none"></div>
                 <div className="text-center pt-16 pb-6 relative z-10">
                     <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl font-serif uppercase tracking-tight text-chocolate leading-[1.1] mb-4">
-                        {t('septiembre.title1')} <br className="hidden md:block" /> <span className="text-accent-aqua">{t('septiembre.title2')}</span>
+                        {t('agosto.title1')} <br className="hidden md:block" /> <span className="text-accent-aqua">{t('agosto.title2')}</span>
                     </h2>
                     <p className="text-sm md:text-base uppercase tracking-[0.2em] font-sans font-bold text-accent-aqua">
-                        {t('septiembre.eyebrow')}
+                        {t('agosto.eyebrow')}
                     </p>
                 </div>
 
-                {/* SECCIÓN INTRO CALENDARIO DE SEPTIEMBRE */}
+                {/* SECCIÓN INTRO CALENDARIO DE NOVIEMBRE */}
                 <section className="pb-16 px-6 lg:px-20 relative overflow-hidden z-10">
                     <div className="max-w-7xl mx-auto">
                         <div className="flex flex-col lg:grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
                             {/* Portada - Double Bezel Wrapper */}
                             <div className="reveal w-full max-w-md mx-auto lg:max-w-none">
-                                <div className="double-bezel-wrapper aspect-[9/16] max-h-[620px] relative z-10 mx-auto">
+                                <div className="double-bezel-wrapper aspect-[3/4] relative z-10">
                                     <div className="w-full h-full double-bezel-inner overflow-hidden relative rounded-[2rem]">
                                         <img 
-                                            src="/images/calendario-cosmos-septiembre-portada-pilar-palomares.webp"
-                                            alt={t('septiembre.imgAlt1')}
+                                            src="/images/calendario-cosmos-noviembre-portada-pilar-palomares.webp"
+                                            alt={t('agosto.imgAlt1')}
                                             className="w-full h-full object-cover"
                                         />
                                         <div className="absolute inset-0 bg-chocolate/5"></div>
@@ -237,25 +236,25 @@ const CalendarioBiodinamico = () => {
 
                             {/* Texto Intro */}
                             <div className="w-full text-left">
-                                <span className="eyebrow-badge">{t('septiembre.title1')} <span className="text-accent-aqua">{t('septiembre.title2')}</span></span>
+                                <span className="eyebrow-badge">{t('agosto.title1')} <span className="text-accent-aqua">{t('agosto.title2')}</span></span>
                                 <h3 className="text-3xl sm:text-4xl md:text-5xl font-serif leading-[1.1] uppercase text-chocolate mb-8">
-                                    {t('septiembre.introTitle1')} <br /> <span className="text-accent-aqua">{t('septiembre.introTitle2')}</span>
+                                    {t('agosto.introTitle1')} <br /> <span className="text-accent-aqua">{t('agosto.introTitle2')}</span>
                                 </h3>
                                 <p className="text-base text-chocolate/80 leading-relaxed font-sans normal-case mb-6">
-                                    {t('septiembre.introText1')}
+                                    {t('agosto.introText1')}
                                 </p>
                                 <p className="text-base text-chocolate/80 leading-relaxed font-sans normal-case mb-10">
-                                    {t('septiembre.introText2')}
+                                    {t('agosto.introText2')}
                                 </p>
                                 
                                 <Button 
-                                    href="/calendario-biodinamico-septiembre-2026.pdf"
-                                    download="calendario-biodinamico-septiembre-2026.pdf"
+                                    href="/calendario-biodinamico-noviembre-2026.pdf"
+                                    download="11_CB_NOVIEMBRE-2026_LOW.pdf"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     variant="primary"
                                 >
-                                    {t('septiembre.downloadBtn')}
+                                    {t('agosto.downloadBtn')}
                                 </Button>
                             </div>
                         </div>
@@ -263,15 +262,15 @@ const CalendarioBiodinamico = () => {
                 </section>
 
                 {/* 01 · Haircare / Cabello */}
-                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden september-section-reveal">
+                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden november-section-reveal">
                     <div className="max-w-7xl mx-auto">
                         <div className="flex flex-col lg:grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
                             {/* Imagen Cabello (Derecha en PC) */}
                             <div className="w-full max-w-md mx-auto lg:max-w-none lg:order-2 order-1">
-                                <div className="double-bezel-wrapper aspect-[9/16] max-h-[620px] relative z-10 mx-auto">
+                                <div className="double-bezel-wrapper aspect-[3/4] relative z-10">
                                     <div className="w-full h-full double-bezel-inner overflow-hidden relative rounded-[2rem]">
                                         <img 
-                                            src="/images/calendario-cosmos-septiembre-cabello-pilar-palomares.webp"
+                                            src="/images/calendario-cosmos-noviembre-cabello-pilar-palomares.webp"
                                             alt={t('corte.imgAlt')}
                                             className="w-full h-full object-cover"
                                         />
@@ -292,30 +291,30 @@ const CalendarioBiodinamico = () => {
                                 {/* Listado de Fechas */}
                                 <div className="space-y-6">
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[150px] shrink-0">{t('corte.label5_19')}</span>
+                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[170px] shrink-0">{t('corte.label1_2_27_29')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('corte.d5_19')}
+                                            {t('corte.d1_2_27_29')}
                                         </p>
                                     </div>
 
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[150px] shrink-0">{t('corte.label11_15')}</span>
+                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[170px] shrink-0">{t('corte.label2_5_29_31')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('corte.d11_15')}
+                                            {t('corte.d2_5_29_31')}
                                         </p>
                                     </div>
 
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[150px] shrink-0">{t('corte.label24_25')}</span>
+                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[170px] shrink-0">{t('corte.label11_22')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('corte.d24_25')}
+                                            {t('corte.d11_22')}
                                         </p>
                                     </div>
 
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[150px] shrink-0">{t('corte.label25_28')}</span>
+                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[170px] shrink-0">{t('corte.label15_18')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('corte.d25_28')}
+                                            {t('corte.d15_18')}
                                         </p>
                                     </div>
                                 </div>
@@ -325,7 +324,7 @@ const CalendarioBiodinamico = () => {
                 </section>
 
                 {/* 02 · Coloración */}
-                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden september-section-reveal">
+                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden november-section-reveal">
                     <div className="max-w-7xl mx-auto">
                         <div className="flex flex-col lg:grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
                             {/* Contenido Color (Derecha en PC) */}
@@ -340,23 +339,23 @@ const CalendarioBiodinamico = () => {
                                 {/* Listado de Fechas */}
                                 <div className="space-y-6">
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-coral font-sans min-w-[150px] shrink-0">{t('color.label7_15_16')}</span>
+                                        <span className="text-sm font-bold text-coral font-sans min-w-[170px] shrink-0">{t('color.label12_15')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('color.d7_15_16')}
+                                            {t('color.d12_15')}
                                         </p>
                                     </div>
 
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-coral font-sans min-w-[150px] shrink-0">{t('color.label9_11')}</span>
+                                        <span className="text-sm font-bold text-coral font-sans min-w-[170px] shrink-0">{t('color.label15_18')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('color.d9_11')}
+                                            {t('color.d15_18')}
                                         </p>
                                     </div>
 
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-coral font-sans min-w-[150px] shrink-0">{t('color.label11_15')}</span>
+                                        <span className="text-sm font-bold text-coral font-sans min-w-[170px] shrink-0">{t('color.label18_20')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('color.d11_15')}
+                                            {t('color.d18_20')}
                                         </p>
                                     </div>
                                 </div>
@@ -364,10 +363,10 @@ const CalendarioBiodinamico = () => {
 
                             {/* Imagen Color (Izquierda en PC) */}
                             <div className="w-full max-w-md mx-auto lg:max-w-none">
-                                <div className="double-bezel-wrapper aspect-[9/16] max-h-[620px] relative z-10 mx-auto">
+                                <div className="double-bezel-wrapper aspect-[3/4] relative z-10">
                                     <div className="w-full h-full double-bezel-inner overflow-hidden relative rounded-[2rem]">
                                         <img 
-                                            src="/images/calendario-cosmos-septiembre-color-pilar-palomares.webp"
+                                            src="/images/calendario-cosmos-noviembre-color-pilar-palomares.webp"
                                             alt={t('color.imgAlt')}
                                             className="w-full h-full object-cover"
                                         />
@@ -380,15 +379,15 @@ const CalendarioBiodinamico = () => {
                 </section>
 
                 {/* 03 · Piel / Depilación */}
-                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden september-section-reveal">
+                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden november-section-reveal">
                     <div className="max-w-7xl mx-auto">
                         <div className="flex flex-col lg:grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
                             {/* Imagen Piel (Derecha en PC) */}
                             <div className="w-full max-w-md mx-auto lg:max-w-none lg:order-2 order-1">
-                                <div className="double-bezel-wrapper aspect-[9/16] max-h-[620px] relative z-10 mx-auto">
+                                <div className="double-bezel-wrapper aspect-[3/4] relative z-10">
                                     <div className="w-full h-full double-bezel-inner overflow-hidden relative rounded-[2rem]">
                                         <img 
-                                            src="/images/calendario-cosmos-septiembre-piel-pilar-palomares.webp"
+                                            src="/images/calendario-cosmos-noviembre-piel-pilar-palomares.webp"
                                             alt={t('depil.imgAlt')}
                                             className="w-full h-full object-cover"
                                         />
@@ -409,16 +408,9 @@ const CalendarioBiodinamico = () => {
                                 {/* Listado de Fechas */}
                                 <div className="space-y-6">
                                     <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[150px] shrink-0">{t('depil.label7')}</span>
+                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[170px] shrink-0">{t('depil.label18_20')}</span>
                                         <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('depil.d7')}
-                                        </p>
-                                    </div>
-
-                                    <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
-                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[150px] shrink-0">{t('depil.label15_16')}</span>
-                                        <p className="text-base text-chocolate/80 normal-case leading-relaxed">
-                                            {t('depil.d15_16')}
+                                            {t('depil.d18_20')}
                                         </p>
                                     </div>
                                 </div>
@@ -427,31 +419,57 @@ const CalendarioBiodinamico = () => {
                     </div>
                 </section>
 
-                {/* ═══════════════ CTA FINAL: RESERVA Y ASESORAMIENTO ═══════════════ */}
-                <section className="py-20 px-6 lg:px-20 bg-sand/30 border-t border-chocolate/5 relative overflow-hidden september-section-reveal">
-                    <div className="max-w-4xl mx-auto text-center relative z-10">
-                        <span className="eyebrow-badge mb-4 inline-block">{t('cta.eyebrow')}</span>
-                        <h3 className="text-3xl sm:text-4xl md:text-5xl font-serif leading-[1.15] uppercase text-chocolate mb-6">
-                            {t('cta.title1')} <span className="text-accent-aqua">{t('cta.title2')}</span>
-                        </h3>
-                        <p className="text-base sm:text-lg text-chocolate/80 leading-relaxed font-sans normal-case mb-10 max-w-2xl mx-auto">
-                            {t('cta.desc')}
-                        </p>
-                        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Button 
-                                to="/reserva"
-                                variant="primary"
-                            >
-                                {t('cta.btnBooking')}
-                            </Button>
-                            <Button 
-                                href="https://wa.me/34642275906"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                variant="outline"
-                            >
-                                {t('cta.btnWhatsapp')}
-                            </Button>
+                {/* 04 · Tratamientos faciales y corporales */}
+                <section className="py-12 md:py-20 px-6 lg:px-20 bg-offwhite relative overflow-hidden november-section-reveal">
+                    <div className="max-w-7xl mx-auto">
+                        <div className="flex flex-col lg:grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+                            {/* Contenido Tratamientos (Izquierda en PC) */}
+                            <div className="w-full text-left">
+                                <h3 className="text-3xl sm:text-4xl md:text-5xl font-serif uppercase tracking-tight text-chocolate mb-6">
+                                    {t('treat.title1')} <br className="hidden md:block" /> <span className="text-accent-aqua">{t('treat.title2')}</span>
+                                </h3>
+                                <p className="text-base text-chocolate/80 leading-relaxed font-sans normal-case mb-10">
+                                    {t('treat.desc')}
+                                </p>
+
+                                {/* Listado de Fechas */}
+                                <div className="space-y-6">
+                                    <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
+                                        <span className="text-sm font-bold text-coral font-sans min-w-[170px] shrink-0">{t('treat.label2_15')}</span>
+                                        <p className="text-base text-chocolate/80 normal-case leading-relaxed">
+                                            {t('treat.d2_15')}
+                                        </p>
+                                    </div>
+
+                                    <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
+                                        <span className="text-sm font-bold text-coral font-sans min-w-[170px] shrink-0">{t('treat.label18_20')}</span>
+                                        <p className="text-base text-chocolate/80 normal-case leading-relaxed">
+                                            {t('treat.d18_20')}
+                                        </p>
+                                    </div>
+
+                                    <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 py-4 border-b border-chocolate/5 items-start">
+                                        <span className="text-sm font-bold text-accent-aqua font-sans min-w-[170px] shrink-0">{t('treat.label20_31')}</span>
+                                        <p className="text-base text-chocolate/80 normal-case leading-relaxed">
+                                            {t('treat.d20_31')}
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* Imagen Tratamientos (Derecha en PC) */}
+                            <div className="w-full max-w-md mx-auto lg:max-w-none">
+                                <div className="double-bezel-wrapper aspect-[3/4] relative z-10">
+                                    <div className="w-full h-full double-bezel-inner overflow-hidden relative rounded-[2rem]">
+                                        <img 
+                                            src="/images/calendario-cosmos-noviembre-completo-pilar-palomares.webp"
+                                            alt={t('treat.imgAlt')}
+                                            className="w-full h-full object-cover"
+                                        />
+                                        <div className="absolute inset-0 bg-chocolate/5"></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </section>

@@ -1,79 +1,80 @@
 {
   "seo": {
-    "title": "Mond- und biologisch-dynamischer Kalender September 2026",
-    "description": "Biologisch-dynamischer Mondkalender für die Haar- und Hautpflege im September 2026 im Salón Pilar Palomares. Entdecken Sie die besten Tage für Haarschnitt, Farbe und Haarentfernung."
+    "title": "Mond- und Biodynamischer Kalender November 2026",
+    "description": "Biodynamischer Mondkalender für Haar- und Hautpflege im November 2026 im Salón Pilar Palomares. Entdecken Sie die besten Tage für Haarschnitt, Farbe und Haarentfernung."
   },
   "hero": {
-    "eyebrow": "Einklang mit dem Universum",
+    "eyebrow": "Einklang mit dem Kosmos",
     "title1": "Kalender",
     "title2": "des Kosmos",
     "desc": "Wenn Schönheit dem Rhythmus der Natur folgt",
-    "imgAlt": "Kosmos biodynamischer Kalender: Mondrhythmen für bewusste Schönheit"
+    "imgAlt": "Biodynamischer Kosmos-Kalender: Mondrhythmen für bewusste Schönheit"
   },
   "agua": {
     "eyebrow": "Natürliche Synchronität",
-    "desc": "So wie der Mond die Gezeiten steuert, beeinflusst er auch das Wasser, das 70 % unseres Körpers ausmacht. Bei Pilar Palomares nutzen wir dieses uralte Wissen, um die Wirksamkeit jeder Bioterapie zu steigern.",
+    "desc": "So wie der Mond die Gezeiten regiert, beeinflusst er auch das Wasser, aus dem 70% unseres Organismus bestehen. Bei Pilar Palomares nutzen wir dieses Wissen zur Optimierung jeder Biotherapie.",
     "stat1": "Vitalität",
     "stat2": "Energie",
     "stat3": "Zyklen",
-    "imgAlt": "Der Rhythmus des Wassers und der Mondeinfluss: Wassernymphen unter dem Vollmond, die die kosmobiologische Verbindung darstellen",
+    "imgAlt": "Der Rhythmus des Wassers und der Einfluss des Mondes",
     "title1": "Der Rhythmus",
     "title2": "des Wassers"
   },
-  "septiembre": {
-    "eyebrow": "Zyklen und günstige Zeitfenster",
-    "introText1": "Der September lädt uns ein, im Einklang mit dem jahreszeitlichen Übergang und den Rhythmen der Natur zu leben. Ein entscheidender Moment für bewusste Pflege: Regeneration, Ausgleich und Kräftigung von Haar und Haut nach den Sommermonaten.",
-    "introText2": "Die Biodynamik erinnert uns daran, diesen Kreislauf mit Respekt zu begleiten und die Vitalität des Haares sowie das Gleichgewicht der Haut im Einklang mit den Mondphasen zu stärken.",
-    "downloadBtn": "September-Kalender herunterladen",
-    "downloadHref": "https://wa.me/34642275906?text=Hallo,%20ich%20m%C3%B6chte%20gerne%20den%20September-Kosmoskalender%20als%20PDF%20anfordern.",
-    "imgAlt1": "Kalender des Kosmos September 2026",
+  "agosto": {
+    "eyebrow": "Zyklen und günstige Phasen",
+    "introText1": "Die Natur zieht sich im November zurück und lädt uns ein, im Einklang mit ihren inneren Rhythmen zu leben. Eine Zeit für bewusste Pflege, Stärkung und Vorbereitung auf die Kälte.",
+    "introText2": "Die Biodynamik erinnert uns daran, wie wichtig es ist, diesen Rhythmus mit Respekt zu begleiten, damit Haut und Haar ihr natürliches Gleichgewicht bewahren.",
+    "downloadBtn": "November-Kalender herunterladen",
+    "imgAlt1": "Kalender des Kosmos November 2026",
     "title1": "Kalender",
-    "title2": "für September 2026",
-    "introTitle1": "Der Monat des Gleichgewichts",
-    "introTitle2": "und der Erneuerung"
+    "title2": "für November 2026",
+    "introTitle1": "Der Monat der Ruhe",
+    "introTitle2": "und Pflege"
   },
   "corte": {
-    "desc": "Das Haar reagiert sensibel auf die Mondzyklen. Der September bietet sehr präzise Zeitfenster für den Haarschnitt: Spitzen versiegeln, die Haarwurzeln stärken, Locken definieren oder schnelles Wachstum anregen.",
-    "label5_19": "5. bis 19. September",
-    "d5_19": "An diesen Tagen trägt der Schnitt dazu bei, die Spitzen besser zu versiegeln.",
-    "label11_15": "11. bis 15. September",
-    "d11_15": "In dieser Phase hilft der Schnitt, die Haarpracht zu stärken und Haarausfall vorzubeugen.",
-    "label24_25": "24. bis 25. September",
-    "d24_25": "Der ideale Augenblick, um die natürliche Form Ihrer Locken zu verwöhnen und zu betonen.",
-    "label25_28": "25. bis 28. September",
-    "d25_28": "Haarschneiden an diesen Tagen begünstigt und stimuliert ein kräftiges Wachstum.",
-    "imgAlt": "Biodynamischer Haarschnitt im September 2026",
+    "desc": "Das Haar reagiert auf Mondzyklen. Der November bietet präzise Zeitfenster für den Haarschnitt: Erneuerung, Stärkung der Wurzeln, Lockenpflege oder gesundes Wachstum.",
+    "label1_2_27_29": "1.–12. und 26.–30. November",
+    "d1_2_27_29": "Günstige Zeit für den Schnitt, Haarentlastung und gesunde Spitzen.",
+    "label2_5_29_31": "5. bis 8. November",
+    "d2_5_29_31": "Empfohlen für Stärkung der Haare und Reduzierung von Haarausfall.",
+    "label11_22": "17. bis 19. November",
+    "d11_22": "Besonders geeignet für die natürliche Definition von Locken.",
+    "label15_18": "19. bis 22. November",
+    "d15_18": "Fördert das natürliche Haarwachstum und die Frische.",
+    "imgAlt": "Biodynamischer Haarschnitt im November 2026",
     "title1": "Der Moment",
-    "title2": "des Schneidens"
+    "title2": "des Schnitts"
   },
   "color": {
-    "desc": "Der Mond beeinflusst direkt, wie das Haar organische Pigmente aufnimmt und speichert. Die Wahl des richtigen Tages sorgt für maximale Leuchtkraft, Farbtiefe und Haltbarkeit.",
-    "label7_15_16": "7., 15. und 16. September",
-    "d7_15_16": "Der perfekte Augenblick, damit die Farbe ihre volle Leuchtkraft entfaltet.",
-    "label9_11": "9. bis 11. September",
-    "d9_11": "Das Färben an diesen Tagen verstärkt die Intensität und Tiefe der Farbtöne.",
-    "label11_15": "11. bis 15. September",
-    "d11_15": "Das optimale Zeitfenster, um die Farbe zu fixieren und ihre Haltbarkeit zu verlängern.",
-    "imgAlt": "Biodynamisches Haarfärben im September 2026",
-    "title1": "Farbe mit",
-    "title2": "mehr Leben"
+    "desc": "Der Mond beeinflusst Farbaufnahme und Haltbarkeit. Der November bietet optimale Tage für langanhaltende und strahlende Farbergebnisse.",
+    "label12_15": "2. bis 5. November",
+    "d12_15": "Optimal für intensive Farbtöne.",
+    "label15_18": "5. bis 8. November",
+    "d15_18": "Beste Zeit für Farbfixierung und längere Haltbarkeit.",
+    "label18_20": "8.–10. und 26.–28. November",
+    "d18_20": "Tage für maximale Farbbrillanz und Leuchtkraft.",
+    "imgAlt": "Biodynamische Haarfarbe im November 2026",
+    "title1": "Farbe voller",
+    "title2": "Lebendigkeit"
   },
   "depil": {
-    "desc": "Der absteigende Mond begleitet die Enthaarungsprozesse: Er hilft, die Abstände zu vergrößern, verlangsamt den Haarwuchs und schont die Geschmeidigkeit der Haut.",
-    "label7": "7. September",
-    "d7": "Absteigender Mond: idealer Tag zur Enthaarung, der das Nachwachsen verlangsamt.",
-    "label15_16": "15. bis 16. September",
-    "d15_16": "Optimale Phase für Gesichts- und Körperhaarentfernung mit langanhaltend glattem Hautgefühl.",
-    "imgAlt": "Hautpflege und biodynamische Haarentfernung im September 2026",
-    "title1": "Bewusste",
-    "title2": "Haarentfernung"
+    "desc": "Der absteigende Mond verlangsamt das Haarwachstum und hält die Haut länger glatt und geschmeidig.",
+    "label18_20": "8.–10. und 26.–28. November",
+    "d18_20": "Besonders günstige Phase für die Epilation, um das Haarwachstum zu verzögern.",
+    "imgAlt": "Hautpflege und Epilation im November 2026",
+    "title1": "Sanfte",
+    "title2": "Epilation"
   },
-  "cta": {
-    "eyebrow": "Termin Sichern",
-    "title1": "Möchten Sie Ihren nächsten",
-    "title2": "Pflege-Moment abstimmen?",
-    "desc": "Buchen Sie Ihren Termin im Salón Pilar Palomares an den günstigsten Mondtagen oder sprechen Sie mit uns über Ihre persönliche Biotherapie.",
-    "btnBooking": "Online Termin Buchen",
-    "btnWhatsapp": "Per WhatsApp Anfragen"
+  "treat": {
+    "desc": "Haut und Körper profitieren von kosmischen Rhythmen für optimale Wirkstoffaufnahme und Festigung.",
+    "label2_15": "1.–12. und 26.–30. November",
+    "d2_15": "Aufsteigender Mond: ideal für Feuchtigkeits- und Detox-Behandlungen morgens.",
+    "label18_20": "12. bis 26. November",
+    "d18_20": "Absteigender Mond: Anti-Aging, Straffung und Entspannung abends.",
+    "label20_31": "Biodynamischer Hinweis",
+    "d20_31": "An ungünstigen Tagen (Knoten, Perigäum, Finsternisse) werden invasive Behandlungen vermieden.",
+    "imgAlt": "Gesichts- und Körperbiotherapien im November 2026",
+    "title1": "Gesichts- &",
+    "title2": "Körperrituale"
   }
 }

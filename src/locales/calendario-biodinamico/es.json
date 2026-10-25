@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "Calendario Lunar y Biodinámico Septiembre 2026",
-    "description": "Calendario biodinámico lunar para el cuidado del cabello y la piel en Septiembre 2026 en Salón Pilar Palomares. Descubre los mejores días para tu corte, color y depilación."
+    "title": "Calendario Lunar y Biodinámico Noviembre 2026",
+    "description": "Calendario biodinámico lunar para el cuidado del cabello y la piel en Noviembre 2026 en Salón Pilar Palomares. Descubre los mejores días para tu corte, color y depilación."
   },
   "hero": {
     "eyebrow": "Sintonía con el Universo",
@@ -20,60 +20,61 @@
     "title1": "El Ritmo",
     "title2": "del Agua"
   },
-  "septiembre": {
+  "agosto": {
     "eyebrow": "Ciclos y Ventanas Favorables",
-    "introText1": "Septiembre nos invita a vivir en sintonía con la transición estacional y los ritmos de la naturaleza. Es un momento clave para cuidar desde la consciencia: regenerar, equilibrar y fortalecer el cabello y la piel tras los meses estivales.",
-    "introText2": "La Biodinámica nos recuerda la importancia de acompañar este ciclo con respeto, potenciando la vitalidad de la melena y el equilibrio dérmico según las fases lunares más favorables.",
-    "downloadBtn": "Bájate el calendario de Septiembre",
-    "downloadHref": "https://wa.me/34642275906?text=Hola,%20me%20gustar%C3%ADa%20solicitar%20el%20Calendario%20del%20Cosmos%20de%20Septiembre%20en%20PDF.",
-    "imgAlt1": "Calendario del Cosmos Septiembre 2026",
+    "introText1": "La naturaleza inicia su recogida en noviembre, invitándonos a vivir en sintonía con sus ritmos interiores. Es un momento para cuidar desde la consciencia: nutrir, reforzar y preparar el cabello y la piel ante los primeros fríos.",
+    "introText2": "La Biodinámica nos recuerda la importancia de sostener este ritmo desde el respeto, acompañando la piel y el cabello para que mantengan su equilibrio, su hidratación y su capacidad de adaptación.",
+    "downloadBtn": "Bájate el calendario de Noviembre",
+    "imgAlt1": "Calendario del Cosmos Noviembre 2026",
     "title1": "Calendario",
-    "title2": "de Septiembre 2026",
-    "introTitle1": "El mes del equilibrio",
-    "introTitle2": "y la renovación"
+    "title2": "de Noviembre 2026",
+    "introTitle1": "El mes de la serenidad",
+    "introTitle2": "y la nutrición"
   },
   "corte": {
-    "desc": "El cabello responde fielmente a los ciclos lunares. Septiembre ofrece ventanas muy precisas para el corte según el resultado que busques: mantener puntas selladas, fortalecer la melena y frenar la caída, potenciar el rizo o estimular un crecimiento más rápido.",
-    "label5_19": "Del 5 al 19",
-    "d5_19": "En estas fechas, el corte contribuye a mantener las puntas más selladas.",
-    "label11_15": "Del 11 al 15",
-    "d11_15": "En este periodo, el corte contribuye a fortalecer la melena y a frenar la caída.",
-    "label24_25": "Del 24 al 25",
-    "d24_25": "El momento ideal para mimar y potenciar la forma natural de tus rizos.",
-    "label25_28": "Del 25 al 28",
-    "d25_28": "Cortar el cabello en estos días favorece y estimula su crecimiento.",
-    "imgAlt": "Corte de cabello biodinámico en Septiembre 2026",
+    "desc": "El cabello responde a los ciclos lunares. Noviembre ofrece ventanas muy precisas para el corte según el resultado que busques: favorecer la renovación, reducir la caída, potenciar el rizo o estimular un crecimiento saludable.",
+    "label1_2_27_29": "Del 1 al 12 y del 26 al 30",
+    "d1_2_27_29": "Un buen momento para cortar el cabello, favorecer su renovación y sanear las puntas.",
+    "label2_5_29_31": "Del 5 al 8",
+    "d2_5_29_31": "Periodo indicado para realizar el corte y acompañar el fortalecimiento del cabello, ayudando a reducir la caída.",
+    "label11_22": "Del 17 al 19",
+    "d11_22": "Días especialmente indicados para cuidar el rizo, potenciar su forma y favorecer una definición más natural.",
+    "label15_18": "Del 19 al 22",
+    "d15_18": "Fechas propicias para cortar el cabello y favorecer su crecimiento y renovación de forma natural.",
+    "imgAlt": "Corte de cabello biodinámico en Noviembre 2026",
     "title1": "El momento",
     "title2": "del corte"
   },
   "color": {
-    "desc": "La luna influye directamente en cómo el cabello absorbe y retiene el color. Elegir el día adecuado marca la diferencia en luminosidad, intensidad y duración. Septiembre nos brinda días idóneos para potenciar los tonos y fijar los pigmentos orgánicos.",
-    "label7_15_16": "Día 7, 15 y 16",
-    "d7_15_16": "El instante perfecto para que el color exprese toda su luminosidad.",
-    "label9_11": "Del 9 al 11",
-    "d9_11": "Aplicar el color en estos días potencia la intensidad de los tonos.",
-    "label11_15": "Del 11 al 15",
-    "d11_15": "El periodo óptimo para fijar el color y alargar su duración.",
-    "imgAlt": "Coloración capilar biodinámica en Septiembre 2026",
+    "desc": "La luna influye en cómo el cabello absorbe y retiene el color. Escoger el día adecuado marca la diferencia entre un tono que dura y uno que se desvanece. Noviembre ofrece ventanas muy concretas para trabajar la coloración con resultados óptimos.",
+    "label12_15": "Del 2 al 5",
+    "d12_15": "Un momento favorable para aplicar color y realzar la intensidad de los tonos.",
+    "label15_18": "Del 5 al 8",
+    "d15_18": "Un periodo indicado para favorecer la fijación del color y prolongar su duración.",
+    "label18_20": "Del 8 al 10 y del 26 al 28",
+    "d18_20": "Días especialmente favorables para potenciar el brillo y la luminosidad del color.",
+    "imgAlt": "Coloración capilar biodinámica en Noviembre 2026",
     "title1": "Color con",
     "title2": "más vida"
   },
   "depil": {
-    "desc": "La luna descendente acompaña los procesos de depilación, ayudando a espaciar su frecuencia y ralentizando el crecimiento del vello, cuidando a la vez la textura y suavidad de la piel.",
-    "label7": "Día 7",
-    "d7": "Luna descendente: momento ideal para depilación, ayudando a retardar el nacimiento del vello.",
-    "label15_16": "Del 15 al 16",
-    "d15_16": "Periodo óptimo para depilar y calmar la piel, prolongando la sensación de suavidad.",
-    "imgAlt": "Cuidado de la piel y depilación biodinámica en Septiembre 2026",
+    "desc": "La luna descendente favorece los procesos de depilación, ayudando a que el crecimiento del vello sea más lento y espaciado, manteniendo la piel suave, protegida y saludable.",
+    "label18_20": "Del 8 al 10 y del 26 al 28",
+    "d18_20": "Fase de luna descendente especialmente favorable para la depilación corporal, retardando el crecimiento del vello y manteniendo la piel suave.",
+    "imgAlt": "Cuidado de la piel y depilación biodinámica en Noviembre 2026",
     "title1": "Depilación",
     "title2": "consciente"
   },
-  "cta": {
-    "eyebrow": "Sintoniza tu Cita",
-    "title1": "¿Quieres sincronizar",
-    "title2": "tu próximo cuidado?",
-    "desc": "Reserva tu cita en el Salón Pilar Palomares en los días lunares más propicios o consúltanos cualquier duda sobre tu bioterapia personalizada.",
-    "btnBooking": "Reservar Cita Online",
-    "btnWhatsapp": "Consultar por WhatsApp"
+  "treat": {
+    "desc": "La piel y el cuerpo se benefician enormemente al sincronizar los cuidados con los ciclos del cosmos. Sintoniza tus rituales de cabina para potenciar la asimilación de activos, la nutrición profunda y la firmeza de los tejidos.",
+    "label2_15": "Del 1 al 12 y del 26 al 30",
+    "d2_15": "Luna ascendente: momento idóneo para tratamientos Iluminantes, Detox e Hidratación Celular Profunda (mejor por la mañana).",
+    "label18_20": "Del 12 al 26",
+    "d18_20": "Luna descendente: fase óptima para rituales Antiaging, Sensitivo, Drenante, Piernas Cansadas, Reafirmante y Busto (mejor por la tarde-noche).",
+    "label20_31": "Recomendación biodinámica",
+    "d20_31": "Es preferible no realizar tratamientos invasivos en días desfavorables (nodos lunares, perigeos, apogeos o eclipses).",
+    "imgAlt": "Tratamientos faciales y corporales biodinámicos en Noviembre 2026",
+    "title1": "Tratamientos",
+    "title2": "faciales y corporales"
   }
 }

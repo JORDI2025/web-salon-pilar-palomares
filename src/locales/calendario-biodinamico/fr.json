@@ -1,79 +1,80 @@
 {
   "seo": {
-    "title": "Calendrier Lunaire et Biodynamique Septembre 2026",
-    "description": "Calendrier biodynamique lunaire pour le soin des cheveux et de la peau en Septembre 2026 chez Salón Pilar Palomares. Découvrez les meilleurs jours pour votre coupe, couleur et épilation."
+    "title": "Calendrier Lunaire et Biodynamique Novembre 2026",
+    "description": "Calendrier biodynamique lunaire pour le soin des cheveux et de la peau en Novembre 2026 au Salón Pilar Palomares. Découvrez les meilleurs jours pour coupe, couleur et épilation."
   },
   "hero": {
-    "eyebrow": "Harmonie avec l'Univers",
+    "eyebrow": "En Harmonie avec l'Univers",
     "title1": "Calendrier",
     "title2": "du Cosmos",
     "desc": "Quand la beauté suit le rythme de la nature",
     "imgAlt": "Calendrier biodynamique du cosmos : rythmes lunaires pour la beauté consciente"
   },
   "agua": {
-    "eyebrow": "Synchronisation Naturelle",
-    "desc": "Tout comme la lune régit les marées, elle influence également l'eau qui compose 70 % de notre corps. Chez Pilar Palomares, nous utilisons ce savoir ancestral pour décupler l'efficacité de chaque biothérapie.",
+    "eyebrow": "Synchronie Naturelle",
+    "desc": "Tout comme la lune gouverne les marées, elle influence l'eau de notre corps. Chez Pilar Palomares, ce savoir ancestral renforce chaque biothérapie.",
     "stat1": "Vitalité",
     "stat2": "Énergie",
     "stat3": "Cycles",
-    "imgAlt": "Le rythme de l'eau et l'influence lunaire : nymphes d'eau sous la pleine lune, représentant la connexion cosmobiologique",
+    "imgAlt": "Le rythme de l'eau et l'influence lunaire",
     "title1": "Le Rythme",
     "title2": "de l'Eau"
   },
-  "septiembre": {
-    "eyebrow": "Cycles et Créneaux Favorables",
-    "introText1": "Septembre nous invite à vivre en harmonie avec la transition automnale et les rythmes de la nature. Un moment clé pour prendre soin en conscience : régénérer, équilibrer et fortifier les cheveux et la peau après l'été.",
-    "introText2": "La Biodynamique nous rappelle l'importance d'accompagner ce cycle avec respect, en décuplant la vitalité de la chevelure et l'équilibre cutané selon les phases lunaires les plus propices.",
-    "downloadBtn": "Télécharger le calendrier de Septembre",
-    "downloadHref": "https://wa.me/34642275906?text=Bonjour,%20je%20souhaiterais%20recevoir%20le%20Calendrier%20du%20Cosmos%20de%20Septembre%20en%20PDF.",
-    "imgAlt1": "Calendrier du Cosmos Septembre 2026",
+  "agosto": {
+    "eyebrow": "Cycles et Périodes Favorables",
+    "introText1": "La nature entame son recueillement en novembre, nous invitant à vivre en symbiose avec ses rythmes intérieurs. C'est le moment de nourrir, renforcer et protéger peau et cheveux face au froid.",
+    "introText2": "La Biodynamie nous enseigne le respect de ces cycles pour préserver équilibre, hydratation et régénération cellulaire.",
+    "downloadBtn": "Téléchargez le calendrier de Novembre",
+    "imgAlt1": "Calendrier du Cosmos Novembre 2026",
     "title1": "Calendrier",
-    "title2": "de Septembre 2026",
-    "introTitle1": "Le mois de l'équilibre",
-    "introTitle2": "et du renouveau"
+    "title2": "de Novembre 2026",
+    "introTitle1": "Le mois de la sérénité",
+    "introTitle2": "et de la nutrition"
   },
   "corte": {
-    "desc": "Les cheveux répondent fidèlement aux cycles lunaires. Septembre offre des fenêtres très précises pour la coupe selon le résultat recherché : sceller les pointes, fortifier la fibre et freiner la chute, sublimer les boucles ou stimuler la pousse.",
-    "label5_19": "Du 5 au 19 Septembre",
-    "d5_19": "À ces dates, la coupe contribue à maintenir les pointes plus scellées.",
-    "label11_15": "Du 11 au 15 Septembre",
-    "d11_15": "Durant cette période, la coupe contribue à fortifier la chevelure et à freiner la chute.",
-    "label24_25": "Du 24 au 25 Septembre",
-    "d24_25": "Le moment idéal pour choyer et sublimer la forme naturelle de vos boucles.",
-    "label25_28": "Du 25 au 28 Septembre",
-    "d25_28": "Couper les cheveux ces jours-là favorise et stimule leur pousse.",
-    "imgAlt": "Coupe de cheveux biodynamique en Septembre 2026",
+    "desc": "Les cheveux répondent aux cycles de la lune. Novembre offre des périodes précises pour couper : régénération, limitation de la chute, ressort des boucles ou croissance saine.",
+    "label1_2_27_29": "Du 1 au 12 et du 26 au 30 nov.",
+    "d1_2_27_29": "Moment propice pour couper, stimuler le renouvellement et assainir les pointes.",
+    "label2_5_29_31": "Du 5 au 8 novembre",
+    "d2_5_29_31": "Période idéale pour renforcer la fibre et réduire la chute.",
+    "label11_22": "Du 17 au 19 novembre",
+    "d11_22": "Jours parfaits pour soigner les boucles et révéler leur définition.",
+    "label15_18": "Du 19 au 22 novembre",
+    "d15_18": "Dates favorables pour encourager la repousse et la vigueur.",
+    "imgAlt": "Coupe de cheveux biodynamique en Novembre 2026",
     "title1": "Le moment",
     "title2": "de la coupe"
   },
   "color": {
-    "desc": "La lune influe directement sur la façon dont le cheveu absorbe et fixe la couleur. Choisir le bon jour fait toute la différence en éclat, intensité et tenue. Septembre offre des fenêtres optimales pour sublimer les tons et fixer les pigments botaniques.",
-    "label7_15_16": "Le 7, 15 et 16 Septembre",
-    "d7_15_16": "L'instant parfait pour que la couleur exprime toute sa luminosité.",
-    "label9_11": "Du 9 au 11 Septembre",
-    "d9_11": "Appliquer la couleur ces jours-là intensifie la profondeur des nuances.",
-    "label11_15": "Du 11 au 15 Septembre",
-    "d11_15": "La période optimale pour fixer la couleur et prolonger sa tenue.",
-    "imgAlt": "Coloration capillaire biodynamique en Septembre 2026",
-    "title1": "Couleur avec",
-    "title2": "plus de vie"
+    "desc": "La lune agit sur l'adhérence et l'éclat des pigments végétaux. Novembre offre des fenêtres idéales pour illuminer votre couleur durablement.",
+    "label12_15": "Du 2 au 5 novembre",
+    "d12_15": "Favorable pour intensifier les reflets et la profondeur de nuance.",
+    "label15_18": "Du 5 au 8 novembre",
+    "d15_18": "Période clé pour optimiser la tenue et fixer la couleur.",
+    "label18_20": "Du 8 au 10 et du 26 au 28 nov.",
+    "d18_20": "Jours d'excellence pour sublimer brillance et luminosité.",
+    "imgAlt": "Coloration végétale biodynamique en Novembre 2026",
+    "title1": "Couleur pleine",
+    "title2": "de vie"
   },
   "depil": {
-    "desc": "La lune descendante accompagne les séances d'épilation, aidant à espacer leur fréquence et ralentissant la repousse du poil, tout en préservant la douceur et l'équilibre cutané.",
-    "label7": "Le 7 Septembre",
-    "d7": "Lune descendante : journée idéale pour une épilation douce retardant la repousse.",
-    "label15_16": "Du 15 au 16 Septembre",
-    "d15_16": "Période optimale pour épiler et apaiser la peau, prolongeant la douceur.",
-    "imgAlt": "Soin de la peau et épilation biodynamique en Septembre 2026",
+    "desc": "La lune descendante ralentit la repousse du poil et prolonge la douceur de l'épiderme.",
+    "label18_20": "Du 8 au 10 et du 26 au 28 nov.",
+    "d18_20": "Épilation en lune descendante particulièrement favorable pour retarder la repousse.",
+    "imgAlt": "Soin de la peau et épilation douce en Novembre 2026",
     "title1": "Épilation",
     "title2": "consciente"
   },
-  "cta": {
-    "eyebrow": "Planifiez Votre Soin",
-    "title1": "Envie de synchroniser",
-    "title2": "votre prochain rituel ?",
-    "desc": "Réservez votre rendez-vous chez Salón Pilar Palomares aux dates lunaires les plus propices, ou consultez-nous pour toute biothérapie personnalisée.",
-    "btnBooking": "Réserver en Ligne",
-    "btnWhatsapp": "Consulter par WhatsApp"
+  "treat": {
+    "desc": "La peau et le corps s'épanouissent lorsqu'on accorde nos rituels aux constellations et aux marées cosmiques.",
+    "label2_15": "Du 1 au 12 et du 26 au 30 nov.",
+    "d2_15": "Lune montante : éclat, détox et hydratation cellulaire (le matin).",
+    "label18_20": "Du 12 au 26 novembre",
+    "d18_20": "Lune descendante : anti-âge, peaux sensibles, drainage et fermeté (le soir).",
+    "label20_31": "Conseil biodynamique",
+    "d20_31": "Éviter les soins agressifs les jours défavorables (nœuds lunaires, périgées, éclipses).",
+    "imgAlt": "Soins visage et corps biodynamiques en Novembre 2026",
+    "title1": "Soins visage",
+    "title2": "et corps"
   }
 }
